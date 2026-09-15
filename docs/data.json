@@ -1,0 +1,317 @@
+[
+  {
+    "id": "https://news.hada.io/topic?id=33733",
+    "title": "파푸아뉴기니 생각을 멈출 수 없다",
+    "link": "https://news.hada.io/topic?id=33733",
+    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+    "ts": 1789468607
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33732",
+    "title": "오프라인에서 잘 지내길 바랍니다",
+    "link": "https://news.hada.io/topic?id=33732",
+    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+    "ts": 1789466507
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=49710109",
+    "title": "Let's make quality the norm again",
+    "link": "https://www.forbrukerradet.no/short-life/",
+    "source": "Hacker News: Front Page",
+    "ts": 1789466416
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=49710015",
+    "title": "How much of F-Droid is LLM generated?",
+    "link": "https://tintotint.eu/whacky-corner/f-droid_slop/",
+    "source": "Hacker News: Front Page",
+    "ts": 1789465668
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33731",
+    "title": "Linux From Scratch, 소스 코드로 직접 만드는 Linux",
+    "link": "https://news.hada.io/topic?id=33731",
+    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+    "ts": 1789464729
+  },
+  {
+    "id": "https://lobste.rs/s/zbcua4",
+    "title": "Coreutils - rejected feature requests",
+    "link": "https://www.gnu.org/software/coreutils/rejected_requests.html",
+    "source": "Lobsters",
+    "ts": 1789463196
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33730",
+    "title": "Show GN: JetBatang NF - JetBrains Mono Nerd Font에 RIDIBatang 한글을 합친 터미널 글꼴",
+    "link": "https://news.hada.io/topic?id=33730",
+    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+    "ts": 1789460758
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=49709381",
+    "title": "Alternatives to MinIO for single-node local S3",
+    "link": "https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/",
+    "source": "Hacker News: Front Page",
+    "ts": 1789460487
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=49709129",
+    "title": "The k-server conjecture is true",
+    "link": "https://arxiv.org/abs/2609.15979",
+    "source": "Hacker News: Front Page",
+    "ts": 1789458331
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33729",
+    "title": "전 FTC 위원장 Khan, 1934년 판례 들며 “AI CEO들에게 수갑을 채워라”",
+    "link": "https://news.hada.io/topic?id=33729",
+    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+    "ts": 1789457639
+  },
+  {
+    "id": "https://lobste.rs/s/pgzlof",
+    "title": "Stalling installing",
+    "link": "https://adactio.com/journal/22757",
+    "source": "Lobsters",
+    "ts": 1789457471
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=49708774",
+    "title": "Lingo.dev (YC F24) is hiring a senior content engineer (Remote, worldwide)",
+    "link": "https://lingo.dev/en/careers/ff88132a-cb79-4d35-a6a0-a6230de7a013",
+    "source": "Hacker News: Front Page",
+    "ts": 1789455630
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33726",
+    "title": "Ubuntu 26.10, Rust 기반 coreutils로 전환 완료",
+    "link": "https://news.hada.io/topic?id=33726",
+    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+    "ts": 1789454464
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33725",
+    "title": "머릿속에 아무것도 그리지 못하는 사람들이 상상의 과학을 다시 쓰고 있다",
+    "link": "https://news.hada.io/topic?id=33725",
+    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+    "ts": 1789454284
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=49708431",
+    "title": "I can't stop thinking about Papua New Guinea",
+    "link": "https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua",
+    "source": "Hacker News: Front Page",
+    "ts": 1789452984
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33724",
+    "title": "GPT-5.6 Luna vs. GPT-6 Astra: 1.20달러 모델로 코드 리뷰를 해도 충분할까?",
+    "link": "https://news.hada.io/topic?id=33724",
+    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+    "ts": 1789447857
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33723",
+    "title": "dbt Charts - AI와 대화로 만들고 Git으로 관리하는 대시보드",
+    "link": "https://news.hada.io/topic?id=33723",
+    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+    "ts": 1789447677
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=49707627",
+    "title": "Linux from Scratch",
+    "link": "https://www.linuxfromscratch.org/",
+    "source": "Hacker News: Front Page",
+    "ts": 1789445723
+  },
+  {
+    "id": "https://lobste.rs/s/9zytkh",
+    "title": "A Nix store is three functions",
+    "link": "https://fzakaria.com/2026/09/11/a-nix-store-is-three-functions",
+    "source": "Lobsters",
+    "ts": 1789445253
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=49707473",
+    "title": "US confirms for first time it has deployed space weapons",
+    "link": "https://www.bbc.com/news/articles/ck790xg41ygro",
+    "source": "Hacker News: Front Page",
+    "ts": 1789444076
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33721",
+    "title": "Show GN: 바다거북스프 — AI와 질문을 주고받으며 푸는 추리 게임",
+    "link": "https://news.hada.io/topic?id=33721",
+    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+    "ts": 1789436440
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33720",
+    "title": "Meta가 AI 인프라의 매출 기여도를 측정한 방법",
+    "link": "https://news.hada.io/topic?id=33720",
+    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+    "ts": 1789432968
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33719",
+    "title": "Pinterest 임베딩 검색 플랫폼의 진화",
+    "link": "https://news.hada.io/topic?id=33719",
+    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+    "ts": 1789432807
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33718",
+    "title": "Show HN: Neobrutalism.dev - Base UI 지원과 새 색상 테마 추가",
+    "link": "https://news.hada.io/topic?id=33718",
+    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+    "ts": 1789432759
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33717",
+    "title": "내 전자책 리더의 줄무늬를 없앤 과정",
+    "link": "https://news.hada.io/topic?id=33717",
+    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+    "ts": 1789432579
+  },
+  {
+    "id": "https://news.hada.io/topic?id=33716",
+    "title": "pg_chdb - PostgreSQL에서 ClickHouse로 외부 데이터를 조회하고 가져오는 확장",
+    "link": "https://news.hada.io/topic?id=33716",
+    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+    "ts": 1789432202
+  },
+  {
+    "id": "https://lobste.rs/s/q5dgu6",
+    "title": "GDScript: The Good, Bad, and Ugly Parts",
+    "link": "https://azhdarchid.com/gdscript-good-bad-ugly/",
+    "source": "Lobsters",
+    "ts": 1789432144
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=49705442",
+    "title": "Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS",
+    "link": "https://github.com/JamesRyanATX/fcbnerd",
+    "source": "Hacker News: Front Page",
+    "ts": 1789426896
+  },
+  {
+    "id": "https://lobste.rs/s/zttri6",
+    "title": "A New Equal-Area Map for Interactive Computer Use (natively zooms to Mercator)",
+    "link": "https://www.benjoffe.com/map",
+    "source": "Lobsters",
+    "ts": 1789425437
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=49704246",
+    "title": "Charts built for Chat",
+    "link": "https://dbtcharts.com/blog/charts-built-for-chat/",
+    "source": "Hacker News: Front Page",
+    "ts": 1789420974
+  },
+  {
+    "id": "https://lobste.rs/s/qiwlzz",
+    "title": "\"Do You Still Read the Code?\"",
+    "link": "https://zanlib.dev/blog/do-you-still-read-the-code/",
+    "source": "Lobsters",
+    "ts": 1789416967
+  },
+  {
+    "id": "https://lobste.rs/s/ta2ojd",
+    "title": "A Letter from a Machine Learning Engineer",
+    "link": "https://nemin.hu/llm-letter/index.html",
+    "source": "Lobsters",
+    "ts": 1789408702
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=49701004",
+    "title": "iOS 27, iPadOS 27, and macOS 27",
+    "link": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
+    "source": "Hacker News: Front Page",
+    "ts": 1789408229
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=49700661",
+    "title": "Steam Frame starts at $1059",
+    "link": "https://store.steampowered.com/hardware/steamframe",
+    "source": "Hacker News: Front Page",
+    "ts": 1789406875
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=49700477",
+    "title": "Pion, an agent designed to run any company autonomously",
+    "link": "https://andonlabs.com/blog/why-we-built-pion",
+    "source": "Hacker News: Front Page",
+    "ts": 1789406166
+  },
+  {
+    "id": "https://lobste.rs/s/1ifr5f",
+    "title": "The contagion of fear",
+    "link": "https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/",
+    "source": "Lobsters",
+    "ts": 1789404794
+  },
+  {
+    "id": "https://lobste.rs/s/ede4z0",
+    "title": "I wish you the best in the Offline",
+    "link": "https://daverupert.com/2026/09/i-wish-you-the-best-in-the-offline/",
+    "source": "Lobsters",
+    "ts": 1789403995
+  },
+  {
+    "id": "https://lobste.rs/s/uauns9",
+    "title": "How can you not be romantic about UNIX domain sockets?",
+    "link": "https://yuvalino.com/how-can-you-not-be-romantic-about-unix-domain-sockets",
+    "source": "Lobsters",
+    "ts": 1789403232
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=49699158",
+    "title": "Distributed Systems Classics (2017)",
+    "link": "https://nvartolomei.com/dist-sys-classics/",
+    "source": "Hacker News: Front Page",
+    "ts": 1789401721
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=49698699",
+    "title": "A beginning for mathematics",
+    "link": "https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/",
+    "source": "Hacker News: Front Page",
+    "ts": 1789399987
+  },
+  {
+    "id": "https://lobste.rs/s/lbavmm",
+    "title": "What blog posts influenced your thinking the most?",
+    "link": "https://lobste.rs/s/lbavmm/what_blog_posts_influenced_your_thinking",
+    "source": "Lobsters",
+    "ts": 1789399652
+  },
+  {
+    "id": "https://lobste.rs/s/da7fcv",
+    "title": "Finished aerial maps in under 30 minutes",
+    "link": "https://blog.zm.is/finished-aerial-maps-within-30-minutes/",
+    "source": "Lobsters",
+    "ts": 1789393056
+  },
+  {
+    "id": "https://lobste.rs/s/gud12o",
+    "title": "Why Am I Still Programming",
+    "link": "https://www.youtube.com/watch?v=pOAj3mor8y8",
+    "source": "Lobsters",
+    "ts": 1789392522
+  },
+  {
+    "id": "https://lobste.rs/s/gslcz7",
+    "title": "Mergiraf: A syntax-aware git merge driver for a growing collection of programming languages and file formats",
+    "link": "https://codeberg.org/mergiraf/mergiraf",
+    "source": "Lobsters",
+    "ts": 1789384574
+  },
+  {
+    "id": "https://lobste.rs/s/agbpkq",
+    "title": "We are all Product Engineers now",
+    "link": "https://seldo.com/posts/we-are-all-product-engineers-now/",
+    "source": "Lobsters",
+    "ts": 1789383165
+  }
+]
