@@ -1,317 +1,317 @@
 [
   {
-    "id": "https://news.hada.io/topic?id=34105",
-    "title": "AI 코딩으로 병목이 된 CI, 개발 속도에 맞춰 재설계함",
-    "link": "https://news.hada.io/topic?id=34105",
-    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1790048540
-  },
-  {
-    "id": "https://news.hada.io/topic?id=34104",
-    "title": "워터마크가 아니라 스파이마크",
-    "link": "https://news.hada.io/topic?id=34104",
-    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1790048360
-  },
-  {
-    "id": "https://news.hada.io/topic?id=34101",
-    "title": "Show GN: ArtifactBench - AI 생성 음악 탐지기를 비교 평가하는 벤치마크 도구",
-    "link": "https://news.hada.io/topic?id=34101",
-    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1790047694
-  },
-  {
-    "id": "https://news.hada.io/topic?id=34100",
-    "title": "Show GN: 월급날은 멀어도 숫자는 올라간다 — 오늘 번 돈을 보여주는 rich-rich-rich",
-    "link": "https://news.hada.io/topic?id=34100",
-    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1790045471
-  },
-  {
-    "id": "https://news.hada.io/topic?id=34099",
-    "title": "Show GN: 토노 - 표정과 움직임을 보며 대화하는 AI 캐릭터 채팅",
-    "link": "https://news.hada.io/topic?id=34099",
-    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1790045208
-  },
-  {
-    "id": "https://news.hada.io/topic?id=34098",
-    "title": "Show GN: Seoul3D - 서울 지하철 16개 노선을 3D 지도 위에서 실시간으로",
-    "link": "https://news.hada.io/topic?id=34098",
-    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1790044226
-  },
-  {
-    "id": "https://news.hada.io/topic?id=34096",
-    "title": "나만의 디자인 하네스 만들기",
-    "link": "https://news.hada.io/topic?id=34096",
-    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1790039180
-  },
-  {
-    "id": "https://news.ycombinator.com/item?id=49795579",
-    "title": "Claude Status – Elevated errors for multiple models",
-    "link": "https://status.claude.com/incidents/7g1qpkyz5gxh",
+    "id": "https://news.ycombinator.com/item?id=49811429",
+    "title": "Data-Only Attacks Are Easier Than You Think",
+    "link": "https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think",
     "source": "Hacker News: Front Page",
-    "ts": 1790039119
+    "ts": 1790135368
   },
   {
-    "id": "https://news.hada.io/topic?id=34095",
-    "title": "확산 언어 모델을 만드는 방법",
-    "link": "https://news.hada.io/topic?id=34095",
-    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1790038502
-  },
-  {
-    "id": "https://news.hada.io/topic?id=34093",
-    "title": "Vercel의 AI 보안 스캐너 DeepSec 깊이 살펴보기",
-    "link": "https://news.hada.io/topic?id=34093",
-    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1790037902
-  },
-  {
-    "id": "https://news.hada.io/topic?id=34092",
-    "title": "당신이 직접 쓰지 않은 글은 읽고 싶지 않다",
-    "link": "https://news.hada.io/topic?id=34092",
-    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1790037799
-  },
-  {
-    "id": "https://news.hada.io/topic?id=34091",
-    "title": "Transformer를 시각적으로 이해하기",
-    "link": "https://news.hada.io/topic?id=34091",
-    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1790037619
-  },
-  {
-    "id": "https://news.hada.io/topic?id=34090",
-    "title": "pdfcn - React 컴포넌트로 만드는 PDF 문서",
-    "link": "https://news.hada.io/topic?id=34090",
-    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1790037002
-  },
-  {
-    "id": "https://news.hada.io/topic?id=34089",
-    "title": "카카오, 독립형 AI 서비스 ‘카나나’ 종료",
-    "link": "https://news.hada.io/topic?id=34089",
-    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1790036402
-  },
-  {
-    "id": "https://news.ycombinator.com/item?id=49795122",
-    "title": "Socrates vs. the Written Word (2011)",
-    "link": "https://wondermark.com/socrates-vs-writing/",
+    "id": "https://news.ycombinator.com/item?id=49811065",
+    "title": "Transit rewards (Waymo pays you to take the train)",
+    "link": "https://waymo.com/blog/2026/09/transit-rewards/",
     "source": "Hacker News: Front Page",
-    "ts": 1790035615
+    "ts": 1790131949
   },
   {
-    "id": "https://news.ycombinator.com/item?id=49794736",
-    "title": "Looking forward to Git 2.56 – and 3.0",
+    "id": "https://news.hada.io/topic?id=34160",
+    "title": "WordPress: 인증 없이 악용 가능한 경로 순회 취약점, 조건 충족 시 원격 코드 실행으로 이어짐",
+    "link": "https://news.hada.io/topic?id=34160",
+    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+    "ts": 1790131375
+  },
+  {
+    "id": "https://news.hada.io/topic?id=34159",
+    "title": "SAML: 잘못된 설계의 프랙털",
+    "link": "https://news.hada.io/topic?id=34159",
+    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+    "ts": 1790131195
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=49810829",
+    "title": "US criticises Australia's proposed algorithm opt-out laws as 'censorship'",
+    "link": "https://www.bbc.com/news/articles/cqj3dgy8x3vro",
+    "source": "Hacker News: Front Page",
+    "ts": 1790129632
+  },
+  {
+    "id": "https://news.hada.io/topic?id=34158",
+    "title": "Show GN: xsoft comply - 대화 원문 없이 AI 운영 기록을 AI기본법 근거자료로 남기는 SDK",
+    "link": "https://news.hada.io/topic?id=34158",
+    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+    "ts": 1790127497
+  },
+  {
+    "id": "https://news.hada.io/topic?id=34157",
+    "title": "Microsoft가 개발을 중단한 FoxPro, FoxDev Studio로 되살아나다",
+    "link": "https://news.hada.io/topic?id=34157",
+    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+    "ts": 1790127265
+  },
+  {
+    "id": "https://news.hada.io/topic?id=34155",
+    "title": "Colab이 이제 Google AI 요금제에 포함됨",
+    "link": "https://news.hada.io/topic?id=34155",
+    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+    "ts": 1790125601
+  },
+  {
+    "id": "https://news.hada.io/topic?id=34153",
+    "title": "샤오미 MiMo-V2.6-Pro, 성능과 API 비용 분석",
+    "link": "https://news.hada.io/topic?id=34153",
+    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+    "ts": 1790124052
+  },
+  {
+    "id": "https://news.hada.io/topic?id=34152",
+    "title": "Filament - 데이터베이스와 SaaS 데이터를 옮기고 동기화하는 오픈소스 도구",
+    "link": "https://news.hada.io/topic?id=34152",
+    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+    "ts": 1790124001
+  },
+  {
+    "id": "https://news.hada.io/topic?id=34151",
+    "title": "Drop - gVisor를 지원하는 루트 권한 없는 Linux 샌드박스",
+    "link": "https://news.hada.io/topic?id=34151",
+    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+    "ts": 1790123872
+  },
+  {
+    "id": "https://news.hada.io/topic?id=34150",
+    "title": "Fluree DB - 이력과 검증, 브랜치 병합을 갖춘 그래프 데이터베이스",
+    "link": "https://news.hada.io/topic?id=34150",
+    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+    "ts": 1790123402
+  },
+  {
+    "id": "https://news.hada.io/topic?id=34149",
+    "title": "Husky - MLX보다 최대 4.5배 빠른 모델 특화 추론 엔진",
+    "link": "https://news.hada.io/topic?id=34149",
+    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+    "ts": 1790122954
+  },
+  {
+    "id": "https://news.hada.io/topic?id=34148",
+    "title": "Java 클래스 파일은 왜 0xCAFEBABE로 시작할까?",
+    "link": "https://news.hada.io/topic?id=34148",
+    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+    "ts": 1790122247
+  },
+  {
+    "id": "https://news.hada.io/topic?id=34147",
+    "title": "인자를 둘러싼 논쟁",
+    "link": "https://news.hada.io/topic?id=34147",
+    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+    "ts": 1790122066
+  },
+  {
+    "id": "https://news.hada.io/topic?id=34144",
+    "title": "수학과 인공지능 자문그룹",
+    "link": "https://news.hada.io/topic?id=34144",
+    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+    "ts": 1790119983
+  },
+  {
+    "id": "https://news.hada.io/topic?id=34143",
+    "title": "“우리가 FBI를 해킹했다”, 해커 그룹이 FBI 전체 직원의 정보 탈취 주장",
+    "link": "https://news.hada.io/topic?id=34143",
+    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+    "ts": 1790116391
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=49808816",
+    "title": "The current balance of power in open models",
+    "link": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
+    "source": "Hacker News: Front Page",
+    "ts": 1790114626
+  },
+  {
+    "id": "https://lobste.rs/s/oqipmz",
+    "title": "How to talk about \"AI\" without adding to the anthropomorphization",
+    "link": "https://buttondown.com/maiht3k/archive/how-to-talk-about-ai-without-adding-to-the/",
+    "source": "Lobsters",
+    "ts": 1790113511
+  },
+  {
+    "id": "https://lobste.rs/s/acz9kk",
+    "title": "GitHub Actions leaking secrets when Miri output is cached",
+    "link": "https://blog.rust-lang.org/2026/09/21/github-actions-leaking-secrets-when-miri-output-is-cached/",
+    "source": "Lobsters",
+    "ts": 1790113082
+  },
+  {
+    "id": "https://news.hada.io/topic?id=34142",
+    "title": "Claude Opus 5.5, 추론 설정별 성능과 비용 비교",
+    "link": "https://news.hada.io/topic?id=34142",
+    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+    "ts": 1790112900
+  },
+  {
+    "id": "https://lobste.rs/s/hburvt",
+    "title": "No Sloptober",
+    "link": "https://no-sloptober.com/",
+    "source": "Lobsters",
+    "ts": 1790111194
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=49808023",
+    "title": "Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived",
+    "link": "https://foxscript.org/",
+    "source": "Hacker News: Front Page",
+    "ts": 1790110830
+  },
+  {
+    "id": "https://lobste.rs/s/itqeag",
+    "title": "Why do common Rust packages depend on C code? (2023)",
+    "link": "https://langdev.stackexchange.com/questions/3233/why-do-common-rust-packages-depend-on-c-code/3237#3237",
+    "source": "Lobsters",
+    "ts": 1790109722
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=49807021",
+    "title": "Native apps written in TypeScript and CSS",
+    "link": "https://github.com/geastack/examples",
+    "source": "Hacker News: Front Page",
+    "ts": 1790106140
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=49807003",
+    "title": "Obscura: VPN that can't log your activity",
+    "link": "https://obscura.com/#faq-technical",
+    "source": "Hacker News: Front Page",
+    "ts": 1790106028
+  },
+  {
+    "id": "https://lobste.rs/s/vvg9ue",
+    "title": "That About Wraps It Up for Stock Mac UI",
+    "link": "https://inessential.com/2026/09/22/that-about-wraps-it-up-for.html",
+    "source": "Lobsters",
+    "ts": 1790105393
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=49806430",
+    "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
+    "link": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
+    "source": "Hacker News: Front Page",
+    "ts": 1790103818
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=49806335",
+    "title": "SAML: A fractal of bad design",
+    "link": "https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/",
+    "source": "Hacker News: Front Page",
+    "ts": 1790103437
+  },
+  {
+    "id": "https://lobste.rs/s/ayyuqc",
+    "title": "Jev-powered autocorrection",
+    "link": "https://levmiseri.com/nospace",
+    "source": "Lobsters",
+    "ts": 1790103300
+  },
+  {
+    "id": "https://lobste.rs/s/wiuzrg",
+    "title": "Did OpenAI solve the wrong Navier-Stokes problem?",
+    "link": "https://www.scientificamerican.com/article/did-openai-solve-the-wrong-navier-stokes-problem/",
+    "source": "Lobsters",
+    "ts": 1790101377
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=49805748",
+    "title": "Unreal Agent",
+    "link": "https://unreallabs.ai/blog/unreal-agent/",
+    "source": "Hacker News: Front Page",
+    "ts": 1790100953
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=49805509",
+    "title": "GPT-6 Sol and Luna",
+    "link": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+    "source": "Hacker News: Front Page",
+    "ts": 1790100034
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=49805278",
+    "title": "'We hacked the FBI:' Hackers say they have data on all FBI employees",
+    "link": "https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/",
+    "source": "Hacker News: Front Page",
+    "ts": 1790099162
+  },
+  {
+    "id": "https://lobste.rs/s/ph1g2v",
+    "title": "Plain-text files are at risk",
+    "link": "https://paste.sr.ht/~awal/b76caf6f213a96a634454fa7292c035a10035b49",
+    "source": "Lobsters",
+    "ts": 1790097296
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=49804316",
+    "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
+    "link": "https://artificialanalysis.ai/models/claude-opus-5-5",
+    "source": "Hacker News: Front Page",
+    "ts": 1790095891
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=49803959",
+    "title": "WordPress: Unauthenticated path traversal leading to conditional RCE",
+    "link": "https://github.com/WordPress/wordpress-develop/security/advisories/GHSA-7hp8-65ch-5whp",
+    "source": "Hacker News: Front Page",
+    "ts": 1790094825
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=49803892",
+    "title": "Claude Opus 5.5",
+    "link": "https://www.anthropic.com/claude-opus-5-5",
+    "source": "Hacker News: Front Page",
+    "ts": 1790094545
+  },
+  {
+    "id": "https://lobste.rs/s/n4vfwm",
+    "title": "tokens too cheap to meter",
+    "link": "https://jyn.dev/tokens-too-cheap-to-meter/",
+    "source": "Lobsters",
+    "ts": 1790094525
+  },
+  {
+    "id": "https://lobste.rs/s/wx3qsm",
+    "title": "Fearless SIMD v1.0 is here",
+    "link": "https://linebender.org/blog/fearless-simd-1-0/",
+    "source": "Lobsters",
+    "ts": 1790079021
+  },
+  {
+    "id": "https://lobste.rs/s/5svlut",
+    "title": "AI Has No Wisdom and Neither Will You",
+    "link": "https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/",
+    "source": "Lobsters",
+    "ts": 1790078139
+  },
+  {
+    "id": "https://lobste.rs/s/5ybneq",
+    "title": "Raspberry Pi locks down Pi 5 RAM upgrades in firmware",
+    "link": "https://www.jeffgeerling.com/blog/2026/raspberry-pi-ram-lockdown/",
+    "source": "Lobsters",
+    "ts": 1790065219
+  },
+  {
+    "id": "https://lobste.rs/s/liey8q",
+    "title": "Looking forward to Git 2.56 - and 3.0",
     "link": "https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/",
-    "source": "Hacker News: Front Page",
-    "ts": 1790032611
-  },
-  {
-    "id": "https://news.ycombinator.com/item?id=49794615",
-    "title": "Spymarks, Not Watermarks",
-    "link": "https://brand.io/article/spymarks/",
-    "source": "Hacker News: Front Page",
-    "ts": 1790031829
-  },
-  {
-    "id": "https://news.hada.io/topic?id=34088",
-    "title": "미국, 광케이블 절단으로 동부 주요 공항 항공편 운항 중단",
-    "link": "https://news.hada.io/topic?id=34088",
-    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1790030394
-  },
-  {
-    "id": "https://news.hada.io/topic?id=34087",
-    "title": "Cloudflare Python Workers 정식 출시",
-    "link": "https://news.hada.io/topic?id=34087",
-    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1790030214
-  },
-  {
-    "id": "https://news.ycombinator.com/item?id=49794330",
-    "title": "I don't want to read what you didn't write",
-    "link": "https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/",
-    "source": "Hacker News: Front Page",
-    "ts": 1790029841
-  },
-  {
-    "id": "https://lobste.rs/s/kpegs1",
-    "title": "evocation - Call forth the blue-green flame of computation from the universe, weave its energies into a fabric, that we may share our blood with it",
-    "link": "https://code.irenes.space/evocation/tree/README.txt",
     "source": "Lobsters",
-    "ts": 1790027516
+    "ts": 1790054635
   },
   {
-    "id": "https://lobste.rs/s/xlbphk",
-    "title": "Named and Optional Arguments are Awesome",
-    "link": "https://botahamec.dev/named-optional-args",
+    "id": "https://lobste.rs/s/fdgccx",
+    "title": "Design your programming languages right (2024)",
+    "link": "https://blog.veritates.love/design-it-right",
     "source": "Lobsters",
-    "ts": 1790025413
+    "ts": 1790054475
   },
   {
-    "id": "https://news.ycombinator.com/item?id=49792730",
-    "title": "MiMo v2.6",
-    "link": "https://mimo.xiaomi.com/mimo-v2-6",
-    "source": "Hacker News: Front Page",
-    "ts": 1790021532
-  },
-  {
-    "id": "https://news.ycombinator.com/item?id=49792342",
-    "title": "Transformers Explained Visually",
-    "link": "https://poloclub.github.io/transformer-explainer/",
-    "source": "Hacker News: Front Page",
-    "ts": 1790019829
-  },
-  {
-    "id": "https://news.ycombinator.com/item?id=49792067",
-    "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
-    "link": "https://linear.app/now/ci-bottleneck-reworked",
-    "source": "Hacker News: Front Page",
-    "ts": 1790018613
-  },
-  {
-    "id": "https://news.ycombinator.com/item?id=49791997",
-    "title": "The Advisory Group on Mathematics and Artificial Intelligence",
-    "link": "https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/",
-    "source": "Hacker News: Front Page",
-    "ts": 1790018262
-  },
-  {
-    "id": "https://news.ycombinator.com/item?id=49791939",
-    "title": "NASA’s Mars Sample Return mission is dead",
-    "link": "https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead",
-    "source": "Hacker News: Front Page",
-    "ts": 1790018052
-  },
-  {
-    "id": "https://lobste.rs/s/fbo41b",
-    "title": "Attention is all you have",
-    "link": "https://alicegg.tech/2026/09/21/attention",
+    "id": "https://lobste.rs/s/bvrhgq",
+    "title": "Arguing about arguments",
+    "link": "https://steveklabnik.com/writing/arguing-about-arguments/",
     "source": "Lobsters",
-    "ts": 1790017581
-  },
-  {
-    "id": "https://news.ycombinator.com/item?id=49791720",
-    "title": "Roboharm: Do frontier robot policies refuse unsafe instructions?",
-    "link": "https://robocurve.org/roboharm/",
-    "source": "Hacker News: Front Page",
-    "ts": 1790017106
-  },
-  {
-    "id": "https://news.ycombinator.com/item?id=49791647",
-    "title": "Frontier AI on Your Own Hardware",
-    "link": "https://timdettmers.com/2026/09/21/dlab-open-source-week/",
-    "source": "Hacker News: Front Page",
-    "ts": 1790016781
-  },
-  {
-    "id": "https://news.ycombinator.com/item?id=49791378",
-    "title": "Why does mathmain need an encrypted loader?",
-    "link": "https://safedep.io/mathmain-encrypted-loader/",
-    "source": "Hacker News: Front Page",
-    "ts": 1790015624
-  },
-  {
-    "id": "https://news.ycombinator.com/item?id=49791125",
-    "title": "Apple Copland D11E4 Booting in the Browser",
-    "link": "https://www.pagetable.com/300",
-    "source": "Hacker News: Front Page",
-    "ts": 1790014532
-  },
-  {
-    "id": "https://lobste.rs/s/bcbuqk",
-    "title": "rift - a tiling window manager for macos",
-    "link": "https://github.com/acsandmann/rift/",
-    "source": "Lobsters",
-    "ts": 1790013773
-  },
-  {
-    "id": "https://lobste.rs/s/sus08k",
-    "title": "Self-Hosting Behind CGNAT",
-    "link": "https://david.alvarezrosa.com/posts/self-hosting-behind-cgnat/",
-    "source": "Lobsters",
-    "ts": 1790013208
-  },
-  {
-    "id": "https://news.ycombinator.com/item?id=49790409",
-    "title": "Turn off and restrict access to Apple Intelligence features on Mac",
-    "link": "https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac",
-    "source": "Hacker News: Front Page",
-    "ts": 1790011821
-  },
-  {
-    "id": "https://lobste.rs/s/t5fquc",
-    "title": "Relation algebra is not relational algebra",
-    "link": "https://remy.wang/blog/ra-ra.html",
-    "source": "Lobsters",
-    "ts": 1790010095
-  },
-  {
-    "id": "https://lobste.rs/s/xvkvhh",
-    "title": "Making a game for the GBA and PC from the same codebase",
-    "link": "https://mattgreer.dev/blog/making-a-game-for-gba-and-pc/",
-    "source": "Lobsters",
-    "ts": 1790006574
-  },
-  {
-    "id": "https://lobste.rs/s/jbbxgy",
-    "title": "Running an Optimal Trace",
-    "link": "https://anishathalye.com/optimal-trace/",
-    "source": "Lobsters",
-    "ts": 1790003618
-  },
-  {
-    "id": "https://lobste.rs/s/haq46t",
-    "title": "Squalk: an old-school forum engine built on Nostr (NIP-29 groups, NIP-7D threads)",
-    "link": "https://github.com/dtonon/squalk",
-    "source": "Lobsters",
-    "ts": 1790001852
-  },
-  {
-    "id": "https://lobste.rs/s/73ei6g",
-    "title": "Textbook review: Is Parallel Programming Hard, And, If So, What Can You Do About It?",
-    "link": "https://ahelwer.ca/post/2026-09-21-concurrency-textbook/",
-    "source": "Lobsters",
-    "ts": 1790000918
-  },
-  {
-    "id": "https://lobste.rs/s/xooho4",
-    "title": "Markdown in /src",
-    "link": "https://htmx.org/essays/markdown-in-src/",
-    "source": "Lobsters",
-    "ts": 1790000828
-  },
-  {
-    "id": "https://lobste.rs/s/fyngrv",
-    "title": "What are you doing this week?",
-    "link": "https://lobste.rs/s/fyngrv/what_are_you_doing_this_week",
-    "source": "Lobsters",
-    "ts": 1789993837
-  },
-  {
-    "id": "https://lobste.rs/s/34xsdg",
-    "title": "Do you use :visited on links?",
-    "link": "https://kevquirk.com/do-you-use-visited-on-links",
-    "source": "Lobsters",
-    "ts": 1789990935
-  },
-  {
-    "id": "https://lobste.rs/s/qxzjqt",
-    "title": "Creating a Blog in Gemini://",
-    "link": "https://brennan.day/creating-a-blog-in-gemini/",
-    "source": "Lobsters",
-    "ts": 1789989886
-  },
-  {
-    "id": "https://lobste.rs/s/vwl2kn",
-    "title": "What Sun got wrong",
-    "link": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
-    "source": "Lobsters",
-    "ts": 1789974879
+    "ts": 1790051352
   }
 ]
