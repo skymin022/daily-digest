@@ -1,317 +1,317 @@
 [
   {
-    "id": "https://news.hada.io/topic?id=34701",
-    "title": "Show GN: 당신이 직접 관계를 고르는 AI 컴패니언, Inanna",
-    "link": "https://news.hada.io/topic?id=34701",
+    "id": "https://news.hada.io/topic?id=34749",
+    "title": "Cloudflare에서 차세대 Git 플랫폼을 만들어주세요",
+    "link": "https://news.hada.io/topic?id=34749",
     "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1791000824
+    "ts": 1791089035
   },
   {
-    "id": "https://news.hada.io/topic?id=34700",
-    "title": "중국의 사회적 현실에 관하여",
-    "link": "https://news.hada.io/topic?id=34700",
+    "id": "https://news.hada.io/topic?id=34748",
+    "title": "로댕 박물관 3D 스캔 판결의 배신",
+    "link": "https://news.hada.io/topic?id=34748",
     "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1790998669
+    "ts": 1791088855
   },
   {
-    "id": "https://news.ycombinator.com/item?id=49941114",
-    "title": "Extra Big Ass Intelligence",
-    "link": "https://www.extrabigassintelligence.com/",
+    "id": "https://news.ycombinator.com/item?id=49950554",
+    "title": "Why don't more developers \"use the platform\"?",
+    "link": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/",
     "source": "Hacker News: Front Page",
-    "ts": 1790997550
+    "ts": 1791087047
   },
   {
-    "id": "https://news.ycombinator.com/item?id=49941091",
-    "title": "Cloudflare OHTTP gateway",
-    "link": "https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/",
-    "source": "Hacker News: Front Page",
-    "ts": 1790997305
-  },
-  {
-    "id": "https://lobste.rs/s/asoxjl",
-    "title": "gVisor is being donated to CNCF",
-    "link": "https://gvisor.dev/blog/2026/10/02/gvisor-cncf/",
-    "source": "Lobsters",
-    "ts": 1790995298
-  },
-  {
-    "id": "https://news.hada.io/topic?id=34698",
-    "title": "Redis 개발자가 만든 ds4, LLM을 로컬에서 실행",
-    "link": "https://news.hada.io/topic?id=34698",
+    "id": "https://news.hada.io/topic?id=34747",
+    "title": "EMT가 되지 않았던 이유, 순위별 정리",
+    "link": "https://news.hada.io/topic?id=34747",
     "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1790994837
+    "ts": 1791085082
   },
   {
-    "id": "https://news.hada.io/topic?id=34697",
-    "title": "Show GN: 가격 — 클립당 10원 최고의 쇼츠 편집 에이전트 쇼츠존",
-    "link": "https://news.hada.io/topic?id=34697",
+    "id": "https://news.ycombinator.com/item?id=49950052",
+    "title": "Religious scholars met with Anthropic",
+    "link": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
+    "source": "Hacker News: Front Page",
+    "ts": 1791081262
+  },
+  {
+    "id": "https://news.hada.io/topic?id=34746",
+    "title": "Bob Cringely 별세",
+    "link": "https://news.hada.io/topic?id=34746",
     "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1790993335
+    "ts": 1791081084
   },
   {
-    "id": "https://news.hada.io/topic?id=34696",
-    "title": "Show GN: OP!Amp - macOS 시스템 오디오 이퀄라이저",
-    "link": "https://news.hada.io/topic?id=34696",
+    "id": "https://news.hada.io/topic?id=34745",
+    "title": "Show GN: AutoroShopping - AI 에이전트를 위한 이커머스 구매 관리 커넥터",
+    "link": "https://news.hada.io/topic?id=34745",
     "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1790993175
+    "ts": 1791080714
   },
   {
-    "id": "https://news.ycombinator.com/item?id=49940467",
-    "title": "NTSB Preliminary Report: Prime Air 767 Runway Overrun [pdf]",
-    "link": "https://www.ntsb.gov/investigations/Documents/DCA26MA352%20Prelim.pdf",
-    "source": "Hacker News: Front Page",
-    "ts": 1790989741
-  },
-  {
-    "id": "https://news.ycombinator.com/item?id=49940394",
-    "title": "Newgrounds.com – A community of games, music, and art",
-    "link": "https://www.newgrounds.com/",
-    "source": "Hacker News: Front Page",
-    "ts": 1790988925
-  },
-  {
-    "id": "https://news.hada.io/topic?id=34694",
-    "title": "PicoMQ - S3 기반 실시간 데이터 스트림 서버",
-    "link": "https://news.hada.io/topic?id=34694",
+    "id": "https://news.hada.io/topic?id=34744",
+    "title": "거의 모든 서비스에 예산을 넘으면 멈추는 기능이 필요해질 것",
+    "link": "https://news.hada.io/topic?id=34744",
     "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1790987402
+    "ts": 1791078236
   },
   {
-    "id": "https://news.ycombinator.com/item?id=49940233",
-    "title": "Where Is the Planet",
-    "link": "http://whereistheplanet.com",
-    "source": "Hacker News: Front Page",
-    "ts": 1790987179
+    "id": "https://lobste.rs/s/dldhpw",
+    "title": "Rust's derive often implies inline",
+    "link": "https://yossarian.net/til/post/rust-s-derive-often-implies-inline/",
+    "source": "Lobsters",
+    "ts": 1791078117
   },
   {
-    "id": "https://news.ycombinator.com/item?id=49940219",
-    "title": "Things that apparently cause cancer",
-    "link": "https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer",
-    "source": "Hacker News: Front Page",
-    "ts": 1790986991
-  },
-  {
-    "id": "https://news.hada.io/topic?id=34693",
-    "title": "Waterfox 6.7.5, 내장 피드 리더 추가",
-    "link": "https://news.hada.io/topic?id=34693",
+    "id": "https://news.hada.io/topic?id=34743",
+    "title": "Valve의 Timur Kristóf가 진행한 Linux 구형 AMD GPU 개선 작업",
+    "link": "https://news.hada.io/topic?id=34743",
     "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1790986035
+    "ts": 1791078056
   },
   {
-    "id": "https://news.hada.io/topic?id=34692",
-    "title": "실제 RFC 1149 패킷이 경매에 출품됨",
-    "link": "https://news.hada.io/topic?id=34692",
+    "id": "https://news.hada.io/topic?id=34742",
+    "title": "OpenAI 안전 책임자 사임, 회사 문화가 ‘망가졌다’고 경고",
+    "link": "https://news.hada.io/topic?id=34742",
     "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1790985855
+    "ts": 1791077876
   },
   {
-    "id": "https://news.hada.io/topic?id=34690",
-    "title": "정보 대부분이 숨겨진 게임 Stratego, 이제야 AI가 벽을 넘었다",
-    "link": "https://news.hada.io/topic?id=34690",
+    "id": "https://news.ycombinator.com/item?id=49949588",
+    "title": "We're working on a new RuneScape MMO",
+    "link": "https://play.runescape.com/4",
+    "source": "Hacker News: Front Page",
+    "ts": 1791076342
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=49949438",
+    "title": "Tell HN: Bob Cringely has died",
+    "link": "https://news.ycombinator.com/item?id=49949438",
+    "source": "Hacker News: Front Page",
+    "ts": 1791075052
+  },
+  {
+    "id": "https://news.hada.io/topic?id=34741",
+    "title": "상품 바코드의 다음 단계는 QR 코드",
+    "link": "https://news.hada.io/topic?id=34741",
     "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1790985148
+    "ts": 1791074508
   },
   {
-    "id": "https://news.hada.io/topic?id=34689",
-    "title": "별과 그 주위를 도는 네 행성을 12년에 걸쳐 촬영한 망원경 연속 이미지",
-    "link": "https://news.hada.io/topic?id=34689",
+    "id": "https://news.hada.io/topic?id=34740",
+    "title": "나는 OpenAI의 조직 문화가 망가져 퇴사했다",
+    "link": "https://news.hada.io/topic?id=34740",
     "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1790984968
+    "ts": 1791074328
   },
   {
-    "id": "https://news.hada.io/topic?id=34688",
-    "title": "Zig v0.17.0",
-    "link": "https://news.hada.io/topic?id=34688",
+    "id": "https://news.hada.io/topic?id=34739",
+    "title": "CogSend - 여러 소셜 플랫폼에 글을 예약 발행하는 셀프 호스팅 도구",
+    "link": "https://news.hada.io/topic?id=34739",
     "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1790984788
+    "ts": 1791073802
   },
   {
-    "id": "https://news.hada.io/topic?id=34687",
-    "title": "세포 정체성 상실이 인간 노화를 이끈다: 새로운 논문 두 편",
-    "link": "https://news.hada.io/topic?id=34687",
+    "id": "https://news.ycombinator.com/item?id=49949235",
+    "title": "We're going to need default hard budget caps on pretty much everything",
+    "link": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
+    "source": "Hacker News: Front Page",
+    "ts": 1791073216
+  },
+  {
+    "id": "https://news.hada.io/topic?id=34738",
+    "title": "업스테이지, GPU 한 장에서 실행하는 Solar Mini 4 발표",
+    "link": "https://news.hada.io/topic?id=34738",
     "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1790980813
+    "ts": 1791072901
   },
   {
-    "id": "https://news.hada.io/topic?id=34686",
-    "title": "마이크 톰린이 12년에 걸쳐 건설한 Minecraft 도시",
-    "link": "https://news.hada.io/topic?id=34686",
+    "id": "https://news.hada.io/topic?id=34737",
+    "title": "네덜란드의 컴퓨터 박물관들(2022)",
+    "link": "https://news.hada.io/topic?id=34737",
     "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1790980632
+    "ts": 1791071239
   },
   {
-    "id": "https://lobste.rs/s/cd5gdk",
-    "title": "I got targeted: Trying to get your credentials via a git post-checkout hook",
-    "link": "https://frankwiles.com/posts/i-got-targeted/",
-    "source": "Lobsters",
-    "ts": 1790979542
-  },
-  {
-    "id": "https://lobste.rs/s/0egeug",
-    "title": "Lobsters Interview with Sjamaan",
-    "link": "https://alexalejandre.com/interviews/peter-bex/",
-    "source": "Lobsters",
-    "ts": 1790978487
-  },
-  {
-    "id": "https://news.hada.io/topic?id=34684",
-    "title": "Tiny Brutalism - 콘크리트 건축물을 자유롭게 만드는 작은 샌드박스 게임",
-    "link": "https://news.hada.io/topic?id=34684",
+    "id": "https://news.hada.io/topic?id=34736",
+    "title": "Kolibri - 기술 보고서 [PDF]",
+    "link": "https://news.hada.io/topic?id=34736",
     "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1790977014
+    "ts": 1791071059
   },
   {
-    "id": "https://news.hada.io/topic?id=34683",
-    "title": "리눅스 커널 개발자 Greg Kroah-Hartman, LLM 시대의 보안 [영상]",
-    "link": "https://news.hada.io/topic?id=34683",
+    "id": "https://news.hada.io/topic?id=34735",
+    "title": "미 연방 판사, Flock을 ‘무차별적 대규모 감시’로 규정",
+    "link": "https://news.hada.io/topic?id=34735",
     "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1790976834
+    "ts": 1791070879
   },
   {
-    "id": "https://lobste.rs/s/wcmfft",
-    "title": "Zig 0.17.0 Release Notes",
-    "link": "https://ziglang.org/download/0.17.0/release-notes.html",
+    "id": "https://lobste.rs/s/kt0yxd",
+    "title": "Why I recommend Renovate over any other dependency update tools (2024)",
+    "link": "https://www.jvt.me/posts/2024/04/12/use-renovate/",
     "source": "Lobsters",
-    "ts": 1790975441
+    "ts": 1791068092
   },
   {
-    "id": "https://news.ycombinator.com/item?id=49938616",
-    "title": "Every SaaS business will become a harness around a model",
-    "link": "https://blog.sshh.io/p/the-harness-is-the-company",
+    "id": "https://news.ycombinator.com/item?id=49948254",
+    "title": "Federal judge calls Flock 'indiscriminate mass surveillance'",
+    "link": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/",
     "source": "Hacker News: Front Page",
-    "ts": 1790975216
+    "ts": 1791065233
   },
   {
-    "id": "https://lobste.rs/s/8f5elm",
-    "title": "Keeping Futhark off the GPU",
-    "link": "https://futhark-lang.org/blog/2026-10-02-cpu_function.html",
+    "id": "https://lobste.rs/s/srduzv",
+    "title": "Why don’t more developers \"use the platform\"?",
+    "link": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/",
     "source": "Lobsters",
-    "ts": 1790972267
+    "ts": 1791063328
   },
   {
-    "id": "https://lobste.rs/s/9ipypq",
-    "title": "Updates to Full Disk Access in macOS",
-    "link": "https://developer.apple.com/news/?id=p6zjojqw",
+    "id": "https://lobste.rs/s/dqp0oc",
+    "title": "Customization: Optimizing Compiler Technology for SELF, a Dynamically-Typed Object-Oriented Programming Language (1989)",
+    "link": "https://dl.acm.org/doi/epdf/10.1145/74818.74831",
     "source": "Lobsters",
-    "ts": 1790971826
+    "ts": 1791061186
   },
   {
-    "id": "https://news.ycombinator.com/item?id=49937916",
-    "title": "Show HN: Made an open-source Lego AI generator",
-    "link": "https://github.com/anteloc/ldraw-nova",
+    "id": "https://news.ycombinator.com/item?id=49947631",
+    "title": "Reasons I didn't become an EMT, ranked",
+    "link": "https://ben.stolovitz.com/posts/reasons-not-emt-ranked/",
     "source": "Hacker News: Front Page",
-    "ts": 1790971215
+    "ts": 1791060555
   },
   {
-    "id": "https://news.ycombinator.com/item?id=49937631",
-    "title": "Updates to Full Disk Access in macOS",
-    "link": "https://developer.apple.com/news/?id=p6zjojqw",
+    "id": "https://lobste.rs/s/hk0ohb",
+    "title": "System-level ad-blocking in Android",
+    "link": "https://kevinboone.me/adblock.html",
+    "source": "Lobsters",
+    "ts": 1791060221
+  },
+  {
+    "id": "https://lobste.rs/s/hfq43j",
+    "title": "Rust, In Sickness & In Health",
+    "link": "https://www.youtube.com/watch?v=3kbPyuAtk7g",
+    "source": "Lobsters",
+    "ts": 1791059860
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=49947472",
+    "title": "Surely you have ultra-wideband radios on your bins too?",
+    "link": "https://sjg.io/writing/binrange-have-you-actually-put-the-bins-out/",
     "source": "Hacker News: Front Page",
-    "ts": 1790969821
+    "ts": 1791059264
   },
   {
-    "id": "https://news.ycombinator.com/item?id=49937504",
-    "title": "Muse Gadgets",
-    "link": "https://gadgets.muse.ai",
+    "id": "https://news.ycombinator.com/item?id=49946895",
+    "title": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux",
+    "link": "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU",
     "source": "Hacker News: Front Page",
-    "ts": 1790969214
+    "ts": 1791054888
   },
   {
-    "id": "https://news.ycombinator.com/item?id=49937276",
-    "title": "Apple Pass Designer",
-    "link": "https://developer.apple.com/pass-designer/",
+    "id": "https://news.ycombinator.com/item?id=49946393",
+    "title": "Hole Punch: Sling your spaceship around gravitational fields",
+    "link": "https://notoriousbfg.com/hole-punch/",
     "source": "Hacker News: Front Page",
-    "ts": 1790968016
+    "ts": 1791050805
   },
   {
-    "id": "https://news.ycombinator.com/item?id=49936575",
-    "title": "From the creator of Redis; run LLM locally with ds4",
-    "link": "https://dwarfstar.sh/",
+    "id": "https://news.ycombinator.com/item?id=49946355",
+    "title": "Treachery in the Rodin Museum 3D scan verdict",
+    "link": "https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict",
     "source": "Hacker News: Front Page",
-    "ts": 1790964076
+    "ts": 1791050487
   },
   {
-    "id": "https://lobste.rs/s/bghff5",
-    "title": "Driving the GDEH0154D67 e-paper display with Rust",
-    "link": "https://sgt.hootr.club/blog/driving-gdeh0154d67-with-rust/",
-    "source": "Lobsters",
-    "ts": 1790963735
-  },
-  {
-    "id": "https://news.ycombinator.com/item?id=49936398",
-    "title": "There's a new sea spider in town",
-    "link": "https://nautil.us/theres-a-new-sea-spider-in-town-1285470",
+    "id": "https://news.ycombinator.com/item?id=49945933",
+    "title": "Agents don't need memory, they need documentation",
+    "link": "https://liao.gg/blog/agents-dont-need-memory",
     "source": "Hacker News: Front Page",
-    "ts": 1790963334
+    "ts": 1791047017
   },
   {
-    "id": "https://lobste.rs/s/wevegu",
-    "title": "The Four Horsemen of Agentic Coding",
-    "link": "https://distantprovince.substack.com/p/the-four-horsemen-of-agentic-coding",
-    "source": "Lobsters",
-    "ts": 1790959716
-  },
-  {
-    "id": "https://news.ycombinator.com/item?id=49934620",
-    "title": "One month coding with GLM 5.3 Flash",
-    "link": "https://wagtail.org/blog/one-month-on-glm-53-flash/",
+    "id": "https://news.ycombinator.com/item?id=49945904",
+    "title": "RetailReady (YC W24) Is Hiring",
+    "link": "https://www.ycombinator.com/companies/retailready/jobs/bFcgIe4-implementations",
     "source": "Hacker News: Front Page",
-    "ts": 1790954955
+    "ts": 1791046812
   },
   {
-    "id": "https://lobste.rs/s/llnale",
-    "title": "SequenceHash: multihashing for the rest of us",
-    "link": "https://blog.trailofbits.com/2026/10/02/sequencehash-multihashing-for-the-rest-of-us/",
+    "id": "https://lobste.rs/s/xruas8",
+    "title": "An Update on Orion for Linux and Windows",
+    "link": "https://blog.kagi.com/update-orion-linux-windows",
     "source": "Lobsters",
-    "ts": 1790951855
+    "ts": 1791043036
   },
   {
-    "id": "https://news.ycombinator.com/item?id=49933869",
-    "title": "The Forgetful CPU (Linux on M4)",
-    "link": "https://yuka.dev/blog-2026-10-02-linux-m4.html",
+    "id": "https://news.ycombinator.com/item?id=49945352",
+    "title": "Docker has always used microVMs (well since 2016)",
+    "link": "https://dave.recoil.org/docker-has-always-used-microvms/",
     "source": "Hacker News: Front Page",
-    "ts": 1790950932
+    "ts": 1791042931
   },
   {
-    "id": "https://lobste.rs/s/wqqkws",
-    "title": "Actual RFC1149 packet being auctioned",
-    "link": "https://onlineonly.christies.com/s/fine-printed-books-manuscripts-science/carrier-pigeon-internet-protocol-150/325216",
-    "source": "Lobsters",
-    "ts": 1790950620
+    "id": "https://news.ycombinator.com/item?id=49944912",
+    "title": "FTL: A new operating system for clouds",
+    "link": "https://ftl-os.org/",
+    "source": "Hacker News: Front Page",
+    "ts": 1791039756
   },
   {
-    "id": "https://lobste.rs/s/s4wm69",
-    "title": "The forgetful CPU (Linux on M4)",
-    "link": "https://yuka.dev/blog-2026-10-02-linux-m4.html",
+    "id": "https://lobste.rs/s/elziso",
+    "title": "The Era of Software Quality, or the Era of Ostriches?",
+    "link": "https://blogs.gnome.org/mcatanzaro/2026/10/02/the-era-of-software-quality-or-the-era-of-ostriches/",
     "source": "Lobsters",
-    "ts": 1790949707
+    "ts": 1791034318
   },
   {
-    "id": "https://lobste.rs/s/6jcvdn",
-    "title": "Generic Const Args and You",
-    "link": "https://blog.rust-lang.org/inside-rust/2026/10/02/generic-const-args-and-you/",
+    "id": "https://lobste.rs/s/hlnjbj",
+    "title": "Writing the Cyclone Scheme Compiler (2017)",
+    "link": "https://justinethier.github.io/cyclone/docs/Writing-the-Cyclone-Scheme-Compiler-Revised-2017",
     "source": "Lobsters",
-    "ts": 1790932842
+    "ts": 1791033809
   },
   {
-    "id": "https://lobste.rs/s/uuu6us",
-    "title": "The hidden design compromises of Docker layers",
-    "link": "https://loige.co/hidden-design-compromises-of-docker-layers/",
+    "id": "https://lobste.rs/s/49glor",
+    "title": "Two-Stack Sliding-Window Aggregation",
+    "link": "https://orlp.net/blog/two-stack-sliding-window-aggregation/",
     "source": "Lobsters",
-    "ts": 1790929787
+    "ts": 1791031154
   },
   {
-    "id": "https://lobste.rs/s/hfmcxi",
-    "title": "What are you doing this weekend?",
-    "link": "https://lobste.rs/s/hfmcxi/what_are_you_doing_this_weekend",
+    "id": "https://lobste.rs/s/u8uvlr",
+    "title": "How to Hack Time, With C2PA",
+    "link": "https://www.da.vidbuchanan.co.uk/blog/hacking-time.html",
     "source": "Lobsters",
-    "ts": 1790929081
+    "ts": 1791028694
   },
   {
-    "id": "https://lobste.rs/s/kp2tg8",
-    "title": "Thrust vs. Steer (or: Yet Another Anecdotal Case of the Dunning-Kruger Effect)",
-    "link": "https://write.as/tmcb/thrust-vs-steer-or-yet-another-anecdotal-case-of-the-dunning-kruger-effect",
+    "id": "https://lobste.rs/s/rghh9w",
+    "title": "Security in the LLM Age",
+    "link": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
     "source": "Lobsters",
-    "ts": 1790928884
+    "ts": 1791028622
+  },
+  {
+    "id": "https://lobste.rs/s/cpf8w6",
+    "title": "Rust for CPython (Python Language Summit 2026)",
+    "link": "https://blog.python.org/2026/09/language-summit-2026-rust-for-cpython/",
+    "source": "Lobsters",
+    "ts": 1791020438
+  },
+  {
+    "id": "https://lobste.rs/s/gjlxiz",
+    "title": "Problems and solutions to the modern desktop (Make tmux the OS)",
+    "link": "https://matduggan.com/what-does-my-dream-os-ui-look-like/",
+    "source": "Lobsters",
+    "ts": 1791015447
+  },
+  {
+    "id": "https://lobste.rs/s/1rmsib",
+    "title": "The Era of Programming Languages Exploration is upon Us",
+    "link": "https://kirancodes.me/posts/log-end-of-pl.html",
+    "source": "Lobsters",
+    "ts": 1791003369
   }
 ]
