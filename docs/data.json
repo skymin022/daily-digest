@@ -1,212 +1,317 @@
 [
   {
-    "id": "https://news.hada.io/topic?id=35561",
-    "title": "저커버그의 Meta, 시위 당일 No Kings Instagram 계정 차단",
-    "link": "https://news.hada.io/topic?id=35561",
+    "id": "https://news.hada.io/topic?id=35621",
+    "title": "Show GN: 무료 AI 보안 자가진단 - 내 웹/서버 보안을 점검해 보세요.",
+    "link": "https://news.hada.io/topic?id=35621",
     "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1792290733
+    "ts": 1792383001
   },
   {
-    "id": "https://news.hada.io/topic?id=35559",
-    "title": "이스라엘 정착민들, 서안지구에서 유럽 외교 차량 공격하고 프랑스 시장 폭행",
-    "link": "https://news.hada.io/topic?id=35559",
+    "id": "https://news.hada.io/topic?id=35619",
+    "title": "ARP! 네트워크에 직접 물어보자",
+    "link": "https://news.hada.io/topic?id=35619",
     "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1792287413
+    "ts": 1792378867
   },
   {
-    "id": "https://news.hada.io/topic?id=35558",
-    "title": "Show HN: Esp32sim - 브라우저에서 ESP32 펌웨어 실행하기",
-    "link": "https://news.hada.io/topic?id=35558",
+    "id": "https://news.hada.io/topic?id=35617",
+    "title": "Show GN: RubraView - 순수 C23과 WinAPI로 만든 가벼운 Windows 이미지·만화·동영상 뷰어",
+    "link": "https://news.hada.io/topic?id=35617",
     "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1792287233
+    "ts": 1792378292
   },
   {
-    "id": "https://news.hada.io/topic?id=35557",
-    "title": "Agent Substrate - AI 에이전트를 격리하고 대기 자원을 줄이는 Kubernetes 실행 환경",
-    "link": "https://news.hada.io/topic?id=35557",
+    "id": "https://news.ycombinator.com/item?id=50147492",
+    "title": "Superlite: A Faster Alternatie to Superpowers",
+    "link": "https://contextfirst.blog/superlite-hand-an-agent-a-spec/",
+    "source": "Hacker News: Front Page",
+    "ts": 1792375276
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=50147455",
+    "title": "Footage of the Flock search that a judge ruled was uncosntitutional",
+    "link": "https://www.404media.co/watch-footage-of-the-flock-search-a-judge-ruled-unconstitutional/",
+    "source": "Hacker News: Front Page",
+    "ts": 1792374903
+  },
+  {
+    "id": "https://news.hada.io/topic?id=35615",
+    "title": "Free Pascal 컴파일러, 동적 패키지 지원 추가",
+    "link": "https://news.hada.io/topic?id=35615",
     "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1792283403
+    "ts": 1792373517
   },
   {
-    "id": "https://news.ycombinator.com/item?id=50136536",
-    "title": "NY announces game ownership bill requiring ownership rather than licensing",
-    "link": "https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends",
-    "source": "Hacker News: Front Page",
-    "ts": 1792282462
+    "id": "https://lobste.rs/s/h0eate",
+    "title": "Updates to site guidelines and AI/LLM tags",
+    "link": "https://lobste.rs/s/h0eate/updates_site_guidelines_ai_llm_tags",
+    "source": "Lobsters",
+    "ts": 1792373333
   },
   {
-    "id": "https://news.hada.io/topic?id=35555",
-    "title": "나는 일본 시민이 되었다",
-    "link": "https://news.hada.io/topic?id=35555",
+    "id": "https://news.hada.io/topic?id=35614",
+    "title": "Show GN: ALIGNS.md - 초정렬이 오기 전 내 판단 기준과 취향을 에이전트와 자가 정렬해보세요",
+    "link": "https://news.hada.io/topic?id=35614",
     "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1792279977
+    "ts": 1792372350
   },
   {
-    "id": "https://news.hada.io/topic?id=35554",
-    "title": "Around The World 게임에서 아름다운 하늘 렌더링하기",
-    "link": "https://news.hada.io/topic?id=35554",
+    "id": "https://lobste.rs/s/ogp1wf",
+    "title": "Inline rendering with document.currentScript",
+    "link": "https://leanrada.com/notes/inline-rendering-currentscript/",
+    "source": "Lobsters",
+    "ts": 1792371775
+  },
+  {
+    "id": "https://news.hada.io/topic?id=35613",
+    "title": "시니어 엔지니어처럼 소프트웨어 시스템 설계하기 - 풀코스 [동영상]",
+    "link": "https://news.hada.io/topic?id=35613",
     "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1792277004
+    "ts": 1792370817
   },
   {
-    "id": "https://news.hada.io/topic?id=35553",
-    "title": "댐 철거로 미국 북동부 전역에 물고기가 돌아오고 있음",
-    "link": "https://news.hada.io/topic?id=35553",
+    "id": "https://news.hada.io/topic?id=35612",
+    "title": "T3 Code - 여러 AI 코딩 에이전트를 PC와 휴대폰에서 관리하는 앱",
+    "link": "https://news.hada.io/topic?id=35612",
     "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1792276824
+    "ts": 1792370402
   },
   {
-    "id": "https://news.hada.io/topic?id=35552",
-    "title": "에스토니아 온라인 투표 시스템 IVXV의 소스 코드와 작동 방식",
-    "link": "https://news.hada.io/topic?id=35552",
+    "id": "https://news.hada.io/topic?id=35610",
+    "title": "개도 사람처럼 &#039;Bouba&#039;는 둥글고 &#039;Kiki&#039;는 뾰족하다고 느끼는 듯함",
+    "link": "https://news.hada.io/topic?id=35610",
     "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1792276644
+    "ts": 1792370344
   },
   {
-    "id": "https://news.hada.io/topic?id=35551",
-    "title": "Linux 7.2 개발 통계 - 기여자 2,652명으로 역대 최다, LLM 지원 패치도 증가",
-    "link": "https://news.hada.io/topic?id=35551",
+    "id": "https://news.hada.io/topic?id=35609",
+    "title": "자기 조직화 데이터 스택 - 요구에 맞춰 데이터 파이프라인을 재구성하는 설계",
+    "link": "https://news.hada.io/topic?id=35609",
     "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1792273624
+    "ts": 1792370204
   },
   {
-    "id": "https://news.hada.io/topic?id=35550",
-    "title": "9인치 달팽이",
-    "link": "https://news.hada.io/topic?id=35550",
+    "id": "https://news.hada.io/topic?id=35608",
+    "title": "AI 에이전트에게 고치라고 시켰더니 &quot;수정했습니다&quot; 라는 답만 오고 파일 md5 는 그대로였다",
+    "link": "https://news.hada.io/topic?id=35608",
     "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1792273444
+    "ts": 1792370187
   },
   {
-    "id": "https://news.hada.io/topic?id=35549",
-    "title": "Pele - Mermaid 다이어그램을 테마 적용 가능한 SVG로 렌더링하는 라이브러리",
-    "link": "https://news.hada.io/topic?id=35549",
+    "id": "https://news.hada.io/topic?id=35607",
+    "title": "수학에 뛰어들기에 지금보다 좋은 때는 없었다, 3Blue1Brown [영상]",
+    "link": "https://news.hada.io/topic?id=35607",
     "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1792273264
+    "ts": 1792370164
   },
   {
-    "id": "https://news.hada.io/topic?id=35548",
-    "title": "금, 이제 미국 최대 수출 품목이 되다",
-    "link": "https://news.hada.io/topic?id=35548",
+    "id": "https://news.hada.io/topic?id=35606",
+    "title": "일회성 샌드박스를 위한 버전 관리 파일시스템",
+    "link": "https://news.hada.io/topic?id=35606",
     "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1792273084
+    "ts": 1792370076
   },
   {
-    "id": "https://news.ycombinator.com/item?id=50135379",
-    "title": "JDK 28",
-    "link": "https://openjdk.org/projects/jdk/28/",
-    "source": "Hacker News: Front Page",
-    "ts": 1792273027
-  },
-  {
-    "id": "https://news.hada.io/topic?id=35547",
-    "title": "OpenAI, AI 에이전트의 일탈 사례 4건 추가 공개",
-    "link": "https://news.hada.io/topic?id=35547",
+    "id": "https://news.hada.io/topic?id=35605",
+    "title": "ArtCraft - 2D/3D 장면을 직접 구성하는 AI 이미지/영상 제작 도구",
+    "link": "https://news.hada.io/topic?id=35605",
     "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1792269750
+    "ts": 1792369802
   },
   {
-    "id": "https://news.hada.io/topic?id=35546",
-    "title": "RFC8950: IPv6 넥스트홉으로 IPv4 경로 광고하기",
-    "link": "https://news.hada.io/topic?id=35546",
+    "id": "https://news.hada.io/topic?id=35604",
+    "title": "Brain Sandwich - AI 작업 전후에 직접 사고하는 개발 방식",
+    "link": "https://news.hada.io/topic?id=35604",
     "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1792269570
+    "ts": 1792368344
   },
   {
-    "id": "https://news.hada.io/topic?id=35545",
-    "title": "백화된 산호, 건강한 이웃 산호에 닿으면 며칠 만에 활력 되찾아",
-    "link": "https://news.hada.io/topic?id=35545",
+    "id": "https://news.hada.io/topic?id=35603",
+    "title": "이제 그만, vibecoding 태그가 무용함을 넘어 해로워졌다",
+    "link": "https://news.hada.io/topic?id=35603",
     "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1792269390
+    "ts": 1792368163
   },
   {
-    "id": "https://news.ycombinator.com/item?id=50134617",
-    "title": "Chrome and Edge are removing XSLT: what breaks and what does not",
-    "link": "https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/",
-    "source": "Hacker News: Front Page",
-    "ts": 1792267653
+    "id": "https://lobste.rs/s/1s3dve",
+    "title": "Superoptimizing an FPU emulator",
+    "link": "https://purplesyringa.moe/blog/superoptimizing-an-fpu-emulator/",
+    "source": "Lobsters",
+    "ts": 1792367474
   },
   {
-    "id": "https://news.ycombinator.com/item?id=50133231",
-    "title": "Codex Desktop continuously generates Crashpad pending dumps",
-    "link": "https://github.com/openai/codex/issues/25921",
+    "id": "https://news.ycombinator.com/item?id=50146625",
+    "title": "William Gibson and the trademarking of cyberspace",
+    "link": "https://colo.to/cyberspace.html",
     "source": "Hacker News: Front Page",
-    "ts": 1792259108
+    "ts": 1792366677
   },
   {
-    "id": "https://news.ycombinator.com/item?id=50133150",
-    "title": "I Became a Citizen of Japan",
-    "link": "https://www.derekwessman.com/blog-1/natural",
+    "id": "https://news.ycombinator.com/item?id=50146624",
+    "title": "How Quickly Can the DoD Rebuild and Recast the Munitions Industrial Base?",
+    "link": "https://www.csis.org/analysis/how-quickly-can-dod-rebuild-and-recast-munitions-industrial-base",
     "source": "Hacker News: Front Page",
-    "ts": 1792258577
+    "ts": 1792366674
   },
   {
-    "id": "https://news.ycombinator.com/item?id=50132870",
-    "title": "Gold is now the top U.S. export",
-    "link": "https://www.numismaticnews.net/gold-now-top-u-s-export",
-    "source": "Hacker News: Front Page",
-    "ts": 1792256767
+    "id": "https://lobste.rs/s/ilul4v",
+    "title": "August in Servo: CSS Grid, text selection, and more",
+    "link": "https://servo.org/blog/2026/10/09/august-in-servo/",
+    "source": "Lobsters",
+    "ts": 1792364713
   },
   {
-    "id": "https://news.ycombinator.com/item?id=50132839",
-    "title": "Artie (YC S23) Is Hiring Enterprise AES and Senior Engineers",
-    "link": "https://www.artie.com/careers",
+    "id": "https://news.ycombinator.com/item?id=50145715",
+    "title": "Show HN: WhatsApp MCP running free on Cloudflare",
+    "link": "https://github.com/finereli/whatsapp-mcp",
     "source": "Hacker News: Front Page",
-    "ts": 1792256570
+    "ts": 1792359370
   },
   {
-    "id": "https://news.ycombinator.com/item?id=50132193",
-    "title": "Pele – Mermaid diagrams as themeable SVG",
-    "link": "https://pele.run/",
+    "id": "https://news.ycombinator.com/item?id=50145507",
+    "title": "If you don't run your own LLM proxy, how do you know whats going on?",
+    "link": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
     "source": "Hacker News: Front Page",
-    "ts": 1792252509
+    "ts": 1792357752
   },
   {
-    "id": "https://news.ycombinator.com/item?id=50131256",
-    "title": "Solar surpasses nuclear power globally for first time",
-    "link": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
-    "source": "Hacker News: Front Page",
-    "ts": 1792245661
+    "id": "https://lobste.rs/s/zytoux",
+    "title": "How Discover-Tech turned targeted ads into a pipeline for zero-click spywares",
+    "link": "https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/",
+    "source": "Lobsters",
+    "ts": 1792356902
   },
   {
-    "id": "https://news.ycombinator.com/item?id=50131213",
-    "title": "Making chicken transparent using Dorito dust",
-    "link": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
+    "id": "https://news.ycombinator.com/item?id=50145337",
+    "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+    "link": "https://arxiv.org/abs/2610.18861",
     "source": "Hacker News: Front Page",
-    "ts": 1792245328
+    "ts": 1792356494
   },
   {
-    "id": "https://news.ycombinator.com/item?id=50131189",
-    "title": "Show HN: Esp32sim – Run ESP32 firmware in the browser",
-    "link": "https://github.com/mikroverk/esp32sim",
-    "source": "Hacker News: Front Page",
-    "ts": 1792245068
+    "id": "https://lobste.rs/s/izjf9o",
+    "title": "QML for C & Zig",
+    "link": "https://gist.github.com/rcalixte/d2de5c816fc1de3970cc501b5ae9706e",
+    "source": "Lobsters",
+    "ts": 1792350604
   },
   {
-    "id": "https://news.ycombinator.com/item?id=50131006",
-    "title": "Show HN: High-quality duck audio synthesizer",
-    "link": "https://celphase.github.io/duck-pond/",
-    "source": "Hacker News: Front Page",
-    "ts": 1792243726
+    "id": "https://lobste.rs/s/brrnpm",
+    "title": "Outside the Scope of Our Support",
+    "link": "https://fireborn.mataroa.blog/blog/outside-the-scope-of-our-support/",
+    "source": "Lobsters",
+    "ts": 1792349521
   },
   {
-    "id": "https://news.ycombinator.com/item?id=50129045",
-    "title": "DeepSeek-v4.1-Flash-1017",
-    "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+    "id": "https://news.ycombinator.com/item?id=50144066",
+    "title": "Free Pascal compiler now supports dynamic packages",
+    "link": "https://www.getlazarus.org/dynamic/",
     "source": "Hacker News: Front Page",
-    "ts": 1792225285
+    "ts": 1792349284
   },
   {
-    "id": "https://news.ycombinator.com/item?id=50127979",
-    "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-    "link": "https://llmspeed.dev/",
-    "source": "Hacker News: Front Page",
-    "ts": 1792211813
+    "id": "https://lobste.rs/s/mp8qye",
+    "title": "Men in tech #YesAllMen",
+    "link": "https://media.ccc.de/v/emf2026-240-1-men-in-tech-yesallmen",
+    "source": "Lobsters",
+    "ts": 1792348501
   },
   {
-    "id": "https://news.ycombinator.com/item?id=50127586",
-    "title": "Source code of the Estonian online voting system",
-    "link": "https://github.com/valimised/ivxv",
+    "id": "https://lobste.rs/s/nbxnh7",
+    "title": "Inside the Intel 8087 chip: floating-point addition and subtraction",
+    "link": "https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html",
+    "source": "Lobsters",
+    "ts": 1792346361
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=50143536",
+    "title": "PalmOS Lemmings",
+    "link": "https://github.com/ardiri/palmos-lemmings",
     "source": "Hacker News: Front Page",
-    "ts": 1792207119
+    "ts": 1792346219
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=50143154",
+    "title": "What the heck is /pkg?",
+    "link": "https://anderegg.ca/2026/10/18/what-the-heck-is-pkg",
+    "source": "Hacker News: Front Page",
+    "ts": 1792344083
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=50142866",
+    "title": "Namecheap just seized and disabled all my domains",
+    "link": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/",
+    "source": "Hacker News: Front Page",
+    "ts": 1792342616
+  },
+  {
+    "id": "https://lobste.rs/s/wtobpt",
+    "title": "My obituary for programming",
+    "link": "https://dumbmatter.com/2026/10/programming-obituary/",
+    "source": "Lobsters",
+    "ts": 1792341876
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=50142573",
+    "title": "Someone behind the software",
+    "link": "https://karrisaarinen.com/posts/someone-behind-the-software/",
+    "source": "Hacker News: Front Page",
+    "ts": 1792341120
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=50142449",
+    "title": "The Intel 8087 chip: floating-point addition and subtraction",
+    "link": "https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html",
+    "source": "Hacker News: Front Page",
+    "ts": 1792340427
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=50141579",
+    "title": "Java sealed classes and exhaustive pattern matching",
+    "link": "https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/",
+    "source": "Hacker News: Front Page",
+    "ts": 1792334857
+  },
+  {
+    "id": "https://lobste.rs/s/np6czp",
+    "title": "High performance policy routed IPsec mesh SD-WAN",
+    "link": "https://ranet3.com/",
+    "source": "Lobsters",
+    "ts": 1792334212
+  },
+  {
+    "id": "https://lobste.rs/s/vwgrix",
+    "title": "A New Way to Think About Borrow Checking (In Reverse)",
+    "link": "https://verdagon.dev/blog/reverse-borrow-checking",
+    "source": "Lobsters",
+    "ts": 1792333756
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=50141076",
+    "title": "RepRapMicron",
+    "link": "https://github.com/VikOlliver/RepRapMicron/wiki",
+    "source": "Hacker News: Front Page",
+    "ts": 1792331328
+  },
+  {
+    "id": "https://lobste.rs/s/mmvhup",
+    "title": "ARP! Tell your network to explain itself",
+    "link": "https://benjcal.space/blog/arp-tell-your-network-to-explain-itself/",
+    "source": "Lobsters",
+    "ts": 1792327682
+  },
+  {
+    "id": "https://lobste.rs/s/ggpwfi",
+    "title": "It's enough - vibecoding tag crossed from useless to harmful",
+    "link": "https://lobste.rs/s/ggpwfi/it_s_enough_vibecoding_tag_crossed_from",
+    "source": "Lobsters",
+    "ts": 1792319711
+  },
+  {
+    "id": "https://lobste.rs/s/k5omum",
+    "title": "The Brain Sandwich",
+    "link": "https://terriblesoftware.org/2026/10/02/the-brain-sandwich/",
+    "source": "Lobsters",
+    "ts": 1792292616
   }
 ]
