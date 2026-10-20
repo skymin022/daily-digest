@@ -1,317 +1,317 @@
 [
   {
-    "id": "https://news.hada.io/topic?id=35621",
-    "title": "Show GN: 무료 AI 보안 자가진단 - 내 웹/서버 보안을 점검해 보세요.",
-    "link": "https://news.hada.io/topic?id=35621",
+    "id": "https://news.hada.io/topic?id=35684",
+    "title": "미 국방부는 얼마나 빨리 탄약 산업 기반을 재건하고 재편할 수 있을까?",
+    "link": "https://news.hada.io/topic?id=35684",
     "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1792383001
+    "ts": 1792467307
   },
   {
-    "id": "https://news.hada.io/topic?id=35619",
-    "title": "ARP! 네트워크에 직접 물어보자",
-    "link": "https://news.hada.io/topic?id=35619",
+    "id": "https://news.ycombinator.com/item?id=50160877",
+    "title": "Go will reject certificate chains containing eight distrusted SPKIs",
+    "link": "https://github.com/golang/go/issues/82345",
+    "source": "Hacker News: Front Page",
+    "ts": 1792465507
+  },
+  {
+    "id": "https://news.hada.io/topic?id=35683",
+    "title": "우크라이나, 드론으로 부상병을 처음 후송했다고 밝혀",
+    "link": "https://news.hada.io/topic?id=35683",
     "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1792378867
+    "ts": 1792463792
   },
   {
-    "id": "https://news.hada.io/topic?id=35617",
-    "title": "Show GN: RubraView - 순수 C23과 WinAPI로 만든 가벼운 Windows 이미지·만화·동영상 뷰어",
-    "link": "https://news.hada.io/topic?id=35617",
+    "id": "https://news.hada.io/topic?id=35682",
+    "title": "룰라 지지자들, Meta의 ‘선거 개입’을 규탄하며 시위",
+    "link": "https://news.hada.io/topic?id=35682",
     "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1792378292
+    "ts": 1792463611
   },
   {
-    "id": "https://news.ycombinator.com/item?id=50147492",
-    "title": "Superlite: A Faster Alternatie to Superpowers",
-    "link": "https://contextfirst.blog/superlite-hand-an-agent-a-spec/",
+    "id": "https://news.ycombinator.com/item?id=50160494",
+    "title": "OpenBSD 8.0",
+    "link": "https://www.openbsd.org/80.html",
     "source": "Hacker News: Front Page",
-    "ts": 1792375276
+    "ts": 1792462000
   },
   {
-    "id": "https://news.ycombinator.com/item?id=50147455",
-    "title": "Footage of the Flock search that a judge ruled was uncosntitutional",
-    "link": "https://www.404media.co/watch-footage-of-the-flock-search-a-judge-ruled-unconstitutional/",
-    "source": "Hacker News: Front Page",
-    "ts": 1792374903
-  },
-  {
-    "id": "https://news.hada.io/topic?id=35615",
-    "title": "Free Pascal 컴파일러, 동적 패키지 지원 추가",
-    "link": "https://news.hada.io/topic?id=35615",
+    "id": "https://news.hada.io/topic?id=35680",
+    "title": "Show GN: Nopetion – 내 서버에서 직접 운영하는 개인용 Notion 대안",
+    "link": "https://news.hada.io/topic?id=35680",
     "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1792373517
+    "ts": 1792461785
   },
   {
-    "id": "https://lobste.rs/s/h0eate",
-    "title": "Updates to site guidelines and AI/LLM tags",
-    "link": "https://lobste.rs/s/h0eate/updates_site_guidelines_ai_llm_tags",
+    "id": "https://lobste.rs/s/7qhwfi",
+    "title": "OpenBSD 8.0: released",
+    "link": "https://marc.info/?l=openbsd-announce&m=179245843570316&w=2",
     "source": "Lobsters",
-    "ts": 1792373333
+    "ts": 1792461459
   },
   {
-    "id": "https://news.hada.io/topic?id=35614",
-    "title": "Show GN: ALIGNS.md - 초정렬이 오기 전 내 판단 기준과 취향을 에이전트와 자가 정렬해보세요",
-    "link": "https://news.hada.io/topic?id=35614",
+    "id": "https://news.ycombinator.com/item?id=50160419",
+    "title": "OpenBSD 8.0: released Oct 20, 2026",
+    "link": "https://marc.info/?l=openbsd-misc&m=179245849770356&w=2",
+    "source": "Hacker News: Front Page",
+    "ts": 1792461231
+  },
+  {
+    "id": "https://lobste.rs/s/sqdhu7",
+    "title": "OpenBSD 8.0",
+    "link": "https://www.openbsd.org/80.html",
+    "source": "Lobsters",
+    "ts": 1792460760
+  },
+  {
+    "id": "https://news.hada.io/topic?id=35676",
+    "title": "Show GN: Review Inbox - 리뷰 기다리는 PR을 Claude Code 입력창 위에 띄워 주는 mod",
+    "link": "https://news.hada.io/topic?id=35676",
     "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1792372350
+    "ts": 1792459712
   },
   {
-    "id": "https://lobste.rs/s/ogp1wf",
-    "title": "Inline rendering with document.currentScript",
-    "link": "https://leanrada.com/notes/inline-rendering-currentscript/",
-    "source": "Lobsters",
-    "ts": 1792371775
+    "id": "https://news.ycombinator.com/item?id=50160135",
+    "title": "Developing Taste",
+    "link": "https://emilkowal.ski/ui/developing-taste",
+    "source": "Hacker News: Front Page",
+    "ts": 1792458723
   },
   {
-    "id": "https://news.hada.io/topic?id=35613",
-    "title": "시니어 엔지니어처럼 소프트웨어 시스템 설계하기 - 풀코스 [동영상]",
-    "link": "https://news.hada.io/topic?id=35613",
+    "id": "https://news.hada.io/topic?id=35674",
+    "title": "Show GN: Markpin – 밑줄 긋고 나면 「왜 표시했나요?」를 묻는 웹 형광펜 (로컬 Markdown, MCP 서버 공개)",
+    "link": "https://news.hada.io/topic?id=35674",
     "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1792370817
+    "ts": 1792458628
   },
   {
-    "id": "https://news.hada.io/topic?id=35612",
-    "title": "T3 Code - 여러 AI 코딩 에이전트를 PC와 휴대폰에서 관리하는 앱",
-    "link": "https://news.hada.io/topic?id=35612",
+    "id": "https://news.hada.io/topic?id=35673",
+    "title": "Ask GN: 회사에서 계속해서 늘어나는 에이전트, 어떻게 관리하나요?",
+    "link": "https://news.hada.io/topic?id=35673",
     "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1792370402
+    "ts": 1792457354
   },
   {
-    "id": "https://news.hada.io/topic?id=35610",
-    "title": "개도 사람처럼 &#039;Bouba&#039;는 둥글고 &#039;Kiki&#039;는 뾰족하다고 느끼는 듯함",
-    "link": "https://news.hada.io/topic?id=35610",
+    "id": "https://lobste.rs/s/dpjkzz",
+    "title": "Do web components have a future if nobody is writing them?",
+    "link": "https://nolanlawson.com/2026/10/19/do-web-components-have-a-future-if-nobody-is-writing-them/",
+    "source": "Lobsters",
+    "ts": 1792456878
+  },
+  {
+    "id": "https://news.hada.io/topic?id=35672",
+    "title": "Plex 취약점, 암호화폐 채굴기 설치를 위한 실제 공격에 악용 중",
+    "link": "https://news.hada.io/topic?id=35672",
     "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1792370344
+    "ts": 1792456337
   },
   {
-    "id": "https://news.hada.io/topic?id=35609",
-    "title": "자기 조직화 데이터 스택 - 요구에 맞춰 데이터 파이프라인을 재구성하는 설계",
-    "link": "https://news.hada.io/topic?id=35609",
+    "id": "https://news.hada.io/topic?id=35670",
+    "title": "Anatomy - 기술 개념을 움직이는 입체 도해로 만드는 AI 에이전트 스킬",
+    "link": "https://news.hada.io/topic?id=35670",
     "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1792370204
+    "ts": 1792456202
   },
   {
-    "id": "https://news.hada.io/topic?id=35608",
-    "title": "AI 에이전트에게 고치라고 시켰더니 &quot;수정했습니다&quot; 라는 답만 오고 파일 md5 는 그대로였다",
-    "link": "https://news.hada.io/topic?id=35608",
+    "id": "https://news.hada.io/topic?id=35667",
+    "title": "사이트 가이드라인과 AI/LLM 태그 변경",
+    "link": "https://news.hada.io/topic?id=35667",
     "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1792370187
+    "ts": 1792454617
   },
   {
-    "id": "https://news.hada.io/topic?id=35607",
-    "title": "수학에 뛰어들기에 지금보다 좋은 때는 없었다, 3Blue1Brown [영상]",
-    "link": "https://news.hada.io/topic?id=35607",
+    "id": "https://news.ycombinator.com/item?id=50159616",
+    "title": "France's supermarket fridges were vulnerable online for months",
+    "link": "https://ipinfo.io/blog/france-fridges-hack",
+    "source": "Hacker News: Front Page",
+    "ts": 1792454449
+  },
+  {
+    "id": "https://news.hada.io/topic?id=35665",
+    "title": "Microsoft 계정이 없어 RTX Spark 노트북에 Linux 설치하기",
+    "link": "https://news.hada.io/topic?id=35665",
     "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1792370164
+    "ts": 1792452778
   },
   {
-    "id": "https://news.hada.io/topic?id=35606",
-    "title": "일회성 샌드박스를 위한 버전 관리 파일시스템",
-    "link": "https://news.hada.io/topic?id=35606",
+    "id": "https://news.ycombinator.com/item?id=50159341",
+    "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+    "link": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+    "source": "Hacker News: Front Page",
+    "ts": 1792452138
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=50159245",
+    "title": "“bonsoir, Elliot”: How abliterated models can get you pwned",
+    "link": "https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned",
+    "source": "Hacker News: Front Page",
+    "ts": 1792451332
+  },
+  {
+    "id": "https://news.hada.io/topic?id=35664",
+    "title": "유럽 9월 전기차 판매 70.3% 증가, 시장 점유율 32.6%",
+    "link": "https://news.hada.io/topic?id=35664",
     "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1792370076
+    "ts": 1792449181
   },
   {
-    "id": "https://news.hada.io/topic?id=35605",
-    "title": "ArtCraft - 2D/3D 장면을 직접 구성하는 AI 이미지/영상 제작 도구",
-    "link": "https://news.hada.io/topic?id=35605",
+    "id": "https://news.ycombinator.com/item?id=50158942",
+    "title": "An ad-free Android TV",
+    "link": "https://cretezy.com/2026/ad-free-android-tv",
+    "source": "Hacker News: Front Page",
+    "ts": 1792449157
+  },
+  {
+    "id": "https://news.hada.io/topic?id=35663",
+    "title": "Show GN: VEXPLOR AAS Studio – AAS 작성·검사·설비 값 수집을 한 화면에서 하는 오픈소스",
+    "link": "https://news.hada.io/topic?id=35663",
     "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1792369802
+    "ts": 1792448652
   },
   {
-    "id": "https://news.hada.io/topic?id=35604",
-    "title": "Brain Sandwich - AI 작업 전후에 직접 사고하는 개발 방식",
-    "link": "https://news.hada.io/topic?id=35604",
+    "id": "https://news.hada.io/topic?id=35662",
+    "title": "Ask HN: AI가 작성한 코드를 이해하지 못한 채 배포하는 문제, 어떻게 대처하시나요?",
+    "link": "https://news.hada.io/topic?id=35662",
     "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1792368344
+    "ts": 1792445598
   },
   {
-    "id": "https://news.hada.io/topic?id=35603",
-    "title": "이제 그만, vibecoding 태그가 무용함을 넘어 해로워졌다",
-    "link": "https://news.hada.io/topic?id=35603",
+    "id": "https://news.ycombinator.com/item?id=50158138",
+    "title": "OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18",
+    "link": "https://bsd.network/@brynet/117407035545900963",
+    "source": "Hacker News: Front Page",
+    "ts": 1792444305
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=50158100",
+    "title": "Putting Linux on my RTX Spark laptop because I don't have a Microsoft account",
+    "link": "https://josie.lol/blog/linux-rtx-spark",
+    "source": "Hacker News: Front Page",
+    "ts": 1792444098
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=50157865",
+    "title": "One Hash Bloom Filters",
+    "link": "https://calabro.io/ohbf",
+    "source": "Hacker News: Front Page",
+    "ts": 1792443008
+  },
+  {
+    "id": "https://news.hada.io/topic?id=35661",
+    "title": "모터 하나만으로 드론을 만들었다 [영상]",
+    "link": "https://news.hada.io/topic?id=35661",
     "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1792368163
+    "ts": 1792442347
   },
   {
-    "id": "https://lobste.rs/s/1s3dve",
-    "title": "Superoptimizing an FPU emulator",
-    "link": "https://purplesyringa.moe/blog/superoptimizing-an-fpu-emulator/",
-    "source": "Lobsters",
-    "ts": 1792367474
-  },
-  {
-    "id": "https://news.ycombinator.com/item?id=50146625",
-    "title": "William Gibson and the trademarking of cyberspace",
-    "link": "https://colo.to/cyberspace.html",
+    "id": "https://news.ycombinator.com/item?id=50156744",
+    "title": "The End of Rationing",
+    "link": "https://sanketsaurav.com/writing/end-of-rationing",
     "source": "Hacker News: Front Page",
-    "ts": 1792366677
+    "ts": 1792437573
   },
   {
-    "id": "https://news.ycombinator.com/item?id=50146624",
-    "title": "How Quickly Can the DoD Rebuild and Recast the Munitions Industrial Base?",
-    "link": "https://www.csis.org/analysis/how-quickly-can-dod-rebuild-and-recast-munitions-industrial-base",
-    "source": "Hacker News: Front Page",
-    "ts": 1792366674
-  },
-  {
-    "id": "https://lobste.rs/s/ilul4v",
-    "title": "August in Servo: CSS Grid, text selection, and more",
-    "link": "https://servo.org/blog/2026/10/09/august-in-servo/",
+    "id": "https://lobste.rs/s/b36ixw",
+    "title": "In Context",
+    "link": "https://www.youtube.com/watch?v=P5eO7BNyJao",
     "source": "Lobsters",
-    "ts": 1792364713
+    "ts": 1792434348
   },
   {
-    "id": "https://news.ycombinator.com/item?id=50145715",
-    "title": "Show HN: WhatsApp MCP running free on Cloudflare",
-    "link": "https://github.com/finereli/whatsapp-mcp",
-    "source": "Hacker News: Front Page",
-    "ts": 1792359370
-  },
-  {
-    "id": "https://news.ycombinator.com/item?id=50145507",
-    "title": "If you don't run your own LLM proxy, how do you know whats going on?",
-    "link": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
-    "source": "Hacker News: Front Page",
-    "ts": 1792357752
-  },
-  {
-    "id": "https://lobste.rs/s/zytoux",
-    "title": "How Discover-Tech turned targeted ads into a pipeline for zero-click spywares",
-    "link": "https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/",
+    "id": "https://lobste.rs/s/c2ouz0",
+    "title": "2026 is an exciting year for the Rust compiler (and me)",
+    "link": "https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/",
     "source": "Lobsters",
-    "ts": 1792356902
+    "ts": 1792432361
   },
   {
-    "id": "https://news.ycombinator.com/item?id=50145337",
-    "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
-    "link": "https://arxiv.org/abs/2610.18861",
+    "id": "https://news.ycombinator.com/item?id=50155172",
+    "title": "Evidence (YC S21) Is Hiring Software Engineers",
+    "link": "https://evidence.dev/jobs",
     "source": "Hacker News: Front Page",
-    "ts": 1792356494
+    "ts": 1792430493
   },
   {
-    "id": "https://lobste.rs/s/izjf9o",
-    "title": "QML for C & Zig",
-    "link": "https://gist.github.com/rcalixte/d2de5c816fc1de3970cc501b5ae9706e",
-    "source": "Lobsters",
-    "ts": 1792350604
-  },
-  {
-    "id": "https://lobste.rs/s/brrnpm",
-    "title": "Outside the Scope of Our Support",
-    "link": "https://fireborn.mataroa.blog/blog/outside-the-scope-of-our-support/",
-    "source": "Lobsters",
-    "ts": 1792349521
-  },
-  {
-    "id": "https://news.ycombinator.com/item?id=50144066",
-    "title": "Free Pascal compiler now supports dynamic packages",
-    "link": "https://www.getlazarus.org/dynamic/",
+    "id": "https://news.ycombinator.com/item?id=50154624",
+    "title": "Android apps running native on macOS",
+    "link": "https://github.com/kksimp/Mac.apk",
     "source": "Hacker News: Front Page",
-    "ts": 1792349284
+    "ts": 1792428330
   },
   {
-    "id": "https://lobste.rs/s/mp8qye",
-    "title": "Men in tech #YesAllMen",
-    "link": "https://media.ccc.de/v/emf2026-240-1-men-in-tech-yesallmen",
+    "id": "https://lobste.rs/s/a9f6z1",
+    "title": "Making all divisions slower to fix a bug in 0.000000000000000000542% of cases",
+    "link": "https://futhark-lang.org/blog/2026-10-14-defining-division.html",
     "source": "Lobsters",
-    "ts": 1792348501
+    "ts": 1792428127
   },
   {
-    "id": "https://lobste.rs/s/nbxnh7",
-    "title": "Inside the Intel 8087 chip: floating-point addition and subtraction",
-    "link": "https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html",
-    "source": "Lobsters",
-    "ts": 1792346361
-  },
-  {
-    "id": "https://news.ycombinator.com/item?id=50143536",
-    "title": "PalmOS Lemmings",
-    "link": "https://github.com/ardiri/palmos-lemmings",
+    "id": "https://news.ycombinator.com/item?id=50154540",
+    "title": "MiniMax M3.1 Flash",
+    "link": "https://www.minimax.io/blog/minimax-m31f",
     "source": "Hacker News: Front Page",
-    "ts": 1792346219
+    "ts": 1792427949
   },
   {
-    "id": "https://news.ycombinator.com/item?id=50143154",
-    "title": "What the heck is /pkg?",
-    "link": "https://anderegg.ca/2026/10/18/what-the-heck-is-pkg",
-    "source": "Hacker News: Front Page",
-    "ts": 1792344083
-  },
-  {
-    "id": "https://news.ycombinator.com/item?id=50142866",
-    "title": "Namecheap just seized and disabled all my domains",
-    "link": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/",
-    "source": "Hacker News: Front Page",
-    "ts": 1792342616
-  },
-  {
-    "id": "https://lobste.rs/s/wtobpt",
-    "title": "My obituary for programming",
-    "link": "https://dumbmatter.com/2026/10/programming-obituary/",
+    "id": "https://lobste.rs/s/mpdk1e",
+    "title": "Finding a home amidst the wreckage",
+    "link": "https://blog.zerodogg.org/2026/10/18/finding-a-home-amidst-the-wreckage/",
     "source": "Lobsters",
-    "ts": 1792341876
+    "ts": 1792427436
   },
   {
-    "id": "https://news.ycombinator.com/item?id=50142573",
-    "title": "Someone behind the software",
-    "link": "https://karrisaarinen.com/posts/someone-behind-the-software/",
-    "source": "Hacker News: Front Page",
-    "ts": 1792341120
-  },
-  {
-    "id": "https://news.ycombinator.com/item?id=50142449",
-    "title": "The Intel 8087 chip: floating-point addition and subtraction",
-    "link": "https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html",
-    "source": "Hacker News: Front Page",
-    "ts": 1792340427
-  },
-  {
-    "id": "https://news.ycombinator.com/item?id=50141579",
-    "title": "Java sealed classes and exhaustive pattern matching",
-    "link": "https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/",
-    "source": "Hacker News: Front Page",
-    "ts": 1792334857
-  },
-  {
-    "id": "https://lobste.rs/s/np6czp",
-    "title": "High performance policy routed IPsec mesh SD-WAN",
-    "link": "https://ranet3.com/",
+    "id": "https://lobste.rs/s/mpytbn",
+    "title": "One Hash Bloom Filters",
+    "link": "https://www.calabro.io/ohbf",
     "source": "Lobsters",
-    "ts": 1792334212
+    "ts": 1792424823
   },
   {
-    "id": "https://lobste.rs/s/vwgrix",
-    "title": "A New Way to Think About Borrow Checking (In Reverse)",
-    "link": "https://verdagon.dev/blog/reverse-borrow-checking",
+    "id": "https://lobste.rs/s/gqepzd",
+    "title": "Wine ported to OpenBSD",
+    "link": "https://marc.info/?l=openbsd-ports&m=179236125692175",
     "source": "Lobsters",
-    "ts": 1792333756
+    "ts": 1792421042
   },
   {
-    "id": "https://news.ycombinator.com/item?id=50141076",
-    "title": "RepRapMicron",
-    "link": "https://github.com/VikOlliver/RepRapMicron/wiki",
-    "source": "Hacker News: Front Page",
-    "ts": 1792331328
-  },
-  {
-    "id": "https://lobste.rs/s/mmvhup",
-    "title": "ARP! Tell your network to explain itself",
-    "link": "https://benjcal.space/blog/arp-tell-your-network-to-explain-itself/",
+    "id": "https://lobste.rs/s/ygp18d",
+    "title": "Hanami, Why?: Model Citizens",
+    "link": "https://aaronmallen.me/writing/hanami-why-model-citizens",
     "source": "Lobsters",
-    "ts": 1792327682
+    "ts": 1792418588
   },
   {
-    "id": "https://lobste.rs/s/ggpwfi",
-    "title": "It's enough - vibecoding tag crossed from useless to harmful",
-    "link": "https://lobste.rs/s/ggpwfi/it_s_enough_vibecoding_tag_crossed_from",
+    "id": "https://lobste.rs/s/wtthju",
+    "title": "A5 v1.0",
+    "link": "https://a5geo.org/blog/2026/10/14/a5-v1",
     "source": "Lobsters",
-    "ts": 1792319711
+    "ts": 1792418210
   },
   {
-    "id": "https://lobste.rs/s/k5omum",
-    "title": "The Brain Sandwich",
-    "link": "https://terriblesoftware.org/2026/10/02/the-brain-sandwich/",
+    "id": "https://lobste.rs/s/p3pruv",
+    "title": "Making dns_erlang Fast: Binary Tricks for the BEAM",
+    "link": "https://blog.dnsimple.com/2026/10/making-dns-erlang-fast/",
     "source": "Lobsters",
-    "ts": 1792292616
+    "ts": 1792416418
+  },
+  {
+    "id": "https://lobste.rs/s/vyfegx",
+    "title": "What are you doing this week?",
+    "link": "https://lobste.rs/s/vyfegx/what_are_you_doing_this_week",
+    "source": "Lobsters",
+    "ts": 1792411769
+  },
+  {
+    "id": "https://lobste.rs/s/s3w7hd",
+    "title": "Tor VPN Beta: What we've learned building our own VPN for Android from scratch",
+    "link": "https://blog.torproject.org/tor-vpn-beta/",
+    "source": "Lobsters",
+    "ts": 1792398475
+  },
+  {
+    "id": "https://lobste.rs/s/8ejwsp",
+    "title": "Beginning of the Ende (a community Deno fork)",
+    "link": "https://blog.webb.page/WM-105",
+    "source": "Lobsters",
+    "ts": 1792397592
   }
 ]
