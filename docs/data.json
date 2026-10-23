@@ -1,317 +1,317 @@
 [
   {
-    "id": "https://news.hada.io/topic?id=35796",
-    "title": "iPhone Duo 리뷰 - 기대에 부응한 애플의 첫 폴더블 아이폰",
-    "link": "https://news.hada.io/topic?id=35796",
+    "id": "https://news.hada.io/topic?id=35852",
+    "title": "Docker는 이상하다",
+    "link": "https://news.hada.io/topic?id=35852",
     "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1792642202
+    "ts": 1792726431
   },
   {
-    "id": "https://news.hada.io/topic?id=35793",
-    "title": "macOS, 더 이상 모든 메뉴에 기본으로 아이콘을 넣지 않음",
-    "link": "https://news.hada.io/topic?id=35793",
+    "id": "https://news.hada.io/topic?id=35848",
+    "title": "Xbox, 이미 구매한 게임 스트리밍에 시간당 24~40센트 요구",
+    "link": "https://news.hada.io/topic?id=35848",
     "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1792640319
+    "ts": 1792719259
   },
   {
-    "id": "https://news.hada.io/topic?id=35792",
-    "title": "이 PHP 취약점은 쉽게 악용할 수 없다",
-    "link": "https://news.hada.io/topic?id=35792",
+    "id": "https://lobste.rs/s/kcyzco",
+    "title": "UUIDv7 doesn't have the properties you think it does",
+    "link": "https://alexsci.com/blog/uuidv7-is-weird/",
+    "source": "Lobsters",
+    "ts": 1792718537
+  },
+  {
+    "id": "https://news.hada.io/topic?id=35847",
+    "title": "Idealab.ai - 120만 개 이상의 창업 아이디어를 무료로 제공하는 서비스",
+    "link": "https://news.hada.io/topic?id=35847",
     "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1792640139
+    "ts": 1792717861
   },
   {
-    "id": "https://news.hada.io/topic?id=35791",
-    "title": "Show GN: php2go - php 를 golang 으로 마이그레이션하는 skills",
-    "link": "https://news.hada.io/topic?id=35791",
+    "id": "https://news.ycombinator.com/item?id=50203161",
+    "title": "The foolishness of \"natural language programming\" (1978)",
+    "link": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
+    "source": "Hacker News: Front Page",
+    "ts": 1792716721
+  },
+  {
+    "id": "https://news.hada.io/topic?id=35846",
+    "title": "지능을 전기처럼 쓰는 시대 - AI 네이티브 핸드북 2026 [407p]",
+    "link": "https://news.hada.io/topic?id=35846",
     "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1792639074
+    "ts": 1792716661
   },
   {
-    "id": "https://news.hada.io/topic?id=35790",
-    "title": "mitmproxy, --emudhra 옵션 추가",
-    "link": "https://news.hada.io/topic?id=35790",
+    "id": "https://news.hada.io/topic?id=35845",
+    "title": "모든 AI 모델이 인간에 대해 같은 ‘논쟁적’ 견해를 내놓음",
+    "link": "https://news.hada.io/topic?id=35845",
     "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1792636403
+    "ts": 1792716038
   },
   {
-    "id": "https://news.ycombinator.com/item?id=50190455",
-    "title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
-    "link": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
-    "source": "Hacker News: Front Page",
-    "ts": 1792636252
-  },
-  {
-    "id": "https://news.ycombinator.com/item?id=50190334",
-    "title": "LLM Agents Play Pokemon Showdown",
-    "link": "https://olivergrabner.com/research/pokemon/",
-    "source": "Hacker News: Front Page",
-    "ts": 1792635228
-  },
-  {
-    "id": "https://news.ycombinator.com/item?id=50190168",
-    "title": "Epic vs. Apple AU:Court Orders Alt App Stores,Sideloading and 3rd Party Payments",
-    "link": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2026/2026fca1552",
-    "source": "Hacker News: Front Page",
-    "ts": 1792633923
-  },
-  {
-    "id": "https://news.hada.io/topic?id=35789",
-    "title": "Google의 Rust 스타일 가이드",
-    "link": "https://news.hada.io/topic?id=35789",
+    "id": "https://news.hada.io/topic?id=35844",
+    "title": "Jared Kushner의 해킹된 휴대전화에서 드러난 비밀 협상과 수백만 달러 규모 거래",
+    "link": "https://news.hada.io/topic?id=35844",
     "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1792633375
+    "ts": 1792715858
   },
   {
-    "id": "https://news.hada.io/topic?id=35788",
-    "title": "PingCAP TiDB 데이터 유출",
-    "link": "https://news.hada.io/topic?id=35788",
+    "id": "https://lobste.rs/s/mucay8",
+    "title": "Please don't mess with links",
+    "link": "https://maurycyz.com/misc/real_links/",
+    "source": "Lobsters",
+    "ts": 1792715830
+  },
+  {
+    "id": "https://news.hada.io/topic?id=35843",
+    "title": "Parquet가 현대 데이터 엔지니어링을 지배하는 이유 [영상]",
+    "link": "https://news.hada.io/topic?id=35843",
     "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1792633195
+    "ts": 1792715521
   },
   {
-    "id": "https://news.hada.io/topic?id=35787",
-    "title": "Oxynote - 실시간 지표와 API 문서를 함께 관리하는 기술 위키",
-    "link": "https://news.hada.io/topic?id=35787",
+    "id": "https://news.hada.io/topic?id=35842",
+    "title": "datapitfalls - 차트뿐 아니라 데이터 분석 전 과정의 함정을 찾는 도구",
+    "link": "https://news.hada.io/topic?id=35842",
     "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1792629002
+    "ts": 1792715462
   },
   {
-    "id": "https://news.hada.io/topic?id=35785",
-    "title": "한국의 신규 AI 파생 모델 절반 가까이가 중국 Qwen 기반임",
-    "link": "https://news.hada.io/topic?id=35785",
+    "id": "https://news.hada.io/topic?id=35841",
+    "title": "Show GN: VibeTerm(바이브텀) - Claude Code·Codex 여러 개를 한 화면에서 굴리는 무료 Windows 터미널",
+    "link": "https://news.hada.io/topic?id=35841",
     "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1792627802
+    "ts": 1792714363
   },
   {
-    "id": "https://news.hada.io/topic?id=35784",
-    "title": "10월 28일 Lobsters 뉴욕 밋업",
-    "link": "https://news.hada.io/topic?id=35784",
+    "id": "https://news.hada.io/topic?id=35839",
+    "title": "Mac 부팅이 5%에서 멈추는 문제 (헤드리스 Chrome 앱 복제본 누적)",
+    "link": "https://news.hada.io/topic?id=35839",
     "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1792627475
+    "ts": 1792713952
   },
   {
-    "id": "https://news.hada.io/topic?id=35782",
-    "title": "Firefox Local Mode - 로컬 파일을 맞춤 HTTPS URL로 불러오는 개발 도구 기능",
-    "link": "https://news.hada.io/topic?id=35782",
+    "id": "https://news.hada.io/topic?id=35838",
+    "title": "macOS의 gcc 바이너리 살펴보기",
+    "link": "https://news.hada.io/topic?id=35838",
     "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1792627295
+    "ts": 1792713670
   },
   {
-    "id": "https://news.hada.io/topic?id=35781",
-    "title": "Show GN: 서버 업로드 없이 브라우저에서 음원 6트랙 분리·자동 마스터링하는 도구",
-    "link": "https://news.hada.io/topic?id=35781",
+    "id": "https://news.ycombinator.com/item?id=50202766",
+    "title": "Mapping the Northern Sky",
+    "link": "https://www.maps.com/star-map-charts-stars-and-constellations-of-northern-hemisphere/",
+    "source": "Hacker News: Front Page",
+    "ts": 1792713399
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=50202762",
+    "title": "Jank – The native Clojure dialect with seamless C++ interop",
+    "link": "https://jank-lang.org/",
+    "source": "Hacker News: Front Page",
+    "ts": 1792713396
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=50202681",
+    "title": "Docker is weird",
+    "link": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
+    "source": "Hacker News: Front Page",
+    "ts": 1792712756
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=50202671",
+    "title": "AI compute is the new oil–and needs a new market",
+    "link": "https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market",
+    "source": "Hacker News: Front Page",
+    "ts": 1792712716
+  },
+  {
+    "id": "https://news.hada.io/topic?id=35837",
+    "title": "earcut보다 빠르게: 지도 폴리곤 370만 개를 489ms에 삼각분할하기",
+    "link": "https://news.hada.io/topic?id=35837",
     "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1792627109
+    "ts": 1792712405
   },
   {
-    "id": "https://news.hada.io/topic?id=35780",
-    "title": "Show GN: Numpad - 트랙패드를 넘패드로 쓸 수 있게 만들어주는 앱",
-    "link": "https://news.hada.io/topic?id=35780",
+    "id": "https://news.hada.io/topic?id=35836",
+    "title": "독일에서 GNU Taler 운영 준비에 나서다",
+    "link": "https://news.hada.io/topic?id=35836",
     "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1792627092
+    "ts": 1792712225
   },
   {
-    "id": "https://lobste.rs/s/wno4h3",
-    "title": "Understanding Nix flakes",
-    "link": "https://lwn.net/SubscriberLink/1094226/7bb13383b169d475/",
-    "source": "Lobsters",
-    "ts": 1792626820
-  },
-  {
-    "id": "https://news.ycombinator.com/item?id=50189232",
-    "title": "mitmproxy adds --emudhra option",
-    "link": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
-    "source": "Hacker News: Front Page",
-    "ts": 1792626697
-  },
-  {
-    "id": "https://news.hada.io/topic?id=35778",
-    "title": "Railway 보안 사고 공개",
-    "link": "https://news.hada.io/topic?id=35778",
+    "id": "https://news.hada.io/topic?id=35835",
+    "title": "Cloudflare, 대한민국 ISMS 인증 취득",
+    "link": "https://news.hada.io/topic?id=35835",
     "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1792625857
+    "ts": 1792711279
   },
   {
-    "id": "https://news.hada.io/topic?id=35777",
-    "title": "GitLab 긴급 보안 패치 릴리스",
-    "link": "https://news.hada.io/topic?id=35777",
+    "id": "https://news.ycombinator.com/item?id=50202217",
+    "title": "LLMs are making formal software verification feasible at a much larger scale",
+    "link": "https://www.anthropic.com/research/formal-verification",
+    "source": "Hacker News: Front Page",
+    "ts": 1792709683
+  },
+  {
+    "id": "https://lobste.rs/s/05xrj8",
+    "title": "We have Traits at Home",
+    "link": "https://www.axelmagn.com/blog/202610-zig-traits/",
+    "source": "Lobsters",
+    "ts": 1792705930
+  },
+  {
+    "id": "https://news.hada.io/topic?id=35834",
+    "title": "Arc 브라우저와의 작별, 12월 22일 서비스 종료",
+    "link": "https://news.hada.io/topic?id=35834",
     "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1792625677
+    "ts": 1792705381
   },
   {
-    "id": "https://news.ycombinator.com/item?id=50188948",
-    "title": "There isn't an easy exploit for this PHP vulnerability",
-    "link": "https://eliastaylor.com/noexploit/",
+    "id": "https://lobste.rs/s/jgull9",
+    "title": "a hacky fucked up way to portably access errno from outside of c",
+    "link": "https://sebsite.pw/w/20260925-errno.html",
+    "source": "Lobsters",
+    "ts": 1792705324
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=50201414",
+    "title": "Railpass",
+    "link": "https://train.samismith.com/",
     "source": "Hacker News: Front Page",
-    "ts": 1792624407
+    "ts": 1792705112
   },
   {
-    "id": "https://news.ycombinator.com/item?id=50188614",
-    "title": "Postgres recovery_prefetch can cause outages",
-    "link": "https://ardentperf.com/2026/10/20/postgres-recovery_prefetch-considered-harmful-and-causing-outages/",
+    "id": "https://lobste.rs/s/xsz9sc",
+    "title": "Docker is weird",
+    "link": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
+    "source": "Lobsters",
+    "ts": 1792699762
+  },
+  {
+    "id": "https://lobste.rs/s/s0aktw",
+    "title": "Quad9 DNS Resolver to exit France",
+    "link": "https://quad9.net/news/blog/au-revoir-france/",
+    "source": "Lobsters",
+    "ts": 1792698459
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=50199389",
+    "title": "Hedra is a 3D open world game I wrote from scratch while in highschool",
+    "link": "https://github.com/maxilevi/project-hedra/tree/pre-ai",
     "source": "Hacker News: Front Page",
-    "ts": 1792621988
+    "ts": 1792694676
   },
   {
-    "id": "https://lobste.rs/s/wi4nnl",
-    "title": "Railway Security Disclosure: Wednesday October 21st",
-    "link": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
-    "source": "Lobsters",
-    "ts": 1792621871
-  },
-  {
-    "id": "https://news.ycombinator.com/item?id=50188228",
-    "title": "Security Disclosure",
-    "link": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+    "id": "https://news.ycombinator.com/item?id=50199230",
+    "title": "AI and the Enclosure of the Scientific Commons",
+    "link": "https://arxiv.org/abs/2610.27251",
     "source": "Hacker News: Front Page",
-    "ts": 1792619883
+    "ts": 1792693696
   },
   {
-    "id": "https://lobste.rs/s/pnpcso",
-    "title": "GitLab Critical Patch Release",
-    "link": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
-    "source": "Lobsters",
-    "ts": 1792615704
-  },
-  {
-    "id": "https://lobste.rs/s/9jgl3x",
-    "title": "Google's Rust Style Guide",
-    "link": "https://google.github.io/styleguide/rustguide.html",
-    "source": "Lobsters",
-    "ts": 1792609922
-  },
-  {
-    "id": "https://news.ycombinator.com/item?id=50186010",
-    "title": "Rust Style Guide",
-    "link": "https://google.github.io/styleguide/rustguide.html",
+    "id": "https://news.ycombinator.com/item?id=50198675",
+    "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+    "link": "https://github.com/NVIDIA/OpenShell",
     "source": "Hacker News: Front Page",
-    "ts": 1792609917
+    "ts": 1792691046
   },
   {
-    "id": "https://news.ycombinator.com/item?id=50185869",
-    "title": "GitLab critical patch release",
-    "link": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
+    "id": "https://lobste.rs/s/8rkyrl",
+    "title": "Objects, attributes, maps, oh my",
+    "link": "https://bernsteinbear.com/blog/object-shapes/",
+    "source": "Lobsters",
+    "ts": 1792690552
+  },
+  {
+    "id": "https://lobste.rs/s/tu5ynp",
+    "title": "Expose only share links of a private service with caddy",
+    "link": "https://dataswamp.org/~solene/2026-10-21-caddy-forward-auth-public-share-links.html",
+    "source": "Lobsters",
+    "ts": 1792686614
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=50197601",
+    "title": "A farewell to Arc browser",
+    "link": "https://arc.net/",
     "source": "Hacker News: Front Page",
-    "ts": 1792609272
+    "ts": 1792686467
   },
   {
-    "id": "https://lobste.rs/s/cquwex",
-    "title": "Flow Typing, A New Lens on Linearity",
-    "link": "https://jaredforsyth.com/posts/papers-we-love-lens-on-linearity/",
-    "source": "Lobsters",
-    "ts": 1792608842
-  },
-  {
-    "id": "https://lobste.rs/s/cdnepk",
-    "title": "Passkeys Attestation Trap",
-    "link": "https://mjtsai.com/blog/2026/10/15/passkeys-attestation-trap/",
-    "source": "Lobsters",
-    "ts": 1792606582
-  },
-  {
-    "id": "https://news.ycombinator.com/item?id=50184820",
-    "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
-    "link": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
+    "id": "https://news.ycombinator.com/item?id=50197404",
+    "title": "Getting ready to operate GNU Taler in Germany",
+    "link": "https://www.taler.net/en/news/2026-13.html",
     "source": "Hacker News: Front Page",
-    "ts": 1792604713
+    "ts": 1792685671
   },
   {
-    "id": "https://lobste.rs/s/dldfel",
-    "title": "CVE-2026-107891: musl libc: multiple integer overflow in regcomp, possibly leading to incorrect allocation sizes and out-of-bounds heap writes",
-    "link": "https://www.openwall.com/lists/oss-security/2026/10/21/18",
-    "source": "Lobsters",
-    "ts": 1792604417
-  },
-  {
-    "id": "https://news.ycombinator.com/item?id=50184586",
-    "title": "EA is shutting down BioWare",
-    "link": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware",
+    "id": "https://news.ycombinator.com/item?id=50197313",
+    "title": "Every AI model has the same \"controversial\" take on humans",
+    "link": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
     "source": "Hacker News: Front Page",
-    "ts": 1792603773
+    "ts": 1792685280
   },
   {
-    "id": "https://lobste.rs/s/cq7wn7",
-    "title": "Don't throw it all away: Caching an immediate-mode UI",
-    "link": "https://blickeditor.com/blog/caching-an-immediate-mode-ui",
-    "source": "Lobsters",
-    "ts": 1792603007
-  },
-  {
-    "id": "https://news.ycombinator.com/item?id=50183892",
-    "title": "Show HN: Omnara – Open-source alternative to Claude Managed Agents",
-    "link": "https://github.com/omnara-ai/omnara",
+    "id": "https://news.ycombinator.com/item?id=50196718",
+    "title": "Run full iOS 16.5 firmware on Android Devices",
+    "link": "https://github.com/oosexgang/hackios-xnu-kernel",
     "source": "Hacker News: Front Page",
-    "ts": 1792601093
+    "ts": 1792682782
   },
   {
-    "id": "https://lobste.rs/s/gu7bow",
-    "title": "Node.js — Wednesday, October 21, 2026 Security Releases",
-    "link": "https://nodejs.org/en/blog/vulnerability/october-2026-security-releases",
+    "id": "https://lobste.rs/s/ju4q1u",
+    "title": "I built a garbage collector for Rust (2023)",
+    "link": "https://claytonwramsey.com/blog/dumpster/",
     "source": "Lobsters",
-    "ts": 1792598017
+    "ts": 1792680562
   },
   {
-    "id": "https://news.ycombinator.com/item?id=50182987",
-    "title": "Today's PHP security release, and how we're strengthening security",
-    "link": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
+    "id": "https://news.ycombinator.com/item?id=50195959",
+    "title": "Quad9 (DNS Resolver) to Exit France",
+    "link": "https://quad9.net/news/blog/au-revoir-france/",
     "source": "Hacker News: Front Page",
-    "ts": 1792597736
+    "ts": 1792679558
   },
   {
-    "id": "https://lobste.rs/s/w9sxxq",
-    "title": "Firefox Local Mode",
-    "link": "https://firefox-source-docs.mozilla.org/devtools-user/local_mode/index.html",
+    "id": "https://lobste.rs/s/oeehgs",
+    "title": "Script dependencies with Nix",
+    "link": "https://entropicthoughts.com/python-dependencies-with-nix",
     "source": "Lobsters",
-    "ts": 1792597679
+    "ts": 1792678444
   },
   {
-    "id": "https://lobste.rs/s/hty1qk",
-    "title": "zls 0.17.0",
-    "link": "https://zigtools.org/zls/releases/0.17.0/",
+    "id": "https://lobste.rs/s/m6l6ld",
+    "title": "Tell your network to explain itself and then some",
+    "link": "https://unixdigest.com/tutorials/tell-your-network-to-explain-itself-and-then-some.html",
     "source": "Lobsters",
-    "ts": 1792596245
+    "ts": 1792673606
   },
   {
-    "id": "https://news.ycombinator.com/item?id=50182526",
-    "title": "Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin",
-    "link": "https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488",
-    "source": "Hacker News: Front Page",
-    "ts": 1792596004
-  },
-  {
-    "id": "https://news.ycombinator.com/item?id=50181175",
-    "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
-    "link": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
-    "source": "Hacker News: Front Page",
-    "ts": 1792591423
-  },
-  {
-    "id": "https://lobste.rs/s/ebsqsp",
-    "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
-    "link": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
+    "id": "https://lobste.rs/s/me75ey",
+    "title": "jailbreaking the switch 2",
+    "link": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
     "source": "Lobsters",
-    "ts": 1792590610
+    "ts": 1792671048
   },
   {
-    "id": "https://lobste.rs/s/mfserj",
-    "title": "Unikernels in OCaml",
-    "link": "https://uniker.nl/",
+    "id": "https://lobste.rs/s/hplfis",
+    "title": "examining the macOS gcc binary",
+    "link": "https://zoey-on-github.github.io/blog/macgcc.html",
     "source": "Lobsters",
-    "ts": 1792569080
+    "ts": 1792651558
   },
   {
-    "id": "https://lobste.rs/s/tsfina",
-    "title": "Vector Graphics in Lil",
-    "link": "https://beyondloom.com/blog/vectorgraphics.html",
+    "id": "https://lobste.rs/s/dcvs3u",
+    "title": "Announcing DuckDB 2.0.0 LTS “Cinnamon Teal”",
+    "link": "https://duckdb.org/2026/10/21/announcing-duckdb-200.html",
     "source": "Lobsters",
-    "ts": 1792567984
+    "ts": 1792649707
   },
   {
-    "id": "https://lobste.rs/s/vidyh0",
-    "title": "The Future of CSS",
-    "link": "https://www.joshwcomeau.com/css/interop-2027/",
+    "id": "https://lobste.rs/s/os7brs",
+    "title": "Using a lookup-table to correct an approximation",
+    "link": "https://www.corsix.org/content/using-a-lookup-table-to-correct-an-approximation",
     "source": "Lobsters",
-    "ts": 1792563410
+    "ts": 1792642717
   }
 ]
