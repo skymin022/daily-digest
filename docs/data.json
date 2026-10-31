@@ -1,317 +1,317 @@
 [
   {
-    "id": "https://news.hada.io/topic?id=36277",
-    "title": "Show GN: korea-data-mcp – AI 에이전트가 한국 공공 API를 틀리게 읽지 않도록 해주는 MCP 서버",
-    "link": "https://news.hada.io/topic?id=36277",
-    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1793335664
-  },
-  {
-    "id": "https://news.hada.io/topic?id=36274",
-    "title": "Raspberry Pi Pico 2 W에서 게임을 실행하는 초소형 월드 모델",
-    "link": "https://news.hada.io/topic?id=36274",
-    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1793331219
-  },
-  {
-    "id": "https://news.hada.io/topic?id=36273",
-    "title": "OpenAI, Pro와 Business Premium 사용량 한도 2배 확대",
-    "link": "https://news.hada.io/topic?id=36273",
-    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1793329574
-  },
-  {
-    "id": "https://news.hada.io/topic?id=36272",
-    "title": "데이터 에이전트는 실제 분석을 할 수 있을까?",
-    "link": "https://news.hada.io/topic?id=36272",
-    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1793329183
-  },
-  {
-    "id": "https://news.hada.io/topic?id=36271",
-    "title": "Brian Kernighan: Bell Labs의 내부, 최고의 프로그래머, C가 성공한 이유",
-    "link": "https://news.hada.io/topic?id=36271",
-    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1793328934
-  },
-  {
-    "id": "https://news.hada.io/topic?id=36270",
-    "title": "small-change로 코드 리뷰 속도 높이기",
-    "link": "https://news.hada.io/topic?id=36270",
-    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1793328516
-  },
-  {
-    "id": "https://news.hada.io/topic?id=36269",
-    "title": "998달러로 3.8B LLM을 학습해 CORE 0.384 달성하기",
-    "link": "https://news.hada.io/topic?id=36269",
-    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1793328392
-  },
-  {
-    "id": "https://news.hada.io/topic?id=36268",
-    "title": "선언문, 두려움, ‘패배자 사고방식’: Proton 내부의 AI 전환 갈등",
-    "link": "https://news.hada.io/topic?id=36268",
-    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1793327639
-  },
-  {
-    "id": "https://news.ycombinator.com/item?id=50299182",
-    "title": "CVE-2026-98432: Linux TCP Use-After-Free Risk and Patch Validation",
-    "link": "https://www.penligent.ai/hackinglabs/cve-2026-98432/",
+    "id": "https://news.ycombinator.com/item?id=50312922",
+    "title": "OpenAI raises less than half of $30B target",
+    "link": "https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5",
     "source": "Hacker News: Front Page",
-    "ts": 1793327584
+    "ts": 1793416964
   },
   {
-    "id": "https://news.hada.io/topic?id=36266",
-    "title": "Show GN: 털리미 – 국내 개인정보 유출 사건을 기업별로 모은 공개 데이터",
-    "link": "https://news.hada.io/topic?id=36266",
-    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1793326471
-  },
-  {
-    "id": "https://news.ycombinator.com/item?id=50299004",
-    "title": "Show HN: Lasm – Write formally verified webapps in Lean for Node/serverless/edge",
-    "link": "https://github.com/Millillion/lasm",
+    "id": "https://news.ycombinator.com/item?id=50312756",
+    "title": "Tell HN: Scribd Breached",
+    "link": "https://news.ycombinator.com/item?id=50312756",
     "source": "Hacker News: Front Page",
-    "ts": 1793325941
+    "ts": 1793414796
   },
   {
-    "id": "https://news.ycombinator.com/item?id=50298964",
-    "title": "Pico CSS is no longer maintained",
-    "link": "https://github.com/picocss/pico/discussions/754",
+    "id": "https://news.ycombinator.com/item?id=50312739",
+    "title": "Flock camera searches fell 95% after a dispatcher's misconduct was caught",
+    "link": "https://www.wkyc.com/article/news/investigations/flock-camera-searches-fall-95-percent-highland-heights-dispatcher-misconduct-caught/95-94b18f33-60e2-4bc7-a00f-d71d1e1fdd5e",
     "source": "Hacker News: Front Page",
-    "ts": 1793325524
+    "ts": 1793414522
   },
   {
-    "id": "https://news.hada.io/topic?id=36265",
-    "title": "Minecraft와 Mindustry에서 AI 에이전트 군집을 실행해 봄",
-    "link": "https://news.hada.io/topic?id=36265",
-    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1793324171
-  },
-  {
-    "id": "https://lobste.rs/s/6ole9g",
-    "title": "If you love a website, back it up",
-    "link": "http://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
+    "id": "https://lobste.rs/s/95quqz",
+    "title": "Tactical-Retreat: a freely available, multi-platform QuakeC-based Counter-Strike v1.5 port",
+    "link": "https://www.frag-net.com/project_tacticalretreat.html",
     "source": "Lobsters",
-    "ts": 1793323740
+    "ts": 1793413930
   },
   {
-    "id": "https://lobste.rs/s/qqelq1",
-    "title": "Design the interface for functionality not familiarity",
-    "link": "https://lapcatsoftware.com/articles/2026/10/10.html",
+    "id": "https://news.hada.io/topic?id=36318",
+    "title": "Show HN: 약 1GB의 Qwen 가중치 안에서 작동하는 Nintendo",
+    "link": "https://news.hada.io/topic?id=36318&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+    "ts": 1793410598
+  },
+  {
+    "id": "https://news.hada.io/topic?id=36317",
+    "title": "Patrick Stewart가 Jean-Luc Picard 함장을 통해 가르쳐 준 사람의 됨됨이",
+    "link": "https://news.hada.io/topic?id=36317&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+    "ts": 1793410418
+  },
+  {
+    "id": "https://lobste.rs/s/soosuu",
+    "title": "The support case of a customer who said that all they could see was a black screen",
+    "link": "https://devblogs.microsoft.com/oldnewthing/20261029-00/?p=112808/",
     "source": "Lobsters",
-    "ts": 1793322278
+    "ts": 1793408481
   },
   {
-    "id": "https://news.ycombinator.com/item?id=50298436",
-    "title": "Herdr has released native app",
-    "link": "https://github.com/herdrdev/herdr-app",
+    "id": "https://news.hada.io/topic?id=36315",
+    "title": "CleanYourTV - Android TV의 불필요한 앱을 끄고 Apple TV 스타일 홈 화면으로 바꾸는 도구",
+    "link": "https://news.hada.io/topic?id=36315&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+    "ts": 1793406602
+  },
+  {
+    "id": "https://news.hada.io/topic?id=36313",
+    "title": "좋아하는 웹사이트가 있다면 백업하세요",
+    "link": "https://news.hada.io/topic?id=36313&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+    "ts": 1793405216
+  },
+  {
+    "id": "https://news.hada.io/topic?id=36312",
+    "title": "AT Protocol 사용자들은 이 데이터가 공개된다는 사실을 알고 있을까?",
+    "link": "https://news.hada.io/topic?id=36312&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+    "ts": 1793405036
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=50311686",
+    "title": "Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game",
+    "link": "https://tng.episodle.com/",
     "source": "Hacker News: Front Page",
-    "ts": 1793320961
+    "ts": 1793404284
   },
   {
-    "id": "https://news.ycombinator.com/item?id=50298318",
-    "title": "Cormac McCarthy's Library",
-    "link": "https://cormacmccarthy.lib.utk.edu/",
-    "source": "Hacker News: Front Page",
-    "ts": 1793320260
-  },
-  {
-    "id": "https://news.hada.io/topic?id=36261",
-    "title": "BookOrbit - 전자책과 오디오북을 여러 기기에서 이어 읽는 셀프 호스팅 도서관",
-    "link": "https://news.hada.io/topic?id=36261",
+    "id": "https://news.hada.io/topic?id=36311",
+    "title": "Bunny CDN 보안 사고",
+    "link": "https://news.hada.io/topic?id=36311&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
     "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1793320202
+    "ts": 1793403103
   },
   {
-    "id": "https://news.hada.io/topic?id=36260",
-    "title": "Show GN: 컷팩(Cutfac) - Claude Code/Codex로 숏폼 만들 때 쓰는 오픈소스 비디오 에디터",
-    "link": "https://news.hada.io/topic?id=36260",
+    "id": "https://news.hada.io/topic?id=36310",
+    "title": "Florilegium: LaTeX에서 절차적으로 생성하는 꽃 장식",
+    "link": "https://news.hada.io/topic?id=36310&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
     "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1793320080
+    "ts": 1793400173
   },
   {
-    "id": "https://news.hada.io/topic?id=36259",
-    "title": "여우는 뭐라고 할까? 보드게임 Starve the Fox의 승률을 분석하다",
-    "link": "https://news.hada.io/topic?id=36259",
+    "id": "https://news.hada.io/topic?id=36309",
+    "title": "블록체인 분석업체들, 약 8.5조 원 규모 Binance 해킹에 북한 연관성 지목",
+    "link": "https://news.hada.io/topic?id=36309&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
     "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1793318665
+    "ts": 1793399992
   },
   {
-    "id": "https://lobste.rs/s/1r7enm",
-    "title": "XSS in yarr RSS reader",
-    "link": "https://0x67673068.me/xss-in-yarr/",
+    "id": "https://news.hada.io/topic?id=36308",
+    "title": "내가 가장 좋아하는 PowerMac은 Nintendo Wii",
+    "link": "https://news.hada.io/topic?id=36308&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+    "ts": 1793399812
+  },
+  {
+    "id": "https://lobste.rs/s/1pmuy7",
+    "title": "How hard is it to check for whitespace?",
+    "link": "https://serce.me/posts/2026-10-30-how-hard-is-it-to-check-for-whitespace",
     "source": "Lobsters",
-    "ts": 1793318154
+    "ts": 1793399149
   },
   {
-    "id": "https://news.hada.io/topic?id=36258",
-    "title": "10억 명 이상의 ChatGPT 사용자를 위한 온라인 스토리지의 빠른 확장(2부)",
-    "link": "https://news.hada.io/topic?id=36258",
+    "id": "https://news.hada.io/topic?id=36307",
+    "title": "Tangled - 자체 호스팅과 협업을 결합한 연합형 코드 포지",
+    "link": "https://news.hada.io/topic?id=36307&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
     "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1793317969
+    "ts": 1793395939
   },
   {
-    "id": "https://news.hada.io/topic?id=36257",
-    "title": "스페인 열차 충돌 사고, 지금까지 알려진 사실",
-    "link": "https://news.hada.io/topic?id=36257",
+    "id": "https://news.ycombinator.com/item?id=50310398",
+    "title": "sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust",
+    "link": "https://www.firezone.dev/blog/introducing-sanstun",
+    "source": "Hacker News: Front Page",
+    "ts": 1793395800
+  },
+  {
+    "id": "https://news.hada.io/topic?id=36306",
+    "title": "Blackstone, “Anthropic은 IPO 이후에도 투자적격 신용등급을 받지 못할 수 있어”",
+    "link": "https://news.hada.io/topic?id=36306&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
     "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1793316883
+    "ts": 1793392261
   },
   {
-    "id": "https://news.ycombinator.com/item?id=50297697",
-    "title": "Show HN: I Turned DOOM into a Transformer",
-    "link": "https://github.com/mottopanikeiku/doomformer",
+    "id": "https://news.ycombinator.com/item?id=50309647",
+    "title": "Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man",
+    "link": "https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/",
     "source": "Hacker News: Front Page",
-    "ts": 1793316346
+    "ts": 1793391810
   },
   {
-    "id": "https://news.ycombinator.com/item?id=50297089",
-    "title": "A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)",
-    "link": "https://journal.animationstudies.org/article/id/66/",
-    "source": "Hacker News: Front Page",
-    "ts": 1793312798
-  },
-  {
-    "id": "https://news.ycombinator.com/item?id=50296947",
-    "title": "The Great American Rascal: Tom Sawyer at 150",
-    "link": "https://claremontreviewofbooks.com/the-great-american-rascal/",
-    "source": "Hacker News: Front Page",
-    "ts": 1793312063
-  },
-  {
-    "id": "https://news.ycombinator.com/item?id=50296486",
-    "title": "We ran AI agent swarms in Minecraft and Mindustry",
-    "link": "https://labs.ycombinator.com/projects/games/index.html",
-    "source": "Hacker News: Front Page",
-    "ts": 1793310028
-  },
-  {
-    "id": "https://news.ycombinator.com/item?id=50296470",
-    "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
-    "link": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
-    "source": "Hacker News: Front Page",
-    "ts": 1793309939
-  },
-  {
-    "id": "https://news.ycombinator.com/item?id=50295868",
-    "title": "Sylphide OS: a general-purpose OS for microcontroller-based computers",
-    "link": "https://projects.freehackers.org/sylphide-os/",
-    "source": "Hacker News: Front Page",
-    "ts": 1793307595
-  },
-  {
-    "id": "https://lobste.rs/s/dsrruj",
-    "title": "London meetup",
-    "link": "https://lobste.rs/s/dsrruj/london_meetup",
+    "id": "https://lobste.rs/s/ncclwy",
+    "title": "Switch lowering in GCC",
+    "link": "https://xoranth.net/gcc-switch/",
     "source": "Lobsters",
-    "ts": 1793307403
+    "ts": 1793390434
   },
   {
-    "id": "https://news.ycombinator.com/item?id=50295821",
-    "title": "ElementaryUI – Swift, in the Browser",
-    "link": "https://elementary.codes",
+    "id": "https://news.ycombinator.com/item?id=50309314",
+    "title": "Jules Verne's Lost Novel",
+    "link": "https://blue-continuum.com/verne-paris",
     "source": "Hacker News: Front Page",
-    "ts": 1793307399
+    "ts": 1793390110
   },
   {
-    "id": "https://lobste.rs/s/2matgw",
-    "title": "C2PA's eMudhra Moment",
-    "link": "https://www.da.vidbuchanan.co.uk/blog/c2pa-four.html",
+    "id": "https://news.ycombinator.com/item?id=50309266",
+    "title": "The oldest ice disappears and the Stone Age emerges from it",
+    "link": "https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921",
+    "source": "Hacker News: Front Page",
+    "ts": 1793389893
+  },
+  {
+    "id": "https://news.hada.io/topic?id=36304",
+    "title": "Proton CEO, AI 활용 ‘재면접’ 취소",
+    "link": "https://news.hada.io/topic?id=36304&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+    "ts": 1793388754
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=50309029",
+    "title": "Infinite Mac: BeOS",
+    "link": "https://blog.persistent.info/2026/10/infinite-mac-beos.html",
+    "source": "Hacker News: Front Page",
+    "ts": 1793388609
+  },
+  {
+    "id": "https://lobste.rs/s/uyobll",
+    "title": "Getting Google Cast on my Soundbar",
+    "link": "https://codon.org.uk/~mjg59/blog/p/getting-google-cast-on-my-soundbar/",
     "source": "Lobsters",
-    "ts": 1793306024
+    "ts": 1793387684
   },
   {
-    "id": "https://news.ycombinator.com/item?id=50295450",
-    "title": "A tiny world model running games on a Raspberry Pi Pico 2 W",
-    "link": "https://github.com/SheepSeb/tinyworldformer",
-    "source": "Hacker News: Front Page",
-    "ts": 1793305948
+    "id": "https://news.hada.io/topic?id=36303",
+    "title": "미국 기술주, AI 비용 우려에 급락",
+    "link": "https://news.hada.io/topic?id=36303&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+    "ts": 1793385416
   },
   {
-    "id": "https://news.ycombinator.com/item?id=50294702",
-    "title": "Patrick Stewart has died",
-    "link": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
-    "source": "Hacker News: Front Page",
-    "ts": 1793302899
+    "id": "https://news.hada.io/topic?id=36302",
+    "title": "Northflank 침해 사고 발생",
+    "link": "https://news.hada.io/topic?id=36302&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+    "ts": 1793385236
   },
   {
-    "id": "https://news.ycombinator.com/item?id=50294506",
-    "title": "Show HN: Auto Dismiss Mac OS \"Allow <app> to find devices on local networks?\"",
-    "link": "https://github.com/johncassil/dontallow",
-    "source": "Hacker News: Front Page",
-    "ts": 1793302064
+    "id": "https://lobste.rs/s/ukj8mm",
+    "title": "The federated code forge",
+    "link": "https://tangled.org/blog/forge/",
+    "source": "Lobsters",
+    "ts": 1793383074
   },
   {
-    "id": "https://lobste.rs/s/siebde",
+    "id": "https://lobste.rs/s/mp8yqt",
+    "title": "Protecting against CVE-2026-98432",
+    "link": "https://groups.google.com/g/golang-announce/c/PCoQcdxoScw",
+    "source": "Lobsters",
+    "ts": 1793382892
+  },
+  {
+    "id": "https://news.hada.io/topic?id=36301",
+    "title": "ICE, 가면을 되찾으려 삭제 요청 대행업체를 고용하다",
+    "link": "https://news.hada.io/topic?id=36301&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+    "ts": 1793382243
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=50307190",
     "title": "My favourite PowerMac is a Nintendo Wii",
     "link": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
-    "source": "Lobsters",
-    "ts": 1793291538
+    "source": "Hacker News: Front Page",
+    "ts": 1793381115
   },
   {
-    "id": "https://lobste.rs/s/nexvnc",
-    "title": "An open format for writing agent-native software requirements",
-    "link": "https://slcr.dev/announcements#2026-10-29-slcr-launches",
-    "source": "Lobsters",
-    "ts": 1793290662
+    "id": "https://news.ycombinator.com/item?id=50306442",
+    "title": "Show HN: A working Nintendo in ~1GB of Qwen weights",
+    "link": "https://github.com/dbreunig/nesformer",
+    "source": "Hacker News: Front Page",
+    "ts": 1793378422
   },
   {
-    "id": "https://lobste.rs/s/tw3rsp",
-    "title": "Phorge",
-    "link": "https://www.phorge.it/",
+    "id": "https://lobste.rs/s/fskctn",
+    "title": "Infinite Mac: BeOS",
+    "link": "https://blog.persistent.info/2026/10/infinite-mac-beos.html",
     "source": "Lobsters",
-    "ts": 1793290127
+    "ts": 1793376416
   },
   {
-    "id": "https://lobste.rs/s/x6n380",
-    "title": "The Web Can't Afford a JavaScript Runtime Monoculture",
-    "link": "https://redmonk.com/kholterhoff/2026/10/27/js-runtime-monoculture/",
-    "source": "Lobsters",
-    "ts": 1793288687
+    "id": "https://news.ycombinator.com/item?id=50305693",
+    "title": "AI isn't replacing SREs, it's deskilling them",
+    "link": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+    "source": "Hacker News: Front Page",
+    "ts": 1793375538
   },
   {
-    "id": "https://lobste.rs/s/ldvd3n",
-    "title": "Extremely brief history of PDP computers",
-    "link": "https://entropicthoughts.com/history-of-pdp-computers",
-    "source": "Lobsters",
-    "ts": 1793285289
+    "id": "https://news.ycombinator.com/item?id=50305637",
+    "title": "Florilegium: Procedural Flowers in LaTeX",
+    "link": "https://github.com/kevinraymond/florilegium",
+    "source": "Hacker News: Front Page",
+    "ts": 1793375292
   },
   {
-    "id": "https://lobste.rs/s/eccbci",
-    "title": "Shared password manager for families?",
-    "link": "https://lobste.rs/s/eccbci/shared_password_manager_for_families",
-    "source": "Lobsters",
-    "ts": 1793284791
+    "id": "https://news.ycombinator.com/item?id=50305573",
+    "title": "The federated code forge",
+    "link": "https://tangled.org/blog/forge/",
+    "source": "Hacker News: Front Page",
+    "ts": 1793375069
   },
   {
-    "id": "https://lobste.rs/s/4x3ten",
-    "title": "Building NixOS using Nixtamal",
-    "link": "https://nixtamal.toast.al/cookbook/nixos-using-nixtamal/",
-    "source": "Lobsters",
-    "ts": 1793281555
+    "id": "https://news.ycombinator.com/item?id=50305025",
+    "title": "Northflank Breached",
+    "link": "https://status.northflank.com",
+    "source": "Hacker News: Front Page",
+    "ts": 1793373031
   },
   {
-    "id": "https://lobste.rs/s/m6fw0x",
-    "title": "NetBSD adds a new Emacs-like text editor called atto",
-    "link": "https://mastodon.sdf.org/@netbsd/117518160563539748",
+    "id": "https://lobste.rs/s/o1z9mm",
+    "title": "Shrinking NixOS Ram footprint and resource requirements to the bare minimum",
+    "link": "https://lowendspirit.com/discussion/11543/shrinking-nixos-ram-footprint-and-resource-requirements-to-the-bare-minimum",
     "source": "Lobsters",
-    "ts": 1793275080
+    "ts": 1793372684
   },
   {
-    "id": "https://lobste.rs/s/zftely",
-    "title": "Qwenputer: a fully functioning, deterministic RISC-V CPU inside Qwen3.5",
-    "link": "https://divagr.com/blog/qwenputer",
+    "id": "https://lobste.rs/s/xudbqx",
+    "title": "No, npm, “estee” is not a typo of “testem”",
+    "link": "https://smoores.dev/post/no_npm_estee_is_not_a_typo/",
     "source": "Lobsters",
-    "ts": 1793268004
+    "ts": 1793372516
   },
   {
-    "id": "https://lobste.rs/s/7qaac6",
-    "title": "What the fox say?",
-    "link": "https://entropicthoughts.com/what-the-fox-say",
+    "id": "https://lobste.rs/s/htgcuc",
+    "title": "Do At-Proto Users Know This Is Public?",
+    "link": "https://melaniekat.com/blog/public-on-pds/",
     "source": "Lobsters",
-    "ts": 1793256160
+    "ts": 1793359363
+  },
+  {
+    "id": "https://lobste.rs/s/ttp7aq",
+    "title": "Backdoors in Claude Code for VS, Cursor official extensions",
+    "link": "https://cyberplace.social/@GossiTheDog/117528831681803563",
+    "source": "Lobsters",
+    "ts": 1793358295
+  },
+  {
+    "id": "https://lobste.rs/s/u7dsbx",
+    "title": "What are you doing this weekend?",
+    "link": "https://lobste.rs/s/u7dsbx/what_are_you_doing_this_weekend",
+    "source": "Lobsters",
+    "ts": 1793354120
+  },
+  {
+    "id": "https://lobste.rs/s/f4aqog",
+    "title": "How curl was accidentally Turing-complete for nine months",
+    "link": "https://seriot.ch/computation/curl.html",
+    "source": "Lobsters",
+    "ts": 1793345041
+  },
+  {
+    "id": "https://lobste.rs/s/qsvspv",
+    "title": "Pidgin 3.0 Alpha 4 2.98.0 has been released",
+    "link": "https://discourse.imfreedom.org/t/pidgin-3-0-alpha-4-2-98-0-has-been-released/445",
+    "source": "Lobsters",
+    "ts": 1793332699
   }
 ]
