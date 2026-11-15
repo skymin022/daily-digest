@@ -1,5 +1,271 @@
 [
   {
+    "id": "https://lobste.rs/s/6ovrdg",
+    "title": "Disk encryption on NetBSD achieving secrecy",
+    "link": "https://netbsd.org/~nia/disk-encrypt/",
+    "source": "Lobsters",
+    "ts": 1794720628
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=50504072",
+    "title": "Show HN: Gawain – Require type hints on all Python variables",
+    "link": "https://github.com/matheuzgomes/gawain",
+    "source": "Hacker News: Front Page",
+    "ts": 1794717565
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=50503930",
+    "title": "Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
+    "link": "https://github.com/Tthanh2k6/turbo-browser-mcp",
+    "source": "Hacker News: Front Page",
+    "ts": 1794715751
+  },
+  {
+    "id": "https://news.hada.io/topic?id=37190",
+    "title": "Project Zero, 취약점 신고 90일 후 상세 정보 공개하기로",
+    "link": "https://news.hada.io/topic?id=37190&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+    "ts": 1794713809
+  },
+  {
+    "id": "https://news.hada.io/topic?id=37189",
+    "title": "Show HN: 순수 JAX 약 200줄로 구현한 DeepSeek V3",
+    "link": "https://news.hada.io/topic?id=37189&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+    "ts": 1794713629
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=50503731",
+    "title": "Osint Case Studies",
+    "link": "https://osintsearch.org/blog/osint-case-studies",
+    "source": "Hacker News: Front Page",
+    "ts": 1794713621
+  },
+  {
+    "id": "https://lobste.rs/s/bwjt1b",
+    "title": "Periodic-Oriented Programming for FIRST Robotics",
+    "link": "https://bvisness.me/periodic-oriented-programming/",
+    "source": "Lobsters",
+    "ts": 1794712602
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=50503588",
+    "title": "The Single Router in Southern Arkansas That Ground Air Travel to a Halt",
+    "link": "https://www.wsj.com/business/airlines/the-single-router-in-southern-arkansas-that-ground-air-travel-to-a-halt-eedc326c",
+    "source": "Hacker News: Front Page",
+    "ts": 1794711954
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=50503465",
+    "title": "My favourite modern NES games",
+    "link": "https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/",
+    "source": "Hacker News: Front Page",
+    "ts": 1794710485
+  },
+  {
+    "id": "https://lobste.rs/s/w9j7xs",
+    "title": "25 of my favourite modern NES games",
+    "link": "https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/",
+    "source": "Lobsters",
+    "ts": 1794710440
+  },
+  {
+    "id": "https://lobste.rs/s/dwd6xu",
+    "title": "Reintroducing Spaces",
+    "link": "https://dholms.leaflet.pub/3mu3p3ldwrc26",
+    "source": "Lobsters",
+    "ts": 1794710084
+  },
+  {
+    "id": "https://news.hada.io/topic?id=37187",
+    "title": "Nvidia, 순환 금융 거래로 GPU 가격을 의도적으로 높게 유지했다는 의혹",
+    "link": "https://news.hada.io/topic?id=37187&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+    "ts": 1794709984
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=50503255",
+    "title": "We're Asking an Appeals Court to Require a Warrant for ALPR Searches",
+    "link": "https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches",
+    "source": "Hacker News: Front Page",
+    "ts": 1794708054
+  },
+  {
+    "id": "https://lobste.rs/s/nbjckz",
+    "title": "Parsing nested lists in BQN",
+    "link": "https://saltysylvi.github.io/blog/parsing-nested-lists-in-bqn.html",
+    "source": "Lobsters",
+    "ts": 1794707966
+  },
+  {
+    "id": "https://news.hada.io/topic?id=37186",
+    "title": "LinkedIn과 Monster, CBC 조사 후 가짜 채용 공고 1,000건 이상 삭제",
+    "link": "https://news.hada.io/topic?id=37186&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+    "ts": 1794706377
+  },
+  {
+    "id": "https://news.hada.io/topic?id=37185",
+    "title": "컨텐츠 플랫폼에서 웹인프라서비스의 시대로",
+    "link": "https://news.hada.io/topic?id=37185&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+    "ts": 1794705864
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=50502988",
+    "title": "Court denies motion to dismiss DRAM price fixing case",
+    "link": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
+    "source": "Hacker News: Front Page",
+    "ts": 1794705516
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=50502839",
+    "title": "Show HN: A custom font based on the Jamaican flag alphabet",
+    "link": "https://bobbiec.github.io/jamaican-font.html",
+    "source": "Hacker News: Front Page",
+    "ts": 1794704205
+  },
+  {
+    "id": "https://news.hada.io/topic?id=37183",
+    "title": "ChatGPT 내 비즈니스 기능 소개",
+    "link": "https://news.hada.io/topic?id=37183&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+    "ts": 1794703801
+  },
+  {
+    "id": "https://news.hada.io/topic?id=37182",
+    "title": "소프트웨어 직무명의 계보",
+    "link": "https://news.hada.io/topic?id=37182&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+    "ts": 1794702823
+  },
+  {
+    "id": "https://news.hada.io/topic?id=37181",
+    "title": "Text.js - 브라우저 콘솔에서 동작하는 앱을 만드는 React 프레임워크",
+    "link": "https://news.hada.io/topic?id=37181&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+    "ts": 1794702602
+  },
+  {
+    "id": "https://news.hada.io/topic?id=37180",
+    "title": "OpenAI, 범용 모델이 로봇을 제어하기 시작하면서 로보틱스 팀 해체",
+    "link": "https://news.hada.io/topic?id=37180&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+    "ts": 1794699279
+  },
+  {
+    "id": "https://news.hada.io/topic?id=37178",
+    "title": "PyPI, 보안 신호를 더 명확히 보여주는 개편된 프로젝트 페이지 공개",
+    "link": "https://news.hada.io/topic?id=37178&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+    "ts": 1794695807
+  },
+  {
+    "id": "https://news.hada.io/topic?id=37177",
+    "title": "SpaceX, Starship 포획으로 15차 비행 마무리",
+    "link": "https://news.hada.io/topic?id=37177&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+    "ts": 1794695627
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=50501631",
+    "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
+    "link": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
+    "source": "Hacker News: Front Page",
+    "ts": 1794695190
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=50501594",
+    "title": "How did Woz write the Apple 1 BASIC before building the computer?",
+    "link": "https://retrocomputing.stackexchange.com/questions/17957",
+    "source": "Hacker News: Front Page",
+    "ts": 1794694969
+  },
+  {
+    "id": "https://news.hada.io/topic?id=37176",
+    "title": "코끼리의 고립 심화로 사회적 연결망이 분절됨",
+    "link": "https://news.hada.io/topic?id=37176&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+    "ts": 1794692160
+  },
+  {
+    "id": "https://news.hada.io/topic?id=37175",
+    "title": "Microsoft 장애, 고객들에게 Microsoft 의존도를 뼈저리게 깨닫게 하다",
+    "link": "https://news.hada.io/topic?id=37175&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+    "ts": 1794691980
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=50500963",
+    "title": "SpaceX catches the Starship to end Flight 15",
+    "link": "https://www.spacex.com/launches/starship-flight-15",
+    "source": "Hacker News: Front Page",
+    "ts": 1794691344
+  },
+  {
+    "id": "https://news.hada.io/topic?id=37174",
+    "title": "Google은 왜 AI를 쓰지 않는 학교의 검색 접근까지 차단하나? 몇 가지 가설",
+    "link": "https://news.hada.io/topic?id=37174&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+    "ts": 1794688990
+  },
+  {
+    "id": "https://news.hada.io/topic?id=37173",
+    "title": "FAA의 미국 전역 이륙 중단 조치 속 Amtrak 예약 시스템에 심각한 문제 발생",
+    "link": "https://news.hada.io/topic?id=37173&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+    "ts": 1794688810
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=50499038",
+    "title": "A family tree of software job titles",
+    "link": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
+    "source": "Hacker News: Front Page",
+    "ts": 1794678319
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=50499017",
+    "title": "Lovable apps expose passport details and more than 200K private messages",
+    "link": "https://www.crissyfield.de/research/lovable-en/",
+    "source": "Hacker News: Front Page",
+    "ts": 1794678190
+  },
+  {
+    "id": "https://lobste.rs/s/fllb0m",
+    "title": "Let Me Let You Own Your Data",
+    "link": "https://www.willett.io/posts/data/",
+    "source": "Lobsters",
+    "ts": 1794672507
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=50497892",
+    "title": "PyPI's redesigned project pages with clearer security signals are now live",
+    "link": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
+    "source": "Hacker News: Front Page",
+    "ts": 1794670852
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=50497589",
+    "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
+    "link": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
+    "source": "Hacker News: Front Page",
+    "ts": 1794668655
+  },
+  {
+    "id": "https://lobste.rs/s/q81fi4",
+    "title": "Solving the fox game",
+    "link": "http://blog.sesse.net/blog/tech/2026-11-13-19-51_solving_the_fox_game.html",
+    "source": "Lobsters",
+    "ts": 1794652353
+  },
+  {
+    "id": "https://lobste.rs/s/ebahfz",
+    "title": "Creating a self booting ZIP archive",
+    "link": "https://goliath32.com/blog/ziphead.html",
+    "source": "Lobsters",
+    "ts": 1794650518
+  },
+  {
     "id": "https://lobste.rs/s/pgmw6b",
     "title": "What happened to 3com?",
     "link": "https://dfarq.homeip.net/what-happened-to-3com/",
@@ -7,311 +273,10 @@
     "ts": 1794635200
   },
   {
-    "id": "https://news.hada.io/topic?id=37148",
-    "title": "미국 모든 공항에 현재 지상 대기 조치 발령",
-    "link": "https://news.hada.io/topic?id=37148&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1794634259
-  },
-  {
-    "id": "https://news.ycombinator.com/item?id=50493731",
-    "title": "Run Cloudflare Workers Anywhere",
-    "link": "https://openorange.dev/",
-    "source": "Hacker News: Front Page",
-    "ts": 1794628712
-  },
-  {
-    "id": "https://news.hada.io/topic?id=37145",
-    "title": "FAA, 01:19Z에 전국 항공기 이륙 중지 해제",
-    "link": "https://news.hada.io/topic?id=37145&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1794627426
-  },
-  {
-    "id": "https://news.hada.io/topic?id=37144",
-    "title": "우크라이나, 2주도 안 돼 러시아 정유 능력 36% 마비시켜",
-    "link": "https://news.hada.io/topic?id=37144&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1794627246
-  },
-  {
-    "id": "https://news.hada.io/topic?id=37143",
-    "title": "Show GN: 로컬 AI머신을 구입하기 전에 성능을 미리 예측할 수 있는 웹앱",
-    "link": "https://news.hada.io/topic?id=37143&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1794626127
-  },
-  {
-    "id": "https://news.ycombinator.com/item?id=50493251",
-    "title": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
-    "link": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-    "source": "Hacker News: Front Page",
-    "ts": 1794624779
-  },
-  {
-    "id": "https://news.ycombinator.com/item?id=50493062",
-    "title": "Ggml v1.0.0",
-    "link": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
-    "source": "Hacker News: Front Page",
-    "ts": 1794623309
-  },
-  {
-    "id": "https://news.ycombinator.com/item?id=50492993",
-    "title": "Nvidia director sold nearly $1B in stock weeks before the Jensen Huang scandal",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html",
-    "source": "Hacker News: Front Page",
-    "ts": 1794622896
-  },
-  {
-    "id": "https://news.ycombinator.com/item?id=50492950",
-    "title": "Security Agencies Worldwide Found to Use Ad-Based Surveillance System",
-    "link": "https://citizenlab.ca/security-agencies-worldwide-found-to-use-ad-based-surveillance-system/",
-    "source": "Hacker News: Front Page",
-    "ts": 1794622541
-  },
-  {
-    "id": "https://news.hada.io/topic?id=37140",
-    "title": "로폼 운영사 해킹으로 2만여 명 개인정보 유출, ‘모두의 창업’ 참가자 818명 포함",
-    "link": "https://news.hada.io/topic?id=37140&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1794622081
-  },
-  {
-    "id": "https://news.ycombinator.com/item?id=50492860",
-    "title": "Elephants found to be increasingly isolated leading to fractured social networks",
-    "link": "https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks",
-    "source": "Hacker News: Front Page",
-    "ts": 1794621762
-  },
-  {
-    "id": "https://news.hada.io/topic?id=37139",
-    "title": "KORS 모든 주파수의 항공 무선 실시간 청취, Victoria, CA도 항공기 출발 중단",
-    "link": "https://news.hada.io/topic?id=37139&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1794619902
-  },
-  {
-    "id": "https://news.ycombinator.com/item?id=50492315",
-    "title": "Amtrak booking system experiencing major issues amid nationwide FAA ground stop",
-    "link": "https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026",
-    "source": "Hacker News: Front Page",
-    "ts": 1794617549
-  },
-  {
-    "id": "https://news.hada.io/topic?id=37138",
-    "title": "FM-1 Workbench - FM1 펌웨어용 앱과 SDK의 라이선스 및 재배포 조건",
-    "link": "https://news.hada.io/topic?id=37138&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1794616723
-  },
-  {
-    "id": "https://news.hada.io/topic?id=37137",
-    "title": "Ace - 내 Mac에서 팀원과 AI 에이전트가 함께 작업하는 코딩 환경",
-    "link": "https://news.hada.io/topic?id=37137&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1794616202
-  },
-  {
-    "id": "https://news.ycombinator.com/item?id=50492098",
-    "title": "Philip Roth and David Remnick getting personal (2001)",
-    "link": "https://salmagundi.skidmore.edu/articles/2001-philip-roth-david-remnick",
-    "source": "Hacker News: Front Page",
-    "ts": 1794615686
-  },
-  {
-    "id": "https://news.hada.io/topic?id=37136",
-    "title": "최소한 제3의 선택지가 필요한 이유",
-    "link": "https://news.hada.io/topic?id=37136&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1794615521
-  },
-  {
-    "id": "https://news.hada.io/topic?id=37135",
-    "title": "셀을 차지하지 않는 터미널 테두리",
-    "link": "https://news.hada.io/topic?id=37135&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1794615341
-  },
-  {
-    "id": "https://news.hada.io/topic?id=37134",
-    "title": "“글루 워크는 해롭다”에 대한 반론",
-    "link": "https://news.hada.io/topic?id=37134&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1794615161
-  },
-  {
-    "id": "https://news.hada.io/topic?id=37133",
-    "title": "음악 플레이어를 이렇게 만들지는 말자",
-    "link": "https://news.hada.io/topic?id=37133&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1794614981
-  },
-  {
-    "id": "https://news.ycombinator.com/item?id=50491980",
-    "title": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
-    "link": "https://unsloth.ai/docs/models/qwen3.8",
-    "source": "Hacker News: Front Page",
-    "ts": 1794614764
-  },
-  {
-    "id": "https://news.ycombinator.com/item?id=50491830",
-    "title": "What Happened to 3Com?",
-    "link": "https://dfarq.homeip.net/what-happened-to-3com/",
-    "source": "Hacker News: Front Page",
-    "ts": 1794613739
-  },
-  {
-    "id": "https://news.hada.io/topic?id=37132",
-    "title": "Haskell 생태계를 위한 기술 비전",
-    "link": "https://news.hada.io/topic?id=37132&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1794613094
-  },
-  {
-    "id": "https://news.hada.io/topic?id=37131",
-    "title": "빅테크는 우리를 실망시킨다",
-    "link": "https://news.hada.io/topic?id=37131&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1794612914
-  },
-  {
-    "id": "https://news.ycombinator.com/item?id=50491545",
-    "title": "Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop",
-    "link": "https://grounds.top/",
-    "source": "Hacker News: Front Page",
-    "ts": 1794611859
-  },
-  {
-    "id": "https://news.ycombinator.com/item?id=50491423",
-    "title": "Terminal borders that don't cost a cell",
-    "link": "https://www.joshka.net/cell-borders/",
-    "source": "Hacker News: Front Page",
-    "ts": 1794611200
-  },
-  {
-    "id": "https://news.ycombinator.com/item?id=50491400",
-    "title": "How Not to Build a Music Player",
-    "link": "https://alichraghi.github.io/blog/how-not-to-build-a-music-player/",
-    "source": "Hacker News: Front Page",
-    "ts": 1794611070
-  },
-  {
-    "id": "https://news.hada.io/topic?id=37130",
-    "title": "600번의 실험으로 알아낸 JEPA 월드 모델의 특성",
-    "link": "https://news.hada.io/topic?id=37130&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1794609476
-  },
-  {
-    "id": "https://news.ycombinator.com/item?id=50490593",
-    "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
-    "link": "https://orcasairband.com/",
-    "source": "Hacker News: Front Page",
-    "ts": 1794607464
-  },
-  {
-    "id": "https://news.ycombinator.com/item?id=50489641",
-    "title": "FAA issues national ground stop – lifted 4.5 hours later",
-    "link": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
-    "source": "Hacker News: Front Page",
-    "ts": 1794603953
-  },
-  {
-    "id": "https://lobste.rs/s/wqml56",
-    "title": "Someone's impersonating this blog",
-    "link": "https://mattbee.mataroa.blog/p/someones-impersonating-this-blog/",
+    "id": "https://lobste.rs/s/0aungk",
+    "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+    "link": "https://arxiv.org/abs/2605.29713",
     "source": "Lobsters",
-    "ts": 1794602393
-  },
-  {
-    "id": "https://lobste.rs/s/1nmzz6",
-    "title": "Kildall's algorithm",
-    "link": "https://bike.github.io/posts/kildall.html",
-    "source": "Lobsters",
-    "ts": 1794598468
-  },
-  {
-    "id": "https://lobste.rs/s/xmtjzq",
-    "title": "Pointer Provenance in Rust vs C++",
-    "link": "https://sofiabelen.github.io/projects/pointer-provenance-in-rust-vs-cpp/",
-    "source": "Lobsters",
-    "ts": 1794595050
-  },
-  {
-    "id": "https://lobste.rs/s/0rmq2f",
-    "title": "Link Previews and You",
-    "link": "https://sable.moe/en/blog/link-previews-and-you/",
-    "source": "Lobsters",
-    "ts": 1794591287
-  },
-  {
-    "id": "https://lobste.rs/s/yxvn7j",
-    "title": "Fixing a WebKit bug to see if promises are made of train tracks",
-    "link": "https://alistair.sh/thenables",
-    "source": "Lobsters",
-    "ts": 1794588481
-  },
-  {
-    "id": "https://lobste.rs/s/xca2qj",
-    "title": "Probabilistic data structures in Go",
-    "link": "https://antonz.org/probabilistic-data-structures/",
-    "source": "Lobsters",
-    "ts": 1794585824
-  },
-  {
-    "id": "https://lobste.rs/s/kb3fs1",
-    "title": "Beating the frontier on NetHack",
-    "link": "https://antithesis.com/blog/2026/nethack/",
-    "source": "Lobsters",
-    "ts": 1794580497
-  },
-  {
-    "id": "https://lobste.rs/s/xe0prv",
-    "title": "A technical vision for the Haskell ecosystem",
-    "link": "https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078",
-    "source": "Lobsters",
-    "ts": 1794580063
-  },
-  {
-    "id": "https://lobste.rs/s/akdy9z",
-    "title": "Terminal borders that don't cost a cell",
-    "link": "https://www.joshka.net/cell-borders/",
-    "source": "Lobsters",
-    "ts": 1794571399
-  },
-  {
-    "id": "https://lobste.rs/s/9oq6fr",
-    "title": "The need for at least a third option",
-    "link": "https://blog.ovalerio.net/archives/3359",
-    "source": "Lobsters",
-    "ts": 1794569804
-  },
-  {
-    "id": "https://lobste.rs/s/mgiv0i",
-    "title": "ML Modules for Mere Mortals",
-    "link": "https://thunderseethe.dev/posts/ml-modules-for-mere-mortals/intro/",
-    "source": "Lobsters",
-    "ts": 1794569636
-  },
-  {
-    "id": "https://lobste.rs/s/ezl1sa",
-    "title": "Running a law firm on Free software (2026 edition)",
-    "link": "https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/",
-    "source": "Lobsters",
-    "ts": 1794568832
-  },
-  {
-    "id": "https://lobste.rs/s/4bvg9z",
-    "title": "What are you doing this weekend?",
-    "link": "https://lobste.rs/s/4bvg9z/what_are_you_doing_this_weekend",
-    "source": "Lobsters",
-    "ts": 1794565349
-  },
-  {
-    "id": "https://lobste.rs/s/lh9pwf",
-    "title": "How Not to Build a Music Player",
-    "link": "https://alichraghi.github.io/blog/how-not-to-build-a-music-player",
-    "source": "Lobsters",
-    "ts": 1794561388
+    "ts": 1794631874
   }
 ]
