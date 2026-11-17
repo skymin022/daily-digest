@@ -1,317 +1,317 @@
 [
   {
-    "id": "https://lobste.rs/s/rhoopo",
-    "title": "Migrating from GitHub to Codeberg",
-    "link": "https://yorickpeterse.com/articles/migrating-from-github-to-codeberg/",
-    "source": "Lobsters",
-    "ts": 1794805834
-  },
-  {
-    "id": "https://news.hada.io/topic?id=37267",
-    "title": "Show GN: 스택큐브 – 거래처가 카톡·메일·엑셀로 보내는 주문을 한 목록으로 모아 정리하는 도구",
-    "link": "https://news.hada.io/topic?id=37267&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "id": "https://news.hada.io/topic?id=37337",
+    "title": "저작권으로는 이길 수 없다",
+    "link": "https://news.hada.io/topic?id=37337&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
     "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1794805723
+    "ts": 1794895374
   },
   {
-    "id": "https://news.hada.io/topic?id=37266",
-    "title": "젠슨 황 이후, Nvidia는 어디로 가나?",
-    "link": "https://news.hada.io/topic?id=37266&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "id": "https://news.hada.io/topic?id=37336",
+    "title": "화학은 사실 기하학이다",
+    "link": "https://news.hada.io/topic?id=37336&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
     "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1794803947
+    "ts": 1794890121
   },
   {
-    "id": "https://news.ycombinator.com/item?id=50514093",
-    "title": "Stop Filming in Log",
-    "link": "https://digitalfilms.wordpress.com/2026/11/15/stop-filming-in-log/",
-    "source": "Hacker News: Front Page",
-    "ts": 1794803823
-  },
-  {
-    "id": "https://news.hada.io/topic?id=37265",
-    "title": "Firefox용 uBlock Origin, 클릭 한 번으로 다른 사이트에 스크립트 주입 가능한 취약점 패치",
-    "link": "https://news.hada.io/topic?id=37265&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "id": "https://news.hada.io/topic?id=37333",
+    "title": "OpenCode Browse - 코딩 에이전트가 사용자의 실제 브라우저를 쓰게 하는 도구",
+    "link": "https://news.hada.io/topic?id=37333&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
     "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1794803766
+    "ts": 1794886425
   },
   {
-    "id": "https://lobste.rs/s/ydzo2o",
-    "title": "Announcing Hegel-clj",
-    "link": "https://aphyr.com/posts/428-announcing-hegel-clj",
-    "source": "Lobsters",
-    "ts": 1794802345
-  },
-  {
-    "id": "https://news.hada.io/topic?id=37264",
-    "title": "버튼에 cursor: pointer 적용하기",
-    "link": "https://news.hada.io/topic?id=37264&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "id": "https://news.hada.io/topic?id=37332",
+    "title": "Squircles - 정사각형과 원 사이의 곡선, 구현 방식과 연속성 비교",
+    "link": "https://news.hada.io/topic?id=37332&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
     "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1794802173
+    "ts": 1794882831
   },
   {
-    "id": "https://news.hada.io/topic?id=37263",
-    "title": "Jiff - 시간대 처리를 중심에 둔 Rust 날짜와 시간 라이브러리",
-    "link": "https://news.hada.io/topic?id=37263&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "id": "https://news.ycombinator.com/item?id=50526584",
+    "title": "Tokendoctor – the same Claude Code for up to 38% less",
+    "link": "https://github.com/localixai/tokendoctor",
+    "source": "Hacker News: Front Page",
+    "ts": 1794881990
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=50526560",
+    "title": "If an App Asks for Full Disk Access or System and App Protection Override",
+    "link": "https://support.apple.com/en-us/149699",
+    "source": "Hacker News: Front Page",
+    "ts": 1794881824
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=50526537",
+    "title": "Mem Is Shutting Down",
+    "link": "https://get.mem.ai/blog/mem-is-shutting-down",
+    "source": "Hacker News: Front Page",
+    "ts": 1794881621
+  },
+  {
+    "id": "https://news.hada.io/topic?id=37328",
+    "title": "Show GN: Subscale - 여러 Tailscale 계정 중 주소별로 나눠 연결해주는 CLI 도구",
+    "link": "https://news.hada.io/topic?id=37328&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
     "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1794801993
+    "ts": 1794880048
   },
   {
-    "id": "https://news.ycombinator.com/item?id=50513843",
-    "title": "Linux was created as a rejection of robust software architecture and tools",
-    "link": "https://twitter.com/GrapheneOS/status/2122079826257588569",
-    "source": "Hacker News: Front Page",
-    "ts": 1794801484
-  },
-  {
-    "id": "https://news.hada.io/topic?id=37262",
-    "title": "Qwen4-Max - 네이티브 비전과 100만 토큰 컨텍스트를 갖춘 장기 작업용 AI 모델",
-    "link": "https://news.hada.io/topic?id=37262&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "id": "https://news.hada.io/topic?id=37327",
+    "title": "Windows 11, 사용하는 코딩 에이전트와 개발 도구 정보를 수집함",
+    "link": "https://news.hada.io/topic?id=37327&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
     "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1794801460
+    "ts": 1794879234
   },
   {
-    "id": "https://news.hada.io/topic?id=37261",
-    "title": "Show HN: Agweb - 작업을 방해하지 않는 에이전트용 브라우저",
-    "link": "https://news.hada.io/topic?id=37261&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "id": "https://news.ycombinator.com/item?id=50526152",
+    "title": "Running coding agents without handing them my credentials",
+    "link": "https://blog.antonio.cx/running-agents-with-lend",
+    "source": "Hacker News: Front Page",
+    "ts": 1794878336
+  },
+  {
+    "id": "https://news.hada.io/topic?id=37325",
+    "title": "Branchless Programming - CPU 분기 예측과 분기 없는 프로그래밍 이해하기",
+    "link": "https://news.hada.io/topic?id=37325&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
     "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1794801280
+    "ts": 1794877802
   },
   {
-    "id": "https://news.hada.io/topic?id=37260",
-    "title": "미국 하원의원의 주식 거래는 시장을 이길까? 8,900건의 거래 검증",
-    "link": "https://news.hada.io/topic?id=37260&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "id": "https://news.hada.io/topic?id=37324",
+    "title": "Modern Web Guidance 1.0 - 코딩 에이전트에 최신 웹 개발 지침을 제공하는 스킬 모음",
+    "link": "https://news.hada.io/topic?id=37324&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
     "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1794801100
+    "ts": 1794877802
   },
   {
-    "id": "https://news.hada.io/topic?id=37259",
-    "title": "clice v1.0 출시: 모던 C++ 언어 서버",
-    "link": "https://news.hada.io/topic?id=37259&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "id": "https://news.hada.io/topic?id=37321",
+    "title": "백준 온라인 저지 (BOJ) 11월 20일 재오픈",
+    "link": "https://news.hada.io/topic?id=37321&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
     "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1794800920
+    "ts": 1794877276
   },
   {
-    "id": "https://news.hada.io/topic?id=37258",
-    "title": "Odin으로 작성한 NES 에뮬레이터",
-    "link": "https://news.hada.io/topic?id=37258&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "id": "https://news.hada.io/topic?id=37320",
+    "title": "CI 시장은 세 갈래로 나뉘었다",
+    "link": "https://news.hada.io/topic?id=37320&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
     "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1794800740
+    "ts": 1794876001
   },
   {
-    "id": "https://lobste.rs/s/thiekk",
-    "title": "Paint in the memory of other programs",
-    "link": "https://citrons.xyz/journal/2026-04-13",
-    "source": "Lobsters",
-    "ts": 1794800256
-  },
-  {
-    "id": "https://news.ycombinator.com/item?id=50513451",
-    "title": "Tell HN: HN is being scraped for emails to scam",
-    "link": "https://news.ycombinator.com/item?id=50513451",
-    "source": "Hacker News: Front Page",
-    "ts": 1794797610
-  },
-  {
-    "id": "https://news.hada.io/topic?id=37254",
-    "title": "젠슨 황, Nvidia CEO 복귀를 위해 실리콘밸리 측근들과 논의 중",
-    "link": "https://news.hada.io/topic?id=37254&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "id": "https://news.hada.io/topic?id=37319",
+    "title": "세계 최대 브랜드들, Optimizely를 통해 악성코드에 감염",
+    "link": "https://news.hada.io/topic?id=37319&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
     "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1794796633
+    "ts": 1794875990
   },
   {
-    "id": "https://news.hada.io/topic?id=37253",
-    "title": "Vulcan 로켓, 비행 재개 발사 실패로 Amazon 위성 40기 손실",
-    "link": "https://news.hada.io/topic?id=37253&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "id": "https://news.hada.io/topic?id=37318",
+    "title": "United Airlines, 광범위한 시스템 장애 발생했다고 밝혀",
+    "link": "https://news.hada.io/topic?id=37318&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
     "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1794796453
+    "ts": 1794875810
   },
   {
-    "id": "https://news.hada.io/topic?id=37252",
-    "title": "Show GN: Landlink - 인터넷 없이 통신하는 오픈소스 프로젝트",
-    "link": "https://news.hada.io/topic?id=37252&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "id": "https://news.hada.io/topic?id=37317",
+    "title": "AVA - AI 에이전트용 데이터 분석 및 시각화 프레임워크",
+    "link": "https://news.hada.io/topic?id=37317&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
     "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1794796398
+    "ts": 1794875402
   },
   {
-    "id": "https://news.hada.io/topic?id=37251",
-    "title": "Show GN: agent-monitor - 어느 에이전트 세션이 내 답을 기다리는지 보여주는 macOS 메뉴바 앱",
-    "link": "https://news.hada.io/topic?id=37251&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "id": "https://news.hada.io/topic?id=37316",
+    "title": "AI 슬롭은 왜 이렇게 읽기 짜증날까?",
+    "link": "https://news.hada.io/topic?id=37316&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
     "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1794796377
+    "ts": 1794874804
   },
   {
-    "id": "https://news.ycombinator.com/item?id=50513215",
-    "title": "Qwen4-Max",
-    "link": "https://qwen.ai/blog?id=qwen4-max",
+    "id": "https://news.ycombinator.com/item?id=50525575",
+    "title": "Why 3dfx 1 cards had such a washed out color output?",
+    "link": "https://twitter.com/id_aa_carmack/status/2122478083319992513",
     "source": "Hacker News: Front Page",
-    "ts": 1794795284
+    "ts": 1794874584
   },
   {
-    "id": "https://news.ycombinator.com/item?id=50513160",
-    "title": "Universal XSS in uBlock Origin from website-driven element picker",
-    "link": "https://iter.ca/post/ubo-uxss/",
-    "source": "Hacker News: Front Page",
-    "ts": 1794794688
-  },
-  {
-    "id": "https://news.hada.io/topic?id=37249",
-    "title": "국토부, 구글의 1:5,000 지도 국외 반출 보안조건 이행 확인",
-    "link": "https://news.hada.io/topic?id=37249&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "id": "https://news.hada.io/topic?id=37314",
+    "title": "GitHub에서 Codeberg로 이전하기",
+    "link": "https://news.hada.io/topic?id=37314&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
     "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1794793802
+    "ts": 1794873891
   },
   {
-    "id": "https://lobste.rs/s/7kt4yi",
-    "title": "Nix: Using the eval-profiler",
-    "link": "https://nix.dev/manual/nix/2.35/advanced-topics/eval-profiler",
+    "id": "https://lobste.rs/s/wifhdc",
+    "title": "Software is breaking down at a systemic level",
+    "link": "https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/",
     "source": "Lobsters",
-    "ts": 1794792502
+    "ts": 1794872239
   },
   {
-    "id": "https://news.ycombinator.com/item?id=50512824",
-    "title": "Coles hit by a cybersecurity incident",
-    "link": "https://www.colesgroup.com.au/updates/",
+    "id": "https://news.ycombinator.com/item?id=50524767",
+    "title": "Optimizely compromised, served malware on Zoom, GitLab",
+    "link": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
     "source": "Hacker News: Front Page",
-    "ts": 1794791675
+    "ts": 1794870034
   },
   {
-    "id": "https://lobste.rs/s/md0vco",
-    "title": "beer.drv.drv.drv",
-    "link": "https://fzakaria.com/2026/11/14/beer-drv-drv-drv",
-    "source": "Lobsters",
-    "ts": 1794790048
-  },
-  {
-    "id": "https://news.ycombinator.com/item?id=50512441",
-    "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
-    "link": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
+    "id": "https://news.ycombinator.com/item?id=50524736",
+    "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
+    "link": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
     "source": "Hacker News: Front Page",
-    "ts": 1794788514
+    "ts": 1794869900
   },
   {
-    "id": "https://news.ycombinator.com/item?id=50512296",
-    "title": "Skydio's asymmetrical F10 Lightrunner solves a problem with fixed-wing drones",
-    "link": "https://spectrum.ieee.org/skydio-f10-lightrunner-asymmetrical-drone",
+    "id": "https://lobste.rs/s/sz6o8w",
+    "title": "Improving the Wii U's Wii Mode",
+    "link": "https://garyodernichts.blogspot.com/2026/11/improving-wii-us-wii-mode.html",
+    "source": "Lobsters",
+    "ts": 1794868794
+  },
+  {
+    "id": "https://lobste.rs/s/ki1l5r",
+    "title": "\"Proof of use\" as a requirement for open source contributions?",
+    "link": "https://lobste.rs/s/ki1l5r/proof_use_as_requirement_for_open_source",
+    "source": "Lobsters",
+    "ts": 1794867945
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=50524225",
+    "title": "How to Break into Security, Ptacek Edition (2012)",
+    "link": "https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/",
     "source": "Hacker News: Front Page",
-    "ts": 1794787392
+    "ts": 1794867563
   },
   {
-    "id": "https://news.ycombinator.com/item?id=50512235",
-    "title": "What's Next for Nvidia?",
-    "link": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
+    "id": "https://lobste.rs/s/jwtvrw",
+    "title": "Safe Systems-programming with Mutable Value Semantics | Dave Abrahams",
+    "link": "https://www.youtube.com/watch?v=op51SyyPJmw",
+    "source": "Lobsters",
+    "ts": 1794867183
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=50523784",
+    "title": "Spamhaus new email sender requirements in November",
+    "link": "https://www.spamhaus.org/sender-guidelines/",
     "source": "Hacker News: Front Page",
-    "ts": 1794786955
+    "ts": 1794865639
   },
   {
-    "id": "https://news.ycombinator.com/item?id=50512231",
-    "title": "Mini.nvim Is Now on Tangled",
-    "link": "https://tangled.org/nvim-mini.org/mini.nvim",
+    "id": "https://news.ycombinator.com/item?id=50523601",
+    "title": "BugMeNot has closed",
+    "link": "https://www.bugmenot.com/",
     "source": "Hacker News: Front Page",
-    "ts": 1794786941
+    "ts": 1794864737
   },
   {
-    "id": "https://lobste.rs/s/yervw7",
-    "title": "This Month in Redox - October 2026",
-    "link": "https://www.redox-os.org/news/this-month-261031/",
-    "source": "Lobsters",
-    "ts": 1794783945
-  },
-  {
-    "id": "https://news.ycombinator.com/item?id=50511806",
-    "title": "Preserving 30 years of Salon journalism",
-    "link": "https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/",
+    "id": "https://news.ycombinator.com/item?id=50523459",
+    "title": "OpenCode Browse",
+    "link": "https://opencode.ai/product/browse",
     "source": "Hacker News: Front Page",
-    "ts": 1794783611
+    "ts": 1794864037
   },
   {
-    "id": "https://lobste.rs/s/hgicaq",
-    "title": "Please Implement A Quorum Database",
-    "link": "https://transactional.blog/talk/please-implement-a-quorum-database",
-    "source": "Lobsters",
-    "ts": 1794782653
-  },
-  {
-    "id": "https://lobste.rs/s/dxxvek",
-    "title": "A datetime library for Rust",
-    "link": "https://burntsushi.net/jiff/",
-    "source": "Lobsters",
-    "ts": 1794782374
-  },
-  {
-    "id": "https://news.ycombinator.com/item?id=50511395",
-    "title": "Old Bitly links are being hijacked",
-    "link": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
+    "id": "https://news.ycombinator.com/item?id=50523291",
+    "title": "My Quest to push native Three.js quality match AAA Game Engines",
+    "link": "https://ben3d.ca/blog/building-the-aaa-lighting-pipeline-in-threejs",
     "source": "Hacker News: Front Page",
-    "ts": 1794780703
+    "ts": 1794863263
   },
   {
-    "id": "https://lobste.rs/s/9haygb",
-    "title": "clice v1.0 Released: Welcome to Modern C++",
-    "link": "https://www.ykiko.me/en/articles/2105384023094834022/",
-    "source": "Lobsters",
-    "ts": 1794777575
-  },
-  {
-    "id": "https://lobste.rs/s/om6v89",
-    "title": "Blog: Preventing Cross-Service UDP Loops in QUIC",
-    "link": "https://bughunters.google.com/blog/preventing-cross-service-udp-loops-in-quic",
-    "source": "Lobsters",
-    "ts": 1794774877
-  },
-  {
-    "id": "https://news.ycombinator.com/item?id=50510296",
-    "title": "WebGL Flight Simulator with seed generated terrain",
-    "link": "https://baron.by.dai.studio/",
+    "id": "https://news.ycombinator.com/item?id=50523025",
+    "title": "Comcast's \"fiber-powered Wi-Fi\" is cable, AT&T says in false advertising case",
+    "link": "https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/",
     "source": "Hacker News: Front Page",
-    "ts": 1794774005
+    "ts": 1794862088
   },
   {
-    "id": "https://news.ycombinator.com/item?id=50509972",
-    "title": "Handwriting, as a Font",
-    "link": "https://ductus.sorenblank.com",
+    "id": "https://news.ycombinator.com/item?id=50522980",
+    "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
+    "link": "https://www.cs.cmu.edu/learn/",
     "source": "Hacker News: Front Page",
-    "ts": 1794771733
+    "ts": 1794861816
   },
   {
-    "id": "https://news.ycombinator.com/item?id=50509837",
-    "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
-    "link": "https://bruceroettgers.eu/blog/protomaps/",
+    "id": "https://news.ycombinator.com/item?id=50522776",
+    "title": "Launch HN: Axonnic (YC F26) – Sleeves that track fingers and estimate force",
+    "link": "https://news.ycombinator.com/item?id=50522776",
     "source": "Hacker News: Front Page",
-    "ts": 1794770782
+    "ts": 1794860988
   },
   {
-    "id": "https://lobste.rs/s/ek4fkg",
-    "title": "All AI-generated code should be Open Source",
-    "link": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+    "id": "https://lobste.rs/s/n5jtzr",
+    "title": "Where did the ACK go?",
+    "link": "https://yashgarg.dev/posts/where-did-the-ack-go/",
     "source": "Lobsters",
-    "ts": 1794758641
+    "ts": 1794856760
   },
   {
-    "id": "https://lobste.rs/s/vdxevp",
-    "title": "Memory management in 40 major C projects, a survey",
-    "link": "https://theconsensus.dev/p/2026/11/08/c-memory-management-survey.html",
+    "id": "https://lobste.rs/s/s7mejx",
+    "title": "How Rust Changed Me As A Developer",
+    "link": "https://blog.startifact.com/posts/how-rust-changed-me/",
     "source": "Lobsters",
-    "ts": 1794747003
+    "ts": 1794853049
   },
   {
-    "id": "https://lobste.rs/s/dtjgmc",
-    "title": "A NES emulator written in Odin",
-    "link": "https://lucypero.com/lucynes.html",
+    "id": "https://lobste.rs/s/6t3oi4",
+    "title": "On Leaving Swift for Rust",
+    "link": "https://www.prux.org/posts/goodbye-swift-hello-rust/",
     "source": "Lobsters",
-    "ts": 1794746253
+    "ts": 1794851805
   },
   {
-    "id": "https://lobste.rs/s/h8tghc",
-    "title": "cursor:pointer on buttons",
-    "link": "https://blog.kizu.dev/cursors/",
+    "id": "https://lobste.rs/s/urcrqe",
+    "title": "Janet Reno was talking about my friend Coolio (computer criminal)",
+    "link": "https://michael.bacarella.com/2026/11/16/janet-reno-vs-my-friend-coolio/",
     "source": "Lobsters",
-    "ts": 1794734140
+    "ts": 1794847438
   },
   {
-    "id": "https://lobste.rs/s/hiayul",
-    "title": "FreeBSD bhyve Live Migration: Moving VMs Between Hosts",
-    "link": "https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/",
+    "id": "https://lobste.rs/s/gm4vao",
+    "title": "Quality IMAP, Part 1: Your Mailbox Is A Database",
+    "link": "https://aerogramme.deuxfleurs.fr/blog/2026-quality-imap-part-1/",
     "source": "Lobsters",
-    "ts": 1794725084
+    "ts": 1794846338
+  },
+  {
+    "id": "https://lobste.rs/s/8eivbk",
+    "title": "Enabling the parallel frontend on nightly",
+    "link": "https://blog.rust-lang.org/2026/11/16/enabling-parallel-frontend-on-nightly/",
+    "source": "Lobsters",
+    "ts": 1794842558
+  },
+  {
+    "id": "https://lobste.rs/s/iihw5u",
+    "title": "Squircles",
+    "link": "https://linebender.org/wiki/curves/squircle/",
+    "source": "Lobsters",
+    "ts": 1794837414
+  },
+  {
+    "id": "https://lobste.rs/s/dgvb5g",
+    "title": "What is w2rt6byl5nf1opmc-a[.]com?",
+    "link": "https://jack.cab/blog/siterate.html",
+    "source": "Lobsters",
+    "ts": 1794834131
+  },
+  {
+    "id": "https://lobste.rs/s/uegnml",
+    "title": "NoisyTCP",
+    "link": "https://www.openwall.com/lists/oss-security/2026/11/15/2",
+    "source": "Lobsters",
+    "ts": 1794833429
+  },
+  {
+    "id": "https://lobste.rs/s/isejqv",
+    "title": "What are you doing this week?",
+    "link": "https://lobste.rs/s/isejqv/what_are_you_doing_this_week",
+    "source": "Lobsters",
+    "ts": 1794827010
+  },
+  {
+    "id": "https://lobste.rs/s/emdfap",
+    "title": "you won't win at copyright",
+    "link": "https://ingrids.space/posts/you-wont-win-at-copyright/",
+    "source": "Lobsters",
+    "ts": 1794817813
   }
 ]
