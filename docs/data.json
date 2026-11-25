@@ -1,17 +1,311 @@
 [
   {
-    "id": "https://news.ycombinator.com/item?id=50625004",
-    "title": "I'm not excited about tech anymore",
-    "link": "https://www.coryd.dev/posts/2026/im-not-excited-about-tech-anymore",
-    "source": "Hacker News: Front Page",
-    "ts": 1795506372
+    "id": "https://news.hada.io/topic?id=37824",
+    "title": "샌드박스에 격리된 모델도 추론 서버를 통해 통신할 수 있음",
+    "link": "https://news.hada.io/topic?id=37824&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+    "ts": 1795592046
   },
   {
-    "id": "https://news.ycombinator.com/item?id=50624497",
-    "title": "2035 Came Early",
-    "link": "https://fzakaria.com/2026/11/23/2035-came-early",
+    "id": "https://news.hada.io/topic?id=37823",
+    "title": "USB-C 분리하기: 포트 하나에서 USB 3와 USB 2 함께 쓰기",
+    "link": "https://news.hada.io/topic?id=37823&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+    "ts": 1795588752
+  },
+  {
+    "id": "https://news.hada.io/topic?id=37822",
+    "title": "Button Sounds - 전문적으로 녹음한 버튼 클릭과 누름 소리 모음",
+    "link": "https://news.hada.io/topic?id=37822&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+    "ts": 1795588572
+  },
+  {
+    "id": "https://lobste.rs/s/srb0dp",
+    "title": "Marginalia Search, Money, C++, Rust, AI, stuff",
+    "link": "https://www.marginalia.nu/log/a_141_marginalia_update/",
+    "source": "Lobsters",
+    "ts": 1795587629
+  },
+  {
+    "id": "https://lobste.rs/s/n0itvf",
+    "title": "Flat/non-higher-order construction of ANF via mutable holes",
+    "link": "https://blueberrywren.dev/blog/anf-mutable/",
+    "source": "Lobsters",
+    "ts": 1795587099
+  },
+  {
+    "id": "https://news.hada.io/topic?id=37819",
+    "title": "PenGPT: 손글씨와 스케치를 위한 생성형 Transformer",
+    "link": "https://news.hada.io/topic?id=37819&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+    "ts": 1795585113
+  },
+  {
+    "id": "https://news.hada.io/topic?id=37818",
+    "title": "여행 가방에 들어가는 이탈리아 접이식 자전거 디자인",
+    "link": "https://news.hada.io/topic?id=37818&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+    "ts": 1795584933
+  },
+  {
+    "id": "https://lobste.rs/s/sj2pkv",
+    "title": "Abolish Lock Poisoning",
+    "link": "https://lucumr.pocoo.org/2026/11/25/poisoning/",
+    "source": "Lobsters",
+    "ts": 1795583437
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=50638503",
+    "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
+    "link": "https://gpu-demo-gallery.pages.dev/",
     "source": "Hacker News: Front Page",
-    "ts": 1795501833
+    "ts": 1795581108
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=50638478",
+    "title": "Taking over US Treasury subdomains for $3 each",
+    "link": "https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each",
+    "source": "Hacker News: Front Page",
+    "ts": 1795580875
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=50638320",
+    "title": "Gemini refused to give me the lyrics to Twinkle Twinkle Little Star",
+    "link": "https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F",
+    "source": "Hacker News: Front Page",
+    "ts": 1795579413
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=50638220",
+    "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
+    "link": "https://www.marginalia.nu/log/a_141_marginalia_update/",
+    "source": "Hacker News: Front Page",
+    "ts": 1795578462
+  },
+  {
+    "id": "https://news.hada.io/topic?id=37814",
+    "title": "Grafana 12.4.16, 13.0.14, 13.1.11, 13.2.7, 13.3.2 (여러 CVE 관련)",
+    "link": "https://news.hada.io/topic?id=37814&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+    "ts": 1795577760
+  },
+  {
+    "id": "https://news.hada.io/topic?id=37813",
+    "title": "Matrix Multiplication의 Θ(n^2.25) 시간 복잡도 [pdf]",
+    "link": "https://news.hada.io/topic?id=37813&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+    "ts": 1795577580
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=50638075",
+    "title": "A faster algorithm for extracting hexadecimal digits of π",
+    "link": "https://www.stylewarning.com/posts/faster-digit-extraction/",
+    "source": "Hacker News: Front Page",
+    "ts": 1795577322
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=50638070",
+    "title": "Serving Qwen via AWS Lambdas for fun and 80x negative profit",
+    "link": "https://noahbuilt.it/writing/qwen-on-5600-lambdas",
+    "source": "Hacker News: Front Page",
+    "ts": 1795577286
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=50638032",
+    "title": "Button Sounds – collection of professionally-recorded button clicks and presses",
+    "link": "https://buttons.joshwcomeau.com/",
+    "source": "Hacker News: Front Page",
+    "ts": 1795576987
+  },
+  {
+    "id": "https://lobste.rs/s/kn0pmh",
+    "title": "Matrix Multiplication is Θ(n^2.25)",
+    "link": "https://raw.githubusercontent.com/openai/math/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+    "source": "Lobsters",
+    "ts": 1795576559
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=50637891",
+    "title": "Macrohistory in Six Facts",
+    "link": "https://basilhalperin.com/essays/macrohistory.html",
+    "source": "Hacker News: Front Page",
+    "ts": 1795575886
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=50637890",
+    "title": "Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native",
+    "link": "https://rida.dev/blog/bypassing-ios-safari-60-fps-limit",
+    "source": "Hacker News: Front Page",
+    "ts": 1795575877
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=50637888",
+    "title": "Lua for data representation (2025)",
+    "link": "https://citrons.xyz/journal/2025-07-23",
+    "source": "Hacker News: Front Page",
+    "ts": 1795575852
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=50637874",
+    "title": "I've been drinking wine in my kitchen",
+    "link": "https://scottaaronson.blog/?p=10362",
+    "source": "Hacker News: Front Page",
+    "ts": 1795575730
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=50637871",
+    "title": "Top open problems in mathematics ranked by LLM-assessed importance",
+    "link": "https://www.proofatlas.ai/open-problems/",
+    "source": "Hacker News: Front Page",
+    "ts": 1795575696
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=50637686",
+    "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
+    "link": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
+    "source": "Hacker News: Front Page",
+    "ts": 1795574061
+  },
+  {
+    "id": "https://news.hada.io/topic?id=37812",
+    "title": "심장마비와 뇌졸중 위험, 수십 년 전에 감지 가능",
+    "link": "https://news.hada.io/topic?id=37812&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+    "ts": 1795574012
+  },
+  {
+    "id": "https://news.hada.io/topic?id=37811",
+    "title": "Show GN: Tern - Ctrl+ㅊ 를 Ctrl-C 로 처리해주는 한글 특화 터미널 에뮬레이터 앱",
+    "link": "https://news.hada.io/topic?id=37811&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+    "ts": 1795573217
+  },
+  {
+    "id": "https://news.hada.io/topic?id=37808",
+    "title": "GPT-6 모델, 내재적 단백질 설계 능력 입증",
+    "link": "https://news.hada.io/topic?id=37808&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+    "ts": 1795570463
+  },
+  {
+    "id": "https://news.hada.io/topic?id=37807",
+    "title": "AI 네이티브 서비스 비즈니스 모델의 내부 구조",
+    "link": "https://news.hada.io/topic?id=37807&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+    "ts": 1795569602
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=50637220",
+    "title": "Matrix Multiplication is Θ(n^2.25) [pdf]",
+    "link": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+    "source": "Hacker News: Front Page",
+    "ts": 1795569566
+  },
+  {
+    "id": "https://news.hada.io/topic?id=37806",
+    "title": "2026년 기업용 AI 현황",
+    "link": "https://news.hada.io/topic?id=37806&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+    "ts": 1795569002
+  },
+  {
+    "id": "https://news.hada.io/topic?id=37804",
+    "title": "오픈 소스에서 월 반복 매출 2만 달러까지: EmailEngine의 여정",
+    "link": "https://news.hada.io/topic?id=37804&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+    "ts": 1795568403
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=50637056",
+    "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
+    "link": "https://greydanus.github.io/2026/11/12/pengpt/",
+    "source": "Hacker News: Front Page",
+    "ts": 1795568089
+  },
+  {
+    "id": "https://news.hada.io/topic?id=37802",
+    "title": "Cloudflare가 기반 인프라의 미비점을 가림",
+    "link": "https://news.hada.io/topic?id=37802&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+    "ts": 1795567132
+  },
+  {
+    "id": "https://news.hada.io/topic?id=37801",
+    "title": "iPod Nano 5G 해방하기",
+    "link": "https://news.hada.io/topic?id=37801&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+    "ts": 1795566952
+  },
+  {
+    "id": "https://lobste.rs/s/qavfgc",
+    "title": "A faster algorithm for extracting hexadecimal digits of π",
+    "link": "https://www.stylewarning.com/posts/faster-digit-extraction/",
+    "source": "Lobsters",
+    "ts": 1795564383
+  },
+  {
+    "id": "https://lobste.rs/s/khb1yv",
+    "title": "From formal verification to bug-finding in CHERIoT",
+    "link": "https://cheriot.org/verification/2026/11/24/griotte-verification-effort.html",
+    "source": "Lobsters",
+    "ts": 1795564361
+  },
+  {
+    "id": "https://lobste.rs/s/em9zdb",
+    "title": "Pokemon Childhood Version: A romhack where Mew is under the truck",
+    "link": "https://wheybags.com/blog/pokemon_childhood_version.html",
+    "source": "Lobsters",
+    "ts": 1795562090
+  },
+  {
+    "id": "https://lobste.rs/s/sv2flr",
+    "title": "Why there are still no non-WebKit browsers on iOS",
+    "link": "https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/",
+    "source": "Lobsters",
+    "ts": 1795559307
+  },
+  {
+    "id": "https://lobste.rs/s/vciex6",
+    "title": "9/UX: a Macintosh-inspired desktop for 9front",
+    "link": "https://progrium.github.io/9ux/",
+    "source": "Lobsters",
+    "ts": 1795545449
+  },
+  {
+    "id": "https://lobste.rs/s/m7gqr6",
+    "title": "Per Vognsen on the effect of AVX-512 on lexing and parsing",
+    "link": "https://mastodon.social/@pervognsen/117668394962974183",
+    "source": "Lobsters",
+    "ts": 1795543909
+  },
+  {
+    "id": "https://lobste.rs/s/y56k2b",
+    "title": "Beyond Linux: A Journey Through the Open Source Ecosystem",
+    "link": "https://it-notes.dragas.net/2026/11/17/beyond-linux-a-journey-through-the-open-source-ecosystem/",
+    "source": "Lobsters",
+    "ts": 1795542329
+  },
+  {
+    "id": "https://lobste.rs/s/yyktrz",
+    "title": "I checked Clojure's core with Lean and found 17 unreported bugs",
+    "link": "https://s.conao3.com/blog/2026/e4f733",
+    "source": "Lobsters",
+    "ts": 1795533744
+  },
+  {
+    "id": "https://lobste.rs/s/rfcgkx",
+    "title": "Security incident on Hex.pm",
+    "link": "https://hex.pm/blog/security-incident-on-hexpm",
+    "source": "Lobsters",
+    "ts": 1795531939
+  },
+  {
+    "id": "https://lobste.rs/s/pxvmxo",
+    "title": "Bypassing iOS Safari 60 FPS Limit",
+    "link": "https://rida.dev/blog/bypassing-ios-safari-60-fps-limit",
+    "source": "Lobsters",
+    "ts": 1795516519
   },
   {
     "id": "https://lobste.rs/s/rkk6o8",
@@ -19,299 +313,5 @@
     "link": "https://fzakaria.com/2026/11/23/2035-came-early",
     "source": "Lobsters",
     "ts": 1795501815
-  },
-  {
-    "id": "https://news.hada.io/topic?id=37766",
-    "title": "Show GN: Whaatcher - AI 에이전트 기반 W/F에 최적화된 새로운 지향점의 개발 도구",
-    "link": "https://news.hada.io/topic?id=37766&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1795499730
-  },
-  {
-    "id": "https://news.hada.io/topic?id=37765",
-    "title": "뉴욕주, 지속 비용 없는 자동차 내장 기능의 구독료와 구매 후 추가 요금 금지",
-    "link": "https://news.hada.io/topic?id=37765&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1795498607
-  },
-  {
-    "id": "https://news.hada.io/topic?id=37764",
-    "title": "뉴욕주, 자동차 구독료와 구매 후 추가 요금 금지",
-    "link": "https://news.hada.io/topic?id=37764&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1795498427
-  },
-  {
-    "id": "https://news.ycombinator.com/item?id=50624061",
-    "title": "AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years",
-    "link": "https://www.phoronix.com/review/amd-epyc-9006-7601",
-    "source": "Hacker News: Front Page",
-    "ts": 1795497322
-  },
-  {
-    "id": "https://news.ycombinator.com/item?id=50623515",
-    "title": "Drone Maps of Salvage Yards",
-    "link": "https://salvageyarddrone.wordpress.com/",
-    "source": "Hacker News: Front Page",
-    "ts": 1795492828
-  },
-  {
-    "id": "https://news.hada.io/topic?id=37757",
-    "title": "Show GN: Synology Markdown Note - Synology Note Station용 Markdown 편집기",
-    "link": "https://news.hada.io/topic?id=37757&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1795492219
-  },
-  {
-    "id": "https://news.hada.io/topic?id=37755",
-    "title": "Bored.com: 심심할 때 둘러볼 재미있고 흥미로운 웹사이트 모음",
-    "link": "https://news.hada.io/topic?id=37755&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1795491161
-  },
-  {
-    "id": "https://news.hada.io/topic?id=37753",
-    "title": "Show GN: CRAMA FILE – 파일을 서버에 안 올리는 무료 PDF·이미지 도구 21종",
-    "link": "https://news.hada.io/topic?id=37753&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1795489003
-  },
-  {
-    "id": "https://news.ycombinator.com/item?id=50622934",
-    "title": "Making a dumb TV just smart enough",
-    "link": "https://qsantos.fr/2026/11/19/making-a-dumb-tv-just-smart-enough/",
-    "source": "Hacker News: Front Page",
-    "ts": 1795488414
-  },
-  {
-    "id": "https://news.hada.io/topic?id=37752",
-    "title": "GPUI가 독립 저장소를 갖게 됨",
-    "link": "https://news.hada.io/topic?id=37752&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1795487468
-  },
-  {
-    "id": "https://news.ycombinator.com/item?id=50622804",
-    "title": "Rune: Rust VM for Emacs",
-    "link": "https://github.com/CeleritasCelery/rune",
-    "source": "Hacker News: Front Page",
-    "ts": 1795487447
-  },
-  {
-    "id": "https://news.ycombinator.com/item?id=50622774",
-    "title": "New York Bans Subscription and Post-Purchase Fees on Cars",
-    "link": "https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription",
-    "source": "Hacker News: Front Page",
-    "ts": 1795487222
-  },
-  {
-    "id": "https://lobste.rs/s/2k95fs",
-    "title": "What VP != VNP Means (In 3 Minutes)",
-    "link": "https://www.friedgil.com/vpvnp/",
-    "source": "Lobsters",
-    "ts": 1795486230
-  },
-  {
-    "id": "https://news.hada.io/topic?id=37749",
-    "title": "NariQ: BF16 수준의 Qwen3.8-27B를 10GB 파일에 담다",
-    "link": "https://news.hada.io/topic?id=37749&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1795484358
-  },
-  {
-    "id": "https://news.hada.io/topic?id=37748",
-    "title": "Jensen Huang의 복귀는 미국 역사상 최대 국가안보 스캔들",
-    "link": "https://news.hada.io/topic?id=37748&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1795484178
-  },
-  {
-    "id": "https://lobste.rs/s/n2krd2",
-    "title": "the algebra of dependent types (2025)",
-    "link": "https://dotat.at/@/2025-05-28-types.html",
-    "source": "Lobsters",
-    "ts": 1795481501
-  },
-  {
-    "id": "https://news.hada.io/topic?id=37745",
-    "title": "평가는 AI 엔지니어링에서 가장 과소평가된 역량이다",
-    "link": "https://news.hada.io/topic?id=37745&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1795480802
-  },
-  {
-    "id": "https://news.hada.io/topic?id=37744",
-    "title": "Stalwart, 이제 Microsoft Exchange를 그대로 대체할 수 있음",
-    "link": "https://news.hada.io/topic?id=37744&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1795480459
-  },
-  {
-    "id": "https://news.hada.io/topic?id=37743",
-    "title": "FastFrames - 실시간 상호작용이 가능한 저지연 영상 생성",
-    "link": "https://news.hada.io/topic?id=37743&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1795480261
-  },
-  {
-    "id": "https://news.hada.io/topic?id=37742",
-    "title": "Pine - 파일과 메시지, 기기 변화에 반응해 작업하는 AI 에이전트 하네스",
-    "link": "https://news.hada.io/topic?id=37742&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1795480202
-  },
-  {
-    "id": "https://news.hada.io/topic?id=37741",
-    "title": "shirudo - 에이전트 시대를 위한 BPF 라이브 패치 인프라",
-    "link": "https://news.hada.io/topic?id=37741&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1795479891
-  },
-  {
-    "id": "https://lobste.rs/s/ezml41",
-    "title": "Lua for data representation",
-    "link": "https://citrons.xyz/journal/2025-07-23",
-    "source": "Lobsters",
-    "ts": 1795479725
-  },
-  {
-    "id": "https://news.hada.io/topic?id=37740",
-    "title": "OpenAI와 Cisco, 실행 중인 Linux 시스템을 보호하는 오픈소스 런타임 Shirudo 공개",
-    "link": "https://news.hada.io/topic?id=37740&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1795479689
-  },
-  {
-    "id": "https://news.ycombinator.com/item?id=50621466",
-    "title": "The Power of GraphQL, Without GraphQL",
-    "link": "https://cobalt27.dev/",
-    "source": "Hacker News: Front Page",
-    "ts": 1795478639
-  },
-  {
-    "id": "https://lobste.rs/s/fgbvtt",
-    "title": "cgo's pointer check is all over the place",
-    "link": "https://theconsensus.dev/p/2026/11/15/cgos-pointer-check.html",
-    "source": "Lobsters",
-    "ts": 1795476974
-  },
-  {
-    "id": "https://news.ycombinator.com/item?id=50620831",
-    "title": "The search for a top dark matter candidate",
-    "link": "https://www.smithsonianmag.com/science-nature/the-search-for-a-top-dark-matter-candidate-was-losing-hope-then-came-a-potential-signal-will-it-be-enough-to-energize-the-struggling-field-180989923/",
-    "source": "Hacker News: Front Page",
-    "ts": 1795475560
-  },
-  {
-    "id": "https://news.ycombinator.com/item?id=50620721",
-    "title": "Freeing the iPod Nano 5G",
-    "link": "https://viktorkrapivin.com/blog/nano5g-priv-prvd",
-    "source": "Hacker News: Front Page",
-    "ts": 1795474993
-  },
-  {
-    "id": "https://news.ycombinator.com/item?id=50620349",
-    "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
-    "link": "https://stalw.art/blog/microsoft-exchange-replacement/",
-    "source": "Hacker News: Front Page",
-    "ts": 1795473149
-  },
-  {
-    "id": "https://news.ycombinator.com/item?id=50620328",
-    "title": "Latent Introspection: LLMs Can Detect Prior Concept Injections",
-    "link": "https://arxiv.org/abs/2602.20031",
-    "source": "Hacker News: Front Page",
-    "ts": 1795472988
-  },
-  {
-    "id": "https://lobste.rs/s/fygpme",
-    "title": "Release: Roto v0.14.0",
-    "link": "https://community.nlnetlabs.nl/t/release-roto-v0-14-0/3511",
-    "source": "Lobsters",
-    "ts": 1795469527
-  },
-  {
-    "id": "https://news.ycombinator.com/item?id=50619207",
-    "title": "Bored.com: Fun, interesting and cool websites to explore when bored",
-    "link": "https://www.bored.com/",
-    "source": "Hacker News: Front Page",
-    "ts": 1795467676
-  },
-  {
-    "id": "https://news.ycombinator.com/item?id=50619103",
-    "title": "GPUI is getting its own repository",
-    "link": "https://github.com/zed-industries/gpui",
-    "source": "Hacker News: Front Page",
-    "ts": 1795467174
-  },
-  {
-    "id": "https://lobste.rs/s/xxgezw",
-    "title": "Illiterate Programming",
-    "link": "https://deadsimpletech.com/blog/illiterate-programming",
-    "source": "Lobsters",
-    "ts": 1795466729
-  },
-  {
-    "id": "https://lobste.rs/s/ht8v1g",
-    "title": "UQ researchers send an unblockable message using gravity",
-    "link": "https://news.uq.edu.au/2026-11-uq-researchers-send-unblockable-message-using-gravity",
-    "source": "Lobsters",
-    "ts": 1795464106
-  },
-  {
-    "id": "https://news.ycombinator.com/item?id=50617499",
-    "title": "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
-    "link": "https://arm.jonpalmisc.com/",
-    "source": "Hacker News: Front Page",
-    "ts": 1795461475
-  },
-  {
-    "id": "https://lobste.rs/s/wv9nhw",
-    "title": "Swapping Jolt's sorted collections to a B+tree",
-    "link": "https://yogthos.net/posts/2026-11-23-b+trees.html",
-    "source": "Lobsters",
-    "ts": 1795454102
-  },
-  {
-    "id": "https://lobste.rs/s/pdecff",
-    "title": "Sneakernet",
-    "link": "https://sneakernet.eu/",
-    "source": "Lobsters",
-    "ts": 1795450821
-  },
-  {
-    "id": "https://lobste.rs/s/h6webg",
-    "title": "Ladybird is now in alpha",
-    "link": "https://ladybird.org/posts/alpha/",
-    "source": "Lobsters",
-    "ts": 1795450383
-  },
-  {
-    "id": "https://lobste.rs/s/gtc9rg",
-    "title": "Held together by spare time: Reviving wiki.alpinelinux.org during PHP2Shell",
-    "link": "https://lambdacreate.com/posts/held-together-by-spare-time",
-    "source": "Lobsters",
-    "ts": 1795446991
-  },
-  {
-    "id": "https://lobste.rs/s/lnpwpu",
-    "title": "Quality IMAP, Part 2: Mailbox Concurrency",
-    "link": "https://aerogramme.deuxfleurs.fr/blog/2026-quality-imap-part-2/",
-    "source": "Lobsters",
-    "ts": 1795431908
-  },
-  {
-    "id": "https://lobste.rs/s/t8c4vj",
-    "title": "What are you doing this week?",
-    "link": "https://lobste.rs/s/t8c4vj/what_are_you_doing_this_week",
-    "source": "Lobsters",
-    "ts": 1795430254
-  },
-  {
-    "id": "https://lobste.rs/s/vldbcn",
-    "title": "Signal is Serious About Protecting Your Privacy",
-    "link": "https://signal.org/blog/protecting-your-privacy/",
-    "source": "Lobsters",
-    "ts": 1795419849
   }
 ]
