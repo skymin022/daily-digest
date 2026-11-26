@@ -1,24 +1,311 @@
 [
   {
-    "id": "https://news.hada.io/topic?id=37824",
-    "title": "샌드박스에 격리된 모델도 추론 서버를 통해 통신할 수 있음",
-    "link": "https://news.hada.io/topic?id=37824&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1795592046
+    "id": "https://news.ycombinator.com/item?id=50652370",
+    "title": "Mirror life is dangerous. Regulators must act before it becomes real",
+    "link": "https://www.economist.com/leaders/2026/10/01/mirror-life-is-dangerous-regulators-must-act-before-it-becomes-real",
+    "source": "Hacker News: Front Page",
+    "ts": 1795676759
   },
   {
-    "id": "https://news.hada.io/topic?id=37823",
-    "title": "USB-C 분리하기: 포트 하나에서 USB 3와 USB 2 함께 쓰기",
-    "link": "https://news.hada.io/topic?id=37823&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "id": "https://news.hada.io/topic?id=37884",
+    "title": "Hex.pm 보안 사고 발생",
+    "link": "https://news.hada.io/topic?id=37884&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
     "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1795588752
+    "ts": 1795676631
   },
   {
-    "id": "https://news.hada.io/topic?id=37822",
-    "title": "Button Sounds - 전문적으로 녹음한 버튼 클릭과 누름 소리 모음",
-    "link": "https://news.hada.io/topic?id=37822&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "id": "https://lobste.rs/s/w4kxiz",
+    "title": "How WinHelp files work",
+    "link": "https://quin.fyi/posts/how-winhelp-files-work.html",
+    "source": "Lobsters",
+    "ts": 1795675140
+  },
+  {
+    "id": "https://news.hada.io/topic?id=37883",
+    "title": "미국 배심원단, Huawei의 사기 및 이란 제재 위반 혐의에 유죄 평결",
+    "link": "https://news.hada.io/topic?id=37883&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
     "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1795588572
+    "ts": 1795674787
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=50652184",
+    "title": "Moat: Your OpenRouter Replacement",
+    "link": "https://commandcode.ai/moat",
+    "source": "Hacker News: Front Page",
+    "ts": 1795674768
+  },
+  {
+    "id": "https://news.hada.io/topic?id=37880",
+    "title": "과학자들은 인공지능 에이전트에 대해 어디까지 허용 범위를 정해야 할까요?",
+    "link": "https://news.hada.io/topic?id=37880&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+    "ts": 1795671314
+  },
+  {
+    "id": "https://news.hada.io/topic?id=37879",
+    "title": "Tell HN: Ask HN 게시물이 다시 많아졌습니다",
+    "link": "https://news.hada.io/topic?id=37879&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+    "ts": 1795671115
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=50651719",
+    "title": "Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years",
+    "link": "https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/",
+    "source": "Hacker News: Front Page",
+    "ts": 1795669979
+  },
+  {
+    "id": "https://news.hada.io/topic?id=37878",
+    "title": "Show GN: 하루뇌운동 - 60세 이상을 위한 매일 2분 두뇌 측정과 시간 제한 없는 훈련 게임",
+    "link": "https://news.hada.io/topic?id=37878&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+    "ts": 1795669124
+  },
+  {
+    "id": "https://lobste.rs/s/hge0sd",
+    "title": "Browser tabs as a container runtime",
+    "link": "https://fzakaria.com/2026/11/25/browser-tabs-as-a-container-runtime",
+    "source": "Lobsters",
+    "ts": 1795669024
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=50651158",
+    "title": "Qualcomm's Oryon 3 Reaches the Top",
+    "link": "https://chipsandcheese.com/p/qualcomms-oryon-3-reaches-the-top",
+    "source": "Hacker News: Front Page",
+    "ts": 1795664604
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=50651117",
+    "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+    "link": "https://twitter.com/thsottiaux/status/2125784147889393806",
+    "source": "Hacker News: Front Page",
+    "ts": 1795664218
+  },
+  {
+    "id": "https://news.hada.io/topic?id=37876",
+    "title": "Ubuntu의 느린 보안 대응",
+    "link": "https://news.hada.io/topic?id=37876&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+    "ts": 1795663926
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=50650892",
+    "title": "Minipg: PostgreSQL as a Single Executable",
+    "link": "https://progrium.github.io/minipg/",
+    "source": "Hacker News: Front Page",
+    "ts": 1795662048
+  },
+  {
+    "id": "https://news.hada.io/topic?id=37871",
+    "title": "1인 조직이 온다",
+    "link": "https://news.hada.io/topic?id=37871&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+    "ts": 1795658402
+  },
+  {
+    "id": "https://news.hada.io/topic?id=37870",
+    "title": "우리가 알던 기능 발견 방식의 종말",
+    "link": "https://news.hada.io/topic?id=37870&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+    "ts": 1795657802
+  },
+  {
+    "id": "https://news.hada.io/topic?id=37868",
+    "title": "지금 효과를 내는 B2B GTM 전략 5가지와 실제 사례",
+    "link": "https://news.hada.io/topic?id=37868&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+    "ts": 1795657202
+  },
+  {
+    "id": "https://news.hada.io/topic?id=37867",
+    "title": "AI 검색 메타 분석 - 2026년 4분기",
+    "link": "https://news.hada.io/topic?id=37867&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+    "ts": 1795656602
+  },
+  {
+    "id": "https://news.hada.io/topic?id=37866",
+    "title": "2026 앱 수익화 현황: 앱이 월 500달러에서 100만 달러까지 성장하는 방법",
+    "link": "https://news.hada.io/topic?id=37866&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+    "ts": 1795656003
+  },
+  {
+    "id": "https://news.hada.io/topic?id=37865",
+    "title": "바이럴 제품 출시의 비밀",
+    "link": "https://news.hada.io/topic?id=37865&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+    "ts": 1795655401
+  },
+  {
+    "id": "https://news.hada.io/topic?id=37863",
+    "title": "락 포이즈닝을 폐지하자",
+    "link": "https://news.hada.io/topic?id=37863&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+    "ts": 1795655012
+  },
+  {
+    "id": "https://lobste.rs/s/faqxns",
+    "title": "The beauty of CSS mixins",
+    "link": "https://patrickbrosset.com/articles/2026-11-25-the-beauty-of-css-mixins/",
+    "source": "Lobsters",
+    "ts": 1795654937
+  },
+  {
+    "id": "https://lobste.rs/s/pbfhis",
+    "title": "UI style guides",
+    "link": "https://aresluna.org/ui-style-guides/",
+    "source": "Lobsters",
+    "ts": 1795654450
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=50649864",
+    "title": "Tell HN: Lots of Ask HNs again",
+    "link": "https://news.ycombinator.com/item?id=50649864",
+    "source": "Hacker News: Front Page",
+    "ts": 1795653814
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=50649834",
+    "title": "Collection of preserved UI style guides",
+    "link": "https://aresluna.org/ui-style-guides/",
+    "source": "Hacker News: Front Page",
+    "ts": 1795653600
+  },
+  {
+    "id": "https://news.hada.io/topic?id=37861",
+    "title": "오래된 Java 휴대폰을 다시 인터넷에 연결하기",
+    "link": "https://news.hada.io/topic?id=37861&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+    "ts": 1795653178
+  },
+  {
+    "id": "https://news.hada.io/topic?id=37860",
+    "title": "Relax - Rust 코드를 바로 실행하고 수정 사항을 반영하는 JIT 컴파일러",
+    "link": "https://news.hada.io/topic?id=37860&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+    "ts": 1795653002
+  },
+  {
+    "id": "https://lobste.rs/s/9imhob",
+    "title": "Make the Plan a Value",
+    "link": "https://jackkelly.name/blog/archives/2026/11/26/make_the_plan_a_value",
+    "source": "Lobsters",
+    "ts": 1795651926
+  },
+  {
+    "id": "https://lobste.rs/s/rtde6f",
+    "title": "SSH is a GUI framework",
+    "link": "https://zydra.sh/articles/ssh-is-a-gui-framework/",
+    "source": "Lobsters",
+    "ts": 1795647347
+  },
+  {
+    "id": "https://lobste.rs/s/l6g7j1",
+    "title": "Typed indexes in Zig",
+    "link": "https://lvignoli.eu/posts/2026-11-16-typed-indexes-in-zig/",
+    "source": "Lobsters",
+    "ts": 1795646924
+  },
+  {
+    "id": "https://lobste.rs/s/8rgqmw",
+    "title": "Entering the Geminispace",
+    "link": "https://jmmv.dev/2026/11/entering-the-geminispace.html",
+    "source": "Lobsters",
+    "ts": 1795646585
+  },
+  {
+    "id": "https://lobste.rs/s/tlwot6",
+    "title": "Generalized Riemann Hypothesis proof in Lean 4, in 76k lines (down from 17M)",
+    "link": "https://leanprover.zulipchat.com/#narrow/channel/658556-Riemann-Hypothesis/topic/Cleaning.20up.20the.20proof/near/643702366",
+    "source": "Lobsters",
+    "ts": 1795645616
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=50648365",
+    "title": "Bare Metal Qwen",
+    "link": "https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os",
+    "source": "Hacker News: Front Page",
+    "ts": 1795644934
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=50648323",
+    "title": "Deploying a payphone on a tiny Pacific Island for fun and zero profit",
+    "link": "https://nickvsnetworking.com/deploying-a-payphone-on-a-tiny-pacific-island-for-fun-and-zero-profit/",
+    "source": "Hacker News: Front Page",
+    "ts": 1795644745
+  },
+  {
+    "id": "https://lobste.rs/s/ilit8q",
+    "title": "Scott Aaronson on recent complexity theory AI achievements",
+    "link": "https://scottaaronson.blog/?p=10379",
+    "source": "Lobsters",
+    "ts": 1795643572
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=50648050",
+    "title": "Much shorter version of GRH Lean verification from Anthropic",
+    "link": "https://github.com/lsernau/grh-lean",
+    "source": "Hacker News: Front Page",
+    "ts": 1795643290
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=50647673",
+    "title": "The New York Times warns photographers not to update Photoshop over AI features",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+    "source": "Hacker News: Front Page",
+    "ts": 1795641482
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=50647181",
+    "title": "Slow Ubuntu security response times",
+    "link": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
+    "source": "Hacker News: Front Page",
+    "ts": 1795639080
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=50647161",
+    "title": "Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server",
+    "link": "https://opensec.in/blog/nfs2root-cve-2026-99362",
+    "source": "Hacker News: Front Page",
+    "ts": 1795638950
+  },
+  {
+    "id": "https://lobste.rs/s/wzlzlh",
+    "title": "Slow Ubuntu security response times",
+    "link": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
+    "source": "Lobsters",
+    "ts": 1795637424
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=50646108",
+    "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
+    "link": "https://scottaaronson.blog/?p=10379",
+    "source": "Hacker News: Front Page",
+    "ts": 1795633887
+  },
+  {
+    "id": "https://lobste.rs/s/aulbi2",
+    "title": "Update on a security incident involving 1Password’s backend systems",
+    "link": "https://1password.com/blog/update-on-nov-2026-security-incident",
+    "source": "Lobsters",
+    "ts": 1795628593
+  },
+  {
+    "id": "https://lobste.rs/s/tf9ldm",
+    "title": "October in Servo: video captions and inert content",
+    "link": "https://servo.org/blog/2026/11/25/october-in-servo/",
+    "source": "Lobsters",
+    "ts": 1795617091
+  },
+  {
+    "id": "https://lobste.rs/s/lyyksp",
+    "title": "Optimizing Rustc's next trait solver",
+    "link": "https://donsz.nl/blog/optimizing-rustcs-next-trait-solver",
+    "source": "Lobsters",
+    "ts": 1795612162
   },
   {
     "id": "https://lobste.rs/s/srb0dp",
@@ -26,292 +313,5 @@
     "link": "https://www.marginalia.nu/log/a_141_marginalia_update/",
     "source": "Lobsters",
     "ts": 1795587629
-  },
-  {
-    "id": "https://lobste.rs/s/n0itvf",
-    "title": "Flat/non-higher-order construction of ANF via mutable holes",
-    "link": "https://blueberrywren.dev/blog/anf-mutable/",
-    "source": "Lobsters",
-    "ts": 1795587099
-  },
-  {
-    "id": "https://news.hada.io/topic?id=37819",
-    "title": "PenGPT: 손글씨와 스케치를 위한 생성형 Transformer",
-    "link": "https://news.hada.io/topic?id=37819&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1795585113
-  },
-  {
-    "id": "https://news.hada.io/topic?id=37818",
-    "title": "여행 가방에 들어가는 이탈리아 접이식 자전거 디자인",
-    "link": "https://news.hada.io/topic?id=37818&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1795584933
-  },
-  {
-    "id": "https://lobste.rs/s/sj2pkv",
-    "title": "Abolish Lock Poisoning",
-    "link": "https://lucumr.pocoo.org/2026/11/25/poisoning/",
-    "source": "Lobsters",
-    "ts": 1795583437
-  },
-  {
-    "id": "https://news.ycombinator.com/item?id=50638503",
-    "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
-    "link": "https://gpu-demo-gallery.pages.dev/",
-    "source": "Hacker News: Front Page",
-    "ts": 1795581108
-  },
-  {
-    "id": "https://news.ycombinator.com/item?id=50638478",
-    "title": "Taking over US Treasury subdomains for $3 each",
-    "link": "https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each",
-    "source": "Hacker News: Front Page",
-    "ts": 1795580875
-  },
-  {
-    "id": "https://news.ycombinator.com/item?id=50638320",
-    "title": "Gemini refused to give me the lyrics to Twinkle Twinkle Little Star",
-    "link": "https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F",
-    "source": "Hacker News: Front Page",
-    "ts": 1795579413
-  },
-  {
-    "id": "https://news.ycombinator.com/item?id=50638220",
-    "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
-    "link": "https://www.marginalia.nu/log/a_141_marginalia_update/",
-    "source": "Hacker News: Front Page",
-    "ts": 1795578462
-  },
-  {
-    "id": "https://news.hada.io/topic?id=37814",
-    "title": "Grafana 12.4.16, 13.0.14, 13.1.11, 13.2.7, 13.3.2 (여러 CVE 관련)",
-    "link": "https://news.hada.io/topic?id=37814&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1795577760
-  },
-  {
-    "id": "https://news.hada.io/topic?id=37813",
-    "title": "Matrix Multiplication의 Θ(n^2.25) 시간 복잡도 [pdf]",
-    "link": "https://news.hada.io/topic?id=37813&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1795577580
-  },
-  {
-    "id": "https://news.ycombinator.com/item?id=50638075",
-    "title": "A faster algorithm for extracting hexadecimal digits of π",
-    "link": "https://www.stylewarning.com/posts/faster-digit-extraction/",
-    "source": "Hacker News: Front Page",
-    "ts": 1795577322
-  },
-  {
-    "id": "https://news.ycombinator.com/item?id=50638070",
-    "title": "Serving Qwen via AWS Lambdas for fun and 80x negative profit",
-    "link": "https://noahbuilt.it/writing/qwen-on-5600-lambdas",
-    "source": "Hacker News: Front Page",
-    "ts": 1795577286
-  },
-  {
-    "id": "https://news.ycombinator.com/item?id=50638032",
-    "title": "Button Sounds – collection of professionally-recorded button clicks and presses",
-    "link": "https://buttons.joshwcomeau.com/",
-    "source": "Hacker News: Front Page",
-    "ts": 1795576987
-  },
-  {
-    "id": "https://lobste.rs/s/kn0pmh",
-    "title": "Matrix Multiplication is Θ(n^2.25)",
-    "link": "https://raw.githubusercontent.com/openai/math/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
-    "source": "Lobsters",
-    "ts": 1795576559
-  },
-  {
-    "id": "https://news.ycombinator.com/item?id=50637891",
-    "title": "Macrohistory in Six Facts",
-    "link": "https://basilhalperin.com/essays/macrohistory.html",
-    "source": "Hacker News: Front Page",
-    "ts": 1795575886
-  },
-  {
-    "id": "https://news.ycombinator.com/item?id=50637890",
-    "title": "Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native",
-    "link": "https://rida.dev/blog/bypassing-ios-safari-60-fps-limit",
-    "source": "Hacker News: Front Page",
-    "ts": 1795575877
-  },
-  {
-    "id": "https://news.ycombinator.com/item?id=50637888",
-    "title": "Lua for data representation (2025)",
-    "link": "https://citrons.xyz/journal/2025-07-23",
-    "source": "Hacker News: Front Page",
-    "ts": 1795575852
-  },
-  {
-    "id": "https://news.ycombinator.com/item?id=50637874",
-    "title": "I've been drinking wine in my kitchen",
-    "link": "https://scottaaronson.blog/?p=10362",
-    "source": "Hacker News: Front Page",
-    "ts": 1795575730
-  },
-  {
-    "id": "https://news.ycombinator.com/item?id=50637871",
-    "title": "Top open problems in mathematics ranked by LLM-assessed importance",
-    "link": "https://www.proofatlas.ai/open-problems/",
-    "source": "Hacker News: Front Page",
-    "ts": 1795575696
-  },
-  {
-    "id": "https://news.ycombinator.com/item?id=50637686",
-    "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
-    "link": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
-    "source": "Hacker News: Front Page",
-    "ts": 1795574061
-  },
-  {
-    "id": "https://news.hada.io/topic?id=37812",
-    "title": "심장마비와 뇌졸중 위험, 수십 년 전에 감지 가능",
-    "link": "https://news.hada.io/topic?id=37812&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1795574012
-  },
-  {
-    "id": "https://news.hada.io/topic?id=37811",
-    "title": "Show GN: Tern - Ctrl+ㅊ 를 Ctrl-C 로 처리해주는 한글 특화 터미널 에뮬레이터 앱",
-    "link": "https://news.hada.io/topic?id=37811&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1795573217
-  },
-  {
-    "id": "https://news.hada.io/topic?id=37808",
-    "title": "GPT-6 모델, 내재적 단백질 설계 능력 입증",
-    "link": "https://news.hada.io/topic?id=37808&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1795570463
-  },
-  {
-    "id": "https://news.hada.io/topic?id=37807",
-    "title": "AI 네이티브 서비스 비즈니스 모델의 내부 구조",
-    "link": "https://news.hada.io/topic?id=37807&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1795569602
-  },
-  {
-    "id": "https://news.ycombinator.com/item?id=50637220",
-    "title": "Matrix Multiplication is Θ(n^2.25) [pdf]",
-    "link": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
-    "source": "Hacker News: Front Page",
-    "ts": 1795569566
-  },
-  {
-    "id": "https://news.hada.io/topic?id=37806",
-    "title": "2026년 기업용 AI 현황",
-    "link": "https://news.hada.io/topic?id=37806&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1795569002
-  },
-  {
-    "id": "https://news.hada.io/topic?id=37804",
-    "title": "오픈 소스에서 월 반복 매출 2만 달러까지: EmailEngine의 여정",
-    "link": "https://news.hada.io/topic?id=37804&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1795568403
-  },
-  {
-    "id": "https://news.ycombinator.com/item?id=50637056",
-    "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
-    "link": "https://greydanus.github.io/2026/11/12/pengpt/",
-    "source": "Hacker News: Front Page",
-    "ts": 1795568089
-  },
-  {
-    "id": "https://news.hada.io/topic?id=37802",
-    "title": "Cloudflare가 기반 인프라의 미비점을 가림",
-    "link": "https://news.hada.io/topic?id=37802&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1795567132
-  },
-  {
-    "id": "https://news.hada.io/topic?id=37801",
-    "title": "iPod Nano 5G 해방하기",
-    "link": "https://news.hada.io/topic?id=37801&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1795566952
-  },
-  {
-    "id": "https://lobste.rs/s/qavfgc",
-    "title": "A faster algorithm for extracting hexadecimal digits of π",
-    "link": "https://www.stylewarning.com/posts/faster-digit-extraction/",
-    "source": "Lobsters",
-    "ts": 1795564383
-  },
-  {
-    "id": "https://lobste.rs/s/khb1yv",
-    "title": "From formal verification to bug-finding in CHERIoT",
-    "link": "https://cheriot.org/verification/2026/11/24/griotte-verification-effort.html",
-    "source": "Lobsters",
-    "ts": 1795564361
-  },
-  {
-    "id": "https://lobste.rs/s/em9zdb",
-    "title": "Pokemon Childhood Version: A romhack where Mew is under the truck",
-    "link": "https://wheybags.com/blog/pokemon_childhood_version.html",
-    "source": "Lobsters",
-    "ts": 1795562090
-  },
-  {
-    "id": "https://lobste.rs/s/sv2flr",
-    "title": "Why there are still no non-WebKit browsers on iOS",
-    "link": "https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/",
-    "source": "Lobsters",
-    "ts": 1795559307
-  },
-  {
-    "id": "https://lobste.rs/s/vciex6",
-    "title": "9/UX: a Macintosh-inspired desktop for 9front",
-    "link": "https://progrium.github.io/9ux/",
-    "source": "Lobsters",
-    "ts": 1795545449
-  },
-  {
-    "id": "https://lobste.rs/s/m7gqr6",
-    "title": "Per Vognsen on the effect of AVX-512 on lexing and parsing",
-    "link": "https://mastodon.social/@pervognsen/117668394962974183",
-    "source": "Lobsters",
-    "ts": 1795543909
-  },
-  {
-    "id": "https://lobste.rs/s/y56k2b",
-    "title": "Beyond Linux: A Journey Through the Open Source Ecosystem",
-    "link": "https://it-notes.dragas.net/2026/11/17/beyond-linux-a-journey-through-the-open-source-ecosystem/",
-    "source": "Lobsters",
-    "ts": 1795542329
-  },
-  {
-    "id": "https://lobste.rs/s/yyktrz",
-    "title": "I checked Clojure's core with Lean and found 17 unreported bugs",
-    "link": "https://s.conao3.com/blog/2026/e4f733",
-    "source": "Lobsters",
-    "ts": 1795533744
-  },
-  {
-    "id": "https://lobste.rs/s/rfcgkx",
-    "title": "Security incident on Hex.pm",
-    "link": "https://hex.pm/blog/security-incident-on-hexpm",
-    "source": "Lobsters",
-    "ts": 1795531939
-  },
-  {
-    "id": "https://lobste.rs/s/pxvmxo",
-    "title": "Bypassing iOS Safari 60 FPS Limit",
-    "link": "https://rida.dev/blog/bypassing-ios-safari-60-fps-limit",
-    "source": "Lobsters",
-    "ts": 1795516519
-  },
-  {
-    "id": "https://lobste.rs/s/rkk6o8",
-    "title": "2035 came early",
-    "link": "https://fzakaria.com/2026/11/23/2035-came-early",
-    "source": "Lobsters",
-    "ts": 1795501815
   }
 ]
