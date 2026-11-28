@@ -1,296 +1,317 @@
 [
   {
+    "id": "https://news.hada.io/topic?id=37991",
+    "title": "임대인의 AI 비서가 월세 납부를 미뤄도 된다고 안내한 뒤 퇴거당한 여성",
+    "link": "https://news.hada.io/topic?id=37991&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+    "ts": 1795847557
+  },
+  {
+    "id": "https://news.hada.io/topic?id=37990",
+    "title": "Atari Homebrew Awards 취소",
+    "link": "https://news.hada.io/topic?id=37990&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+    "ts": 1795844003
+  },
+  {
+    "id": "https://news.hada.io/topic?id=37989",
+    "title": ".php 최상위 도메인 신청에 대한 반대 의견, ICANN 사이트에 공개",
+    "link": "https://news.hada.io/topic?id=37989&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+    "ts": 1795842113
+  },
+  {
+    "id": "https://news.hada.io/topic?id=37988",
+    "title": "Balatro 개발 연대기",
+    "link": "https://news.hada.io/topic?id=37988&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+    "ts": 1795840464
+  },
+  {
+    "id": "https://news.hada.io/topic?id=37987",
+    "title": "Google DeepCrossAttention, 최대 3배 빠르게 동등한 모델 품질 달성",
+    "link": "https://news.hada.io/topic?id=37987&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+    "ts": 1795836803
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=50674218",
+    "title": "Unkernel: Real Linux kernel, compiled to WebAssembly",
+    "link": "https://unkernel.dev",
+    "source": "Hacker News: Front Page",
+    "ts": 1795835960
+  },
+  {
+    "id": "https://news.hada.io/topic?id=37984",
+    "title": "Citroën 유압 시스템",
+    "link": "https://news.hada.io/topic?id=37984&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+    "ts": 1795833259
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=50673688",
+    "title": "Atari Homebrew Awards Cancelled",
+    "link": "https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/",
+    "source": "Hacker News: Front Page",
+    "ts": 1795831405
+  },
+  {
+    "id": "https://news.hada.io/topic?id=37983",
+    "title": "“나는 두렵다”: 《Careless People》의 Sarah Wynn-Williams가 겪는 발언 금지 명령 아래의 삶",
+    "link": "https://news.hada.io/topic?id=37983&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+    "ts": 1795829610
+  },
+  {
+    "id": "https://news.hada.io/topic?id=37980",
+    "title": "BUI: BlenderUI를 사용하는 세계 최대 2D 차트 라이브러리",
+    "link": "https://news.hada.io/topic?id=37980&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+    "ts": 1795825895
+  },
+  {
+    "id": "https://news.hada.io/topic?id=37979",
+    "title": "Jolt - C와 대화하는 Clojure",
+    "link": "https://news.hada.io/topic?id=37979&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+    "ts": 1795825802
+  },
+  {
+    "id": "https://lobste.rs/s/ulfg29",
+    "title": "FastLanes: Next-gen File Format",
+    "link": "https://research.vu.nl/files/447013431/afroozehphdthesis%20-%2069280d90f0bfd.pdf",
+    "source": "Lobsters",
+    "ts": 1795824773
+  },
+  {
+    "id": "https://news.hada.io/topic?id=37978",
+    "title": "모두가 모든 것을 만들고 있다",
+    "link": "https://news.hada.io/topic?id=37978&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+    "ts": 1795824602
+  },
+  {
+    "id": "https://news.hada.io/topic?id=37976",
+    "title": "머신러닝의 불확실성 입문",
+    "link": "https://news.hada.io/topic?id=37976&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+    "ts": 1795823185
+  },
+  {
+    "id": "https://news.hada.io/topic?id=37975",
+    "title": "컴퓨터 검증을 통과한 거짓 증명",
+    "link": "https://news.hada.io/topic?id=37975&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+    "ts": 1795823005
+  },
+  {
+    "id": "https://news.hada.io/topic?id=37974",
+    "title": "미국 주정부들, Grok의 비동의 성적 이미지 생성 및 유통 문제로 SpaceX 제소",
+    "link": "https://news.hada.io/topic?id=37974&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+    "ts": 1795822825
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=50672565",
+    "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+    "link": "https://research.google/blog/supercharging-transformer-residual-connections/",
+    "source": "Hacker News: Front Page",
+    "ts": 1795820789
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=50672521",
+    "title": "Tabernetes: A Kubernetes cluster whose nodes are browser tabs",
+    "link": "https://tabernet.es/",
+    "source": "Hacker News: Front Page",
+    "ts": 1795820430
+  },
+  {
+    "id": "https://news.hada.io/topic?id=37973",
+    "title": "Convex 스킬, 사용자에게 알리지 않고 앱 아이디어를 원격 서버로 전송",
+    "link": "https://news.hada.io/topic?id=37973&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+    "ts": 1795818760
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=50672142",
+    "title": "Source Control from Hell",
+    "link": "https://frantic.im/git/",
+    "source": "Hacker News: Front Page",
+    "ts": 1795817204
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=50672008",
+    "title": "9/UX: a Macintosh-inspired desktop for 9front",
+    "link": "https://progrium.github.io/9ux/",
+    "source": "Hacker News: Front Page",
+    "ts": 1795816094
+  },
+  {
+    "id": "https://news.hada.io/topic?id=37972",
+    "title": "DART 소행성 궤도 변경 실험의 충돌 흔적을 담은 첫 이미지",
+    "link": "https://news.hada.io/topic?id=37972&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
+    "ts": 1795815467
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=50671651",
+    "title": "SessionGraph: Visualize all your coding agent sessions in one interactive graph",
+    "link": "https://sessiongraph.ai/",
+    "source": "Hacker News: Front Page",
+    "ts": 1795813654
+  },
+  {
+    "id": "https://lobste.rs/s/ohmjfv",
+    "title": "Proof automation in a language",
+    "link": "https://www.imperialviolet.org/2026/11/15/proofauto2.html",
+    "source": "Lobsters",
+    "ts": 1795812122
+  },
+  {
+    "id": "https://lobste.rs/s/kikmfz",
+    "title": "x86 is an octal machine",
+    "link": "https://gist.github.com/seanjensengrey/f971c20d05d4d0efc0781f2f3c0353da",
+    "source": "Lobsters",
+    "ts": 1795811044
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=50671275",
+    "title": "Prospero: Bloat-free, native AI coding harness with ImGui",
+    "link": "https://github.com/skeeto/prospero",
+    "source": "Hacker News: Front Page",
+    "ts": 1795810994
+  },
+  {
+    "id": "https://lobste.rs/s/amjski",
+    "title": "Why optimistic updates are corrosive",
+    "link": "https://datastar-instant-intent.ndyg.cross.stream/corrosive/",
+    "source": "Lobsters",
+    "ts": 1795809710
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=50670855",
+    "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+    "link": "https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform",
+    "source": "Hacker News: Front Page",
+    "ts": 1795808545
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=50670841",
+    "title": "The AT&T Unix PC (3B1) VM",
+    "link": "https://virtuallyfun.com/2026/11/22/the-ultimate-att-unix-pc-3b1-vm-w-tcp-ip-and-apps/",
+    "source": "Hacker News: Front Page",
+    "ts": 1795808433
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=50670757",
+    "title": "Michael Nielsen took down his book on neural nets",
+    "link": "https://neuralnetworksanddeeplearning.com/",
+    "source": "Hacker News: Front Page",
+    "ts": 1795807861
+  },
+  {
+    "id": "https://lobste.rs/s/d0phlt",
+    "title": "Objections to .php application being published on ICANN site",
+    "link": "https://pub.roddie.digital/3n3aavxi6hc2g",
+    "source": "Lobsters",
+    "ts": 1795803369
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=50669765",
+    "title": "Convex skills send the user's app idea to a remote server without telling them",
+    "link": "https://github.com/convex/convex-backend-skill/issues/64",
+    "source": "Hacker News: Front Page",
+    "ts": 1795802565
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=50669673",
+    "title": "Show HN: DragDropMath – Learn math by feel",
+    "link": "https://dragdropmath.com/",
+    "source": "Hacker News: Front Page",
+    "ts": 1795802188
+  },
+  {
+    "id": "https://lobste.rs/s/hizg2w",
+    "title": "Pop!_OS 26.04 LTS Has Landed",
+    "link": "https://system76.com/blog/post/pop_os-26-04-lts-has-landed",
+    "source": "Lobsters",
+    "ts": 1795797770
+  },
+  {
+    "id": "https://lobste.rs/s/c2zrmq",
+    "title": "Build your own Paint",
+    "link": "https://www.buildyourownpaint.com/en",
+    "source": "Lobsters",
+    "ts": 1795796556
+  },
+  {
+    "id": "https://lobste.rs/s/96gu7o",
+    "title": "Hard Drive pricing has gotten bad",
+    "link": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
+    "source": "Lobsters",
+    "ts": 1795796123
+  },
+  {
+    "id": "https://lobste.rs/s/u746hs",
+    "title": "The State of Allocators in 2026 - Finally Stabilised",
+    "link": "https://cetra3.github.io/blog/state-of-allocators-2026-finally-stabilised/",
+    "source": "Lobsters",
+    "ts": 1795795751
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=50668145",
+    "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
+    "link": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
+    "source": "Hacker News: Front Page",
+    "ts": 1795794031
+  },
+  {
+    "id": "https://news.ycombinator.com/item?id=50667989",
+    "title": "False computer-checked proofs",
+    "link": "https://cr.yp.to/proofs/falseccp.html",
+    "source": "Hacker News: Front Page",
+    "ts": 1795793169
+  },
+  {
+    "id": "https://lobste.rs/s/locqp9",
+    "title": "What are you doing this weekend?",
+    "link": "https://lobste.rs/s/locqp9/what_are_you_doing_this_weekend",
+    "source": "Lobsters",
+    "ts": 1795785788
+  },
+  {
+    "id": "https://lobste.rs/s/tgihkm",
+    "title": "Exception Best Practices",
+    "link": "https://www.well-typed.com/blog/2026/11/exception-best-practices/",
+    "source": "Lobsters",
+    "ts": 1795784730
+  },
+  {
+    "id": "https://lobste.rs/s/mbm7xw",
+    "title": "Tiny Hat: a new Linux distro dedicated to retro gamedev",
+    "link": "https://roboticoverlords.org/tinyhat",
+    "source": "Lobsters",
+    "ts": 1795770673
+  },
+  {
+    "id": "https://lobste.rs/s/kaj037",
+    "title": "Pimalaya goes stable",
+    "link": "https://blog.pimalaya.org/pimalaya-goes-stable/",
+    "source": "Lobsters",
+    "ts": 1795766491
+  },
+  {
+    "id": "https://lobste.rs/s/fin7at",
+    "title": "Company Culture = Slack Emoji ÷ sqrt(Headcount)",
+    "link": "https://lia.mg/posts/measuring-company-culture-with-slack-emoji/",
+    "source": "Lobsters",
+    "ts": 1795764952
+  },
+  {
     "id": "https://lobste.rs/s/lmxpfo",
     "title": "Curb impacts of AI on programming to maintain EU sovereignty",
     "link": "https://www.draketo.de/software/curb-ai-impact",
     "source": "Lobsters",
     "ts": 1795762803
-  },
-  {
-    "id": "https://news.ycombinator.com/item?id=50663666",
-    "title": "Ladybird browser's first downloadable alpha is surprisingly capable",
-    "link": "https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium/",
-    "source": "Hacker News: Front Page",
-    "ts": 1795762432
-  },
-  {
-    "id": "https://news.ycombinator.com/item?id=50663595",
-    "title": "The group chat where your AI talks behind your back",
-    "link": "https://construct22.com/",
-    "source": "Hacker News: Front Page",
-    "ts": 1795761874
-  },
-  {
-    "id": "https://news.hada.io/topic?id=37948",
-    "title": "Kagi Watch - 어린이를 위한 화면 없는 무전기",
-    "link": "https://news.hada.io/topic?id=37948&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1795761492
-  },
-  {
-    "id": "https://news.hada.io/topic?id=37947",
-    "title": "Show HN: 4년에 걸쳐 Vim 매뉴얼 한 권을 완성했습니다",
-    "link": "https://news.hada.io/topic?id=37947&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1795761311
-  },
-  {
-    "id": "https://news.hada.io/topic?id=37946",
-    "title": "C++에서 = default와 {}는 같은 생성자가 아님",
-    "link": "https://news.hada.io/topic?id=37946&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1795758106
-  },
-  {
-    "id": "https://news.hada.io/topic?id=37945",
-    "title": "Show HN: 브라우저 탭 하나에서 서로 다른 브라우저를 실행하는 Linux VM 3개",
-    "link": "https://news.hada.io/topic?id=37945&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1795757926
-  },
-  {
-    "id": "https://news.hada.io/topic?id=37944",
-    "title": "NP_R ≠ PAR_R: 실수 계산 모델에서 퍼머넌트의 짧은 인증서가 없다는 연구",
-    "link": "https://news.hada.io/topic?id=37944&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1795757745
-  },
-  {
-    "id": "https://news.ycombinator.com/item?id=50663089",
-    "title": "The need for a formally verifiable mainstream programming language",
-    "link": "https://blainehansen.me/post/mainstream-verifiable-language/",
-    "source": "Hacker News: Front Page",
-    "ts": 1795756926
-  },
-  {
-    "id": "https://news.hada.io/topic?id=37942",
-    "title": "Show GN: 웰사 한글 입력기 - adb 로 안드로이드 입력칸에 한글 넣기",
-    "link": "https://news.hada.io/topic?id=37942&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1795756694
-  },
-  {
-    "id": "https://news.ycombinator.com/item?id=50662933",
-    "title": "\"What's Claude's Fursona?\" and Other Questions",
-    "link": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona/",
-    "source": "Hacker News: Front Page",
-    "ts": 1795755378
-  },
-  {
-    "id": "https://news.hada.io/topic?id=37941",
-    "title": "영국의 유령역들",
-    "link": "https://news.hada.io/topic?id=37941&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1795754972
-  },
-  {
-    "id": "https://news.hada.io/topic?id=37939",
-    "title": "IBM, 컨설팅 부문 대부분 직무의 이민 스폰서십 종료",
-    "link": "https://news.hada.io/topic?id=37939&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1795754791
-  },
-  {
-    "id": "https://news.hada.io/topic?id=37938",
-    "title": "하드디스크 가격이 심각해졌다",
-    "link": "https://news.hada.io/topic?id=37938&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1795754611
-  },
-  {
-    "id": "https://news.hada.io/topic?id=37937",
-    "title": "기업 문화 = Slack 이모지 ÷ √직원 수",
-    "link": "https://news.hada.io/topic?id=37937&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1795754431
-  },
-  {
-    "id": "https://news.hada.io/topic?id=37934",
-    "title": "Show GN: RealView - 머스크가 공개한 테슬라 Reality View 구조를 코드로 구현, 맥북 한 대로 학습",
-    "link": "https://news.hada.io/topic?id=37934&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1795747777
-  },
-  {
-    "id": "https://news.hada.io/topic?id=37933",
-    "title": "USAID Files - 빅테크 협력과 허위정보 대응에 관한 내부 자료",
-    "link": "https://news.hada.io/topic?id=37933&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1795747036
-  },
-  {
-    "id": "https://news.hada.io/topic?id=37932",
-    "title": "Show GN: ARCUS-STACK - 매번하는 반복을 조금 더 똑똑하게, 여러 AI 코딩 에이전트에게 시킬 수 있는 스킬팩",
-    "link": "https://news.hada.io/topic?id=37932&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1795746668
-  },
-  {
-    "id": "https://lobste.rs/s/xsjwvi",
-    "title": "AI made self-hosting fun again",
-    "link": "https://janlukas.blog/posts/ai-self-hosting",
-    "source": "Lobsters",
-    "ts": 1795744242
-  },
-  {
-    "id": "https://news.hada.io/topic?id=37931",
-    "title": "리만 가설이란 무엇인가? 시각적으로 이해하기",
-    "link": "https://news.hada.io/topic?id=37931&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1795744202
-  },
-  {
-    "id": "https://news.hada.io/topic?id=37930",
-    "title": "State of AI 2026: 올해의 가장 큰 이슈와 2027년 AGI 가능성",
-    "link": "https://news.hada.io/topic?id=37930&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
-    "source": "GeekNews - 개발/기술/스타트업 뉴스 서비스",
-    "ts": 1795743602
-  },
-  {
-    "id": "https://news.ycombinator.com/item?id=50661705",
-    "title": "The Cutthroat Business of Shipwrecks",
-    "link": "https://daily.jstor.org/the-cutthroat-business-of-shipwrecks/",
-    "source": "Hacker News: Front Page",
-    "ts": 1795742509
-  },
-  {
-    "id": "https://news.ycombinator.com/item?id=50661646",
-    "title": "Hard Drive pricing has gotten bad",
-    "link": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
-    "source": "Hacker News: Front Page",
-    "ts": 1795742029
-  },
-  {
-    "id": "https://news.ycombinator.com/item?id=50660273",
-    "title": "Novita, StreamLake, etc. are ByteDance Ark wrappers",
-    "link": "https://kendell.dev/blog/arkwrapper/",
-    "source": "Hacker News: Front Page",
-    "ts": 1795730359
-  },
-  {
-    "id": "https://news.ycombinator.com/item?id=50660180",
-    "title": "AI made self-hosting fun again",
-    "link": "https://janlukas.blog/posts/ai-self-hosting",
-    "source": "Hacker News: Front Page",
-    "ts": 1795729665
-  },
-  {
-    "id": "https://lobste.rs/s/wfkkh4",
-    "title": "Ambiguous Errors Are the Mind Killer",
-    "link": "https://amit.prasad.me/blog/ambiguous-errors",
-    "source": "Lobsters",
-    "ts": 1795728186
-  },
-  {
-    "id": "https://news.ycombinator.com/item?id=50659841",
-    "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
-    "link": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
-    "source": "Hacker News: Front Page",
-    "ts": 1795727285
-  },
-  {
-    "id": "https://news.ycombinator.com/item?id=50659640",
-    "title": "Company Culture = Slack Emoji ÷ √Headcount",
-    "link": "https://lia.mg/posts/measuring-company-culture-with-slack-emoji/",
-    "source": "Hacker News: Front Page",
-    "ts": 1795726189
-  },
-  {
-    "id": "https://lobste.rs/s/byfdgn",
-    "title": "The need for a formally verifiable mainstream programming language",
-    "link": "https://blainehansen.me/post/mainstream-verifiable-language/",
-    "source": "Lobsters",
-    "ts": 1795723610
-  },
-  {
-    "id": "https://lobste.rs/s/afxeri",
-    "title": "Taking Email Back",
-    "link": "http://www.linux-magazine.com/Online/Features/Taking-Email-Back",
-    "source": "Lobsters",
-    "ts": 1795722681
-  },
-  {
-    "id": "https://news.ycombinator.com/item?id=50658632",
-    "title": "Rvoip: VoIP stack in Rust",
-    "link": "https://github.com/eisenzopf/rvoip",
-    "source": "Hacker News: Front Page",
-    "ts": 1795720689
-  },
-  {
-    "id": "https://news.ycombinator.com/item?id=50658498",
-    "title": "An introduction to uncertainty in machine learning",
-    "link": "https://chrhenning.com/blog/2026/introduction-to-uncertainty/",
-    "source": "Hacker News: Front Page",
-    "ts": 1795719890
-  },
-  {
-    "id": "https://news.ycombinator.com/item?id=50658193",
-    "title": "Largest 2D Chart library in the world using BUI: BlenderUI",
-    "link": "https://bui.preetham.top/charts/",
-    "source": "Hacker News: Front Page",
-    "ts": 1795718244
-  },
-  {
-    "id": "https://news.ycombinator.com/item?id=50657936",
-    "title": "George Whitesides, 1939-2026",
-    "link": "https://www.science.org/content/blog-post/george-whitesides-1939-2026",
-    "source": "Hacker News: Front Page",
-    "ts": 1795716787
-  },
-  {
-    "id": "https://news.ycombinator.com/item?id=50657645",
-    "title": "CTO of 'RansomwareHelp' indicted for wire fraud",
-    "link": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
-    "source": "Hacker News: Front Page",
-    "ts": 1795715265
-  },
-  {
-    "id": "https://lobste.rs/s/l8cjcz",
-    "title": "London Meetup - 13th December 2026",
-    "link": "https://lobste.rs/s/l8cjcz/london_meetup_13th_december_2026",
-    "source": "Lobsters",
-    "ts": 1795709348
-  },
-  {
-    "id": "https://lobste.rs/s/2gfpu3",
-    "title": "Garage v2.6.0 released with web admin, v1.x EoL & other news",
-    "link": "https://garagehq.deuxfleurs.fr/blog/2026-11-webadmin-release/",
-    "source": "Lobsters",
-    "ts": 1795696823
-  },
-  {
-    "id": "https://lobste.rs/s/wpylec",
-    "title": "In defense of lock poisoning in Rust (2025)",
-    "link": "https://sunshowers.io/posts/on-poisoning/",
-    "source": "Lobsters",
-    "ts": 1795693883
-  },
-  {
-    "id": "https://lobste.rs/s/nkmtqk",
-    "title": "Understanding \"You are not expected to understand this.\"",
-    "link": "https://www.taniwha.com/~paul/not.html",
-    "source": "Lobsters",
-    "ts": 1795692621
-  },
-  {
-    "id": "https://lobste.rs/s/3lkriu",
-    "title": "Ansible Fails waiting for privilege escalation on Ubuntu 26",
-    "link": "https://www.jeffgeerling.com/blog/2026/ansible-fails-become-ubuntu2604/",
-    "source": "Lobsters",
-    "ts": 1795686342
-  },
-  {
-    "id": "https://lobste.rs/s/2kwjb4",
-    "title": "Qualcomm’s Oryon 3 Reaches the Top",
-    "link": "https://chipsandcheese.com/p/qualcomms-oryon-3-reaches-the-top",
-    "source": "Lobsters",
-    "ts": 1795680138
-  },
-  {
-    "id": "https://lobste.rs/s/w4kxiz",
-    "title": "How WinHelp files work",
-    "link": "https://quin.fyi/posts/how-winhelp-files-work.html",
-    "source": "Lobsters",
-    "ts": 1795675140
   }
 ]
